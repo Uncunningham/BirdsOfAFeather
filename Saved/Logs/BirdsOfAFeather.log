@@ -2678,3 +2678,186 @@ LogInit: Object subsystem initialized
 [2019.01.25-20.27.48:682][437]LogUObjectGlobals: Created PersistentFrame Addr=0x000002989184da60, Size=224, BP_Bird_C_9712 Function /Engine/Transient.REINST_BP_Bird_C_444:ExecuteUbergraph_BP_Bird
 [2019.01.25-20.27.48:686][437]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029908c48fe0, Size=216, Default__BP_Bird_C Function /Game/Character_BPs/BP_Bird.BP_Bird_C:ExecuteUbergraph_BP_Bird
 [2019.01.25-20.27.48:959][437]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002999120fa78, Size=4
+[2019.01.25-20.28.56:982][ 77]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.01.25-20.28.57:119][ 78]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BirdsOfAFeather
+[2019.01.25-20.28.57:119][ 78]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2019.01.25-20.28.57:119][ 78]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2019.01.25-20.28.57:119][ 78]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2019.01.25-20.28.57:119][ 78]LogTemp: BranchPath = CTA-1B03-27/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = CTA-1B03-27/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2019.01.25-20.28.57:119][ 78]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\bs18abb\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.01.25-20.31.11:925][285]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.25-20.31.11:929][285]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.25-20.32.36:016][845]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029984b148c0, Size=4, Default__SKEL_BP_Bird_C Function /Game/Character_BPs/BP_Bird.SKEL_BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.25-20.32.38:968][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029984b148c0, Size=4
+[2019.01.25-20.32.38:968][114]LogUObjectGlobals: Created PersistentFrame Addr=0x000002995a9dcb50, Size=4, Default__SKEL_BP_Bird_C Function /Engine/Transient.REINST_SKEL_BP_Bird_C_448:ExecuteUbergraph_BP_Bird
+[2019.01.25-20.32.38:970][114]LogUObjectGlobals: Created PersistentFrame Addr=0x00000299a3e10140, Size=4, Default__SKEL_BP_Bird_C Function /Game/Character_BPs/BP_Bird.SKEL_BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.25-20.32.46:430][756]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000299a3e10140, Size=4
+[2019.01.25-20.32.46:430][756]LogUObjectGlobals: Created PersistentFrame Addr=0x000002999c948e98, Size=4, Default__SKEL_BP_Bird_C Function /Engine/Transient.REINST_SKEL_BP_Bird_C_450:ExecuteUbergraph_BP_Bird
+[2019.01.25-20.32.46:432][756]LogUObjectGlobals: Created PersistentFrame Addr=0x000002999c94b128, Size=4, Default__SKEL_BP_Bird_C Function /Game/Character_BPs/BP_Bird.SKEL_BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.25-20.32.47:884][881]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002999c94b128, Size=4
+[2019.01.25-20.32.47:884][881]LogUObjectGlobals: Created PersistentFrame Addr=0x00000298be743fc0, Size=4, Default__SKEL_BP_Bird_C Function /Engine/Transient.REINST_SKEL_BP_Bird_C_452:ExecuteUbergraph_BP_Bird
+[2019.01.25-20.32.47:886][881]LogUObjectGlobals: Created PersistentFrame Addr=0x00000298be742630, Size=4, Default__SKEL_BP_Bird_C Function /Game/Character_BPs/BP_Bird.SKEL_BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.25-20.33.49:048][282]BlueprintLog: New page: Compile BP_Bird
+[2019.01.25-20.33.49:055][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000298be742630, Size=4
+[2019.01.25-20.33.49:055][282]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029975de7380, Size=4, Default__SKEL_BP_Bird_C Function /Engine/Transient.REINST_SKEL_BP_Bird_C_454:ExecuteUbergraph_BP_Bird
+[2019.01.25-20.33.49:064][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029908c48fe0, Size=216
+[2019.01.25-20.33.49:064][282]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029920838d40, Size=216, BP_Bird_C_9819 Function /Engine/Transient.REINST_BP_Bird_C_457:ExecuteUbergraph_BP_Bird
+[2019.01.25-20.33.49:068][282]LogUObjectGlobals: Created PersistentFrame Addr=0x00000299a9e8ac80, Size=360, Default__BP_Bird_C Function /Game/Character_BPs/BP_Bird.BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.25-20.33.49:375][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002989184da60, Size=224
+[2019.01.25-20.33.49:375][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029975de7380, Size=4
+[2019.01.25-20.33.51:538][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_BPs/BP_Bird" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset" SILENT=true
+[2019.01.25-20.33.51:574][451]LogSavePackage: Save=31.05ms
+[2019.01.25-20.33.51:574][451]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BP_BirdD0CEAB00468609D76331F7BE7F0B76A0.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset'
+[2019.01.25-20.33.51:576][451]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset
+[2019.01.25-20.33.54:065][659]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029920838d40, Size=216
+[2019.01.25-20.33.54:811][727]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.01.25-20.33.54:823][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-20.33.54:823][727]PIE: New page: PIE session: Level1 (25 Jan 2019 20:33:54)
+[2019.01.25-20.33.54:823][727]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.01.25-20.33.54:835][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011523s)
+[2019.01.25-20.33.54:836][727]LogAIModule: Creating AISystem for world Level1
+[2019.01.25-20.33.54:836][727]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2019.01.25-20.33.54:836][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.012399s)
+[2019.01.25-20.33.54:870][727]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.25-20.33.54:889][727]LogInit: FAudioDevice initialized.
+[2019.01.25-20.33.54:949][727]LogLoad: Game class is 'BOAF_C'
+[2019.01.25-20.33.54:952][727]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.01.25-20.33.54
+[2019.01.25-20.33.54:952][727]LogWorld: Bringing up level for play took: 0.001562
+[2019.01.25-20.33.54:959][727]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.932
+[2019.01.25-20.34.16:615][428]LogSlate: Window 'BirdsOfAFeather Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.01.25-20.36.19:904][936]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.01.25-20.36.19:918][936]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.25-20.36.19:926][936]LogPlayLevel: [PlayLevel] Compiling BP_Bird before play...
+[2019.01.25-20.36.19:936][936]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000299a9e8ac80, Size=360
+[2019.01.25-20.36.19:936][936]LogUObjectGlobals: Created PersistentFrame Addr=0x00000299aab94700, Size=360, BP_Bird_C_9851 Function /Engine/Transient.REINST_BP_Bird_C_462:ExecuteUbergraph_BP_Bird
+[2019.01.25-20.36.19:942][936]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029921643280, Size=360, Default__BP_Bird_C Function /Game/Character_BPs/BP_Bird.BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.25-20.36.20:251][936]LogPlayLevel: PlayLevel: Blueprint regeneration took 333 ms (1 blueprints)
+[2019.01.25-20.36.20:251][936]PIE: New page: PIE session: Level1 (25 Jan 2019 20:36:20)
+[2019.01.25-20.36.20:251][936]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.01.25-20.36.20:264][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012363s)
+[2019.01.25-20.36.20:264][936]LogAIModule: Creating AISystem for world Level1
+[2019.01.25-20.36.20:264][936]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2019.01.25-20.36.20:264][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.013209s)
+[2019.01.25-20.36.20:292][936]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.25-20.36.20:309][936]LogInit: FAudioDevice initialized.
+[2019.01.25-20.36.20:366][936]LogLoad: Game class is 'BOAF_C'
+[2019.01.25-20.36.20:368][936]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.01.25-20.36.20
+[2019.01.25-20.36.20:368][936]LogWorld: Bringing up level for play took: 0.001539
+[2019.01.25-20.36.20:374][936]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.346
+[2019.01.25-20.36.23:159][164]LogSlate: Window 'BirdsOfAFeather Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.01.25-20.36.33:352][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_BPs/BP_Bird" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset" SILENT=true
+[2019.01.25-20.36.33:391][182]LogSavePackage: Save=34.64ms
+[2019.01.25-20.36.33:391][182]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BP_Bird9A9DA54C403B34FF4E69FB846F340434.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset'
+[2019.01.25-20.36.33:393][182]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset
+[2019.01.25-20.36.34:694][305]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.01.25-20.36.34:706][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-20.36.34:706][305]PIE: New page: PIE session: Level1 (25 Jan 2019 20:36:34)
+[2019.01.25-20.36.34:706][305]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.01.25-20.36.34:718][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011898s)
+[2019.01.25-20.36.34:719][305]LogAIModule: Creating AISystem for world Level1
+[2019.01.25-20.36.34:719][305]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2019.01.25-20.36.34:719][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.012993s)
+[2019.01.25-20.36.34:749][305]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.25-20.36.34:765][305]LogInit: FAudioDevice initialized.
+[2019.01.25-20.36.34:820][305]LogLoad: Game class is 'BOAF_C'
+[2019.01.25-20.36.34:823][305]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.01.25-20.36.34
+[2019.01.25-20.36.34:824][305]LogWorld: Bringing up level for play took: 0.002360
+[2019.01.25-20.36.34:834][305]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.805
+[2019.01.25-20.36.51:306][709]LogSlate: Window 'BirdsOfAFeather Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.01.25-20.37.15:710][767]BlueprintLog: New page: Compile BP_Bird
+[2019.01.25-20.37.15:726][767]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029921643280, Size=360
+[2019.01.25-20.37.15:726][767]LogUObjectGlobals: Created PersistentFrame Addr=0x000002999e954a00, Size=360, BP_Bird_C_9888 Function /Engine/Transient.REINST_BP_Bird_C_467:ExecuteUbergraph_BP_Bird
+[2019.01.25-20.37.15:731][767]LogUObjectGlobals: Created PersistentFrame Addr=0x000002995e256800, Size=360, Default__BP_Bird_C Function /Game/Character_BPs/BP_Bird.BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.25-20.37.16:586][797]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.01.25-20.37.16:600][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-20.37.16:600][797]PIE: New page: PIE session: Level1 (25 Jan 2019 20:37:16)
+[2019.01.25-20.37.16:600][797]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.01.25-20.37.16:616][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015559s)
+[2019.01.25-20.37.16:616][797]LogAIModule: Creating AISystem for world Level1
+[2019.01.25-20.37.16:616][797]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2019.01.25-20.37.16:616][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.016276s)
+[2019.01.25-20.37.16:636][797]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000299aab94700, Size=360
+[2019.01.25-20.37.16:636][797]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002999e954a00, Size=360
+[2019.01.25-20.37.16:650][797]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.25-20.37.16:665][797]LogInit: FAudioDevice initialized.
+[2019.01.25-20.37.16:724][797]LogLoad: Game class is 'BOAF_C'
+[2019.01.25-20.37.16:726][797]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.01.25-20.37.16
+[2019.01.25-20.37.16:726][797]LogWorld: Bringing up level for play took: 0.001398
+[2019.01.25-20.37.16:734][797]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.706
+[2019.01.25-20.37.21:415][109]LogSlate: Window 'BirdsOfAFeather Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.01.25-20.38.12:881][237]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.020
+[2019.01.25-20.38.12:884][237]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character_BPs/BP_Bird] ([1] browsable assets)...
+[2019.01.25-20.38.12:894][237]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character_BPs/BP_Bird.BP_Bird]
+[2019.01.25-20.38.12:894][237]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_BPs/BP_Bird]
+[2019.01.25-20.38.12:929][237]LogSavePackage: Save=31.01ms
+[2019.01.25-20.38.12:929][237]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BP_Bird_Auto7CFCD40614F36B6DEDE499D909B8A12D4.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Character_BPs/BP_Bird_Auto7.uasset'
+[2019.01.25-20.38.12:930][237]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Character_BPs/BP_Bird_Auto7.uasset
+[2019.01.25-20.38.12:930][237]LogFileHelpers: Auto-saving content packages took 0.047
+[2019.01.25-20.41.56:840][783]BlueprintLog: New page: Compile BP_Bird
+[2019.01.25-20.41.56:858][783]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002995e256800, Size=360
+[2019.01.25-20.41.56:858][783]LogUObjectGlobals: Created PersistentFrame Addr=0x00000299a4cbb280, Size=360, BP_Bird_C_9925 Function /Engine/Transient.REINST_BP_Bird_C_472:ExecuteUbergraph_BP_Bird
+[2019.01.25-20.41.56:863][783]LogUObjectGlobals: Created PersistentFrame Addr=0x00000299a520f880, Size=360, Default__BP_Bird_C Function /Game/Character_BPs/BP_Bird.BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.25-20.41.57:569][811]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.01.25-20.41.57:582][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-20.41.57:582][811]PIE: New page: PIE session: Level1 (25 Jan 2019 20:41:57)
+[2019.01.25-20.41.57:582][811]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.01.25-20.41.57:594][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011162s)
+[2019.01.25-20.41.57:594][811]LogAIModule: Creating AISystem for world Level1
+[2019.01.25-20.41.57:595][811]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2019.01.25-20.41.57:595][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.012051s)
+[2019.01.25-20.41.57:614][811]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000299a4cbb280, Size=360
+[2019.01.25-20.41.57:622][811]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.25-20.41.57:642][811]LogInit: FAudioDevice initialized.
+[2019.01.25-20.41.57:699][811]LogLoad: Game class is 'BOAF_C'
+[2019.01.25-20.41.57:701][811]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.01.25-20.41.57
+[2019.01.25-20.41.57:702][811]LogWorld: Bringing up level for play took: 0.001414
+[2019.01.25-20.41.57:710][811]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.32
+[2019.01.25-20.42.05:191][379]LogSlate: Window 'BirdsOfAFeather Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.01.25-20.42.09:020][698]BlueprintLog: New page: Compile BP_Bird
+[2019.01.25-20.42.09:037][698]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000299a520f880, Size=360
+[2019.01.25-20.42.09:037][698]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029935eb5300, Size=360, BP_Bird_C_9957 Function /Engine/Transient.REINST_BP_Bird_C_477:ExecuteUbergraph_BP_Bird
+[2019.01.25-20.42.09:041][698]LogUObjectGlobals: Created PersistentFrame Addr=0x00000299a721c400, Size=360, Default__BP_Bird_C Function /Game/Character_BPs/BP_Bird.BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.25-20.42.09:770][729]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.01.25-20.42.09:783][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-20.42.09:783][729]PIE: New page: PIE session: Level1 (25 Jan 2019 20:42:09)
+[2019.01.25-20.42.09:783][729]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.01.25-20.42.09:794][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010994s)
+[2019.01.25-20.42.09:794][729]LogAIModule: Creating AISystem for world Level1
+[2019.01.25-20.42.09:794][729]LogPlayLevel: PIE: World Init took: (0.000542s)
+[2019.01.25-20.42.09:795][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.011673s)
+[2019.01.25-20.42.09:813][729]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029935eb5300, Size=360
+[2019.01.25-20.42.09:821][729]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.25-20.42.09:836][729]LogInit: FAudioDevice initialized.
+[2019.01.25-20.42.09:894][729]LogLoad: Game class is 'BOAF_C'
+[2019.01.25-20.42.09:896][729]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.01.25-20.42.09
+[2019.01.25-20.42.09:896][729]LogWorld: Bringing up level for play took: 0.001375
+[2019.01.25-20.42.09:904][729]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.127
+[2019.01.25-20.42.19:349][450]LogSlate: Window 'BirdsOfAFeather Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.01.25-20.42.23:213][782]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.01.25-20.42.23:225][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-20.42.23:225][782]PIE: New page: PIE session: Level1 (25 Jan 2019 20:42:23)
+[2019.01.25-20.42.23:225][782]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.01.25-20.42.23:236][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010291s)
+[2019.01.25-20.42.23:236][782]LogAIModule: Creating AISystem for world Level1
+[2019.01.25-20.42.23:236][782]LogPlayLevel: PIE: World Init took: (0.000529s)
+[2019.01.25-20.42.23:236][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.010958s)
+[2019.01.25-20.42.23:264][782]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.25-20.42.23:279][782]LogInit: FAudioDevice initialized.
+[2019.01.25-20.42.23:337][782]LogLoad: Game class is 'BOAF_C'
+[2019.01.25-20.42.23:340][782]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.01.25-20.42.23
+[2019.01.25-20.42.23:341][782]LogWorld: Bringing up level for play took: 0.002160
+[2019.01.25-20.42.23:349][782]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.682
+[2019.01.25-20.42.27:705][115]LogSlate: Window 'BirdsOfAFeather Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.01.25-20.46.40:374][636]LogUObjectGlobals: Created PersistentFrame Addr=0x00000299a3e10380, Size=4, Default__SKEL_BP_Bird_C Function /Game/Character_BPs/BP_Bird.SKEL_BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.25-20.47.11:577][429]BlueprintLog: New page: Compile BP_Bird
+[2019.01.25-20.47.11:585][429]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000299a3e10380, Size=4
+[2019.01.25-20.47.11:585][429]LogUObjectGlobals: Created PersistentFrame Addr=0x00000299a14c2930, Size=4, Default__SKEL_BP_Bird_C Function /Engine/Transient.REINST_SKEL_BP_Bird_C_481:ExecuteUbergraph_BP_Bird
+[2019.01.25-20.47.11:599][429]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000299a721c400, Size=360
+[2019.01.25-20.47.11:599][429]LogUObjectGlobals: Created PersistentFrame Addr=0x00000299aaf36e00, Size=360, BP_Bird_C_10004 Function /Engine/Transient.REINST_BP_Bird_C_484:ExecuteUbergraph_BP_Bird
+[2019.01.25-20.47.11:603][429]LogUObjectGlobals: Created PersistentFrame Addr=0x00000299a1270100, Size=360, Default__BP_Bird_C Function /Game/Character_BPs/BP_Bird.BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.25-20.47.11:909][429]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000299a14c2930, Size=4
+[2019.01.25-20.47.12:894][505]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000299aaf36e00, Size=360
+[2019.01.25-20.47.12:922][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_BPs/BP_Bird" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset" SILENT=true
+[2019.01.25-20.47.12:969][505]LogSavePackage: Save=41.94ms
+[2019.01.25-20.47.12:969][505]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BP_Bird685B03CE41506095C52C5587416E36DA.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset'
+[2019.01.25-20.47.12:971][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset
