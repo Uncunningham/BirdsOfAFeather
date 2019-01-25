@@ -1,0 +1,1302 @@
+﻿Log file open, 01/25/19 18:09:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BirdsOfAFeather
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1488551145) SRandInit(-1488551145).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.287550
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/HoudiniEngine/Binaries/Win64/UE4Editor-HoudiniEngineRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/HoudiniEngine/Binaries/Win64/UE4Editor-HoudiniEngineEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.238s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am CTA-1B03-28 (147.197.216.140:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal  -epicusername="Zarzebeu" -epicuserid=40f9c7f63b994bc29462f24cf3ddb4e5 -epiclocale=en-GB
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.25-18.09.14:242][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.25-18.09.14:242][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.25-18.09.14:250][  0]LogInit: Computer: CTA-1B03-28
+[2019.01.25-18.09.14:250][  0]LogInit: User: bc18aav
+[2019.01.25-18.09.14:250][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.25-18.09.14:250][  0]LogInit: High frequency timer resolution =3.515630 MHz
+[2019.01.25-18.09.14:250][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.01.25-18.09.14:250][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.25-18.09.14:250][  0]LogMemory: Process Physical Memory: 274.55 MB used, 274.55 MB peak
+[2019.01.25-18.09.14:250][  0]LogMemory: Process Virtual Memory: 264.79 MB used, 264.79 MB peak
+[2019.01.25-18.09.14:250][  0]LogMemory: Physical Memory: 5514.52 MB used,  10724.49 MB free, 16239.01 MB total
+[2019.01.25-18.09.14:250][  0]LogMemory: Virtual Memory: 4791.92 MB used,  10724.49 MB free, 134217728.00 MB total
+[2019.01.25-18.09.14:422][  0]LogInit: Using OS detected language (en-GB).
+[2019.01.25-18.09.14:422][  0]LogInit: Using OS detected locale (en-GB).
+[2019.01.25-18.09.14:427][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.01.25-18.09.14:770][  0]LogStreaming: Display: Took  0.348s to EndInitTextLocalization.
+[2019.01.25-18.09.14:770][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.25-18.09.14:797][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.25-18.09.14:797][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.25-18.09.15:005][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.25-18.09.15:033][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.01.25-18.09.15:033][  0]LogD3D11RHI:       4059/0/8119 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.25-18.09.15:041][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.01.25-18.09.15:042][  0]LogD3D11RHI:       128/0/8119 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.01.25-18.09.15:043][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.25-18.09.15:043][  0]LogD3D11RHI:       0/0/8119 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.25-18.09.15:043][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.25-18.09.15:049][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.25-18.09.15:049][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.25-18.09.15:049][  0]LogWindows: EnumDisplayDevices:
+[2019.01.25-18.09.15:049][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2019.01.25-18.09.15:049][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.01.25-18.09.15:049][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.01.25-18.09.15:049][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.01.25-18.09.15:050][  0]LogWindows:    4. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2019.01.25-18.09.15:050][  0]LogWindows:    5. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.01.25-18.09.15:050][  0]LogWindows:    6. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.01.25-18.09.15:050][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.01.25-18.09.15:050][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.01.25-18.09.15:050][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.01.25-18.09.15:050][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.01.25-18.09.15:050][  0]LogRHI: Texture pool is 2841 MB (70% of 4059 MB)
+[2019.01.25-18.09.15:066][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2019.01.25-18.09.15:067][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.01.25-18.09.15:067][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.25-18.09.15:077][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.01.25-18.09.15:127][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Intermediate/Shaders/WorkingDirectory/5820/).
+[2019.01.25-18.09.15:128][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/bc18aav/AppData/Local/Temp/UnrealShaderWorkingDir/08F1BE304D2086EFAAFD058B03F5A4B4/'.
+[2019.01.25-18.09.15:390][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.25-18.09.15:401][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.25-18.09.15:413][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.25-18.09.15:425][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.25-18.09.15:440][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.25-18.09.15:452][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.25-18.09.15:463][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.25-18.09.15:475][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.25-18.09.15:481][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.25-18.09.15:490][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.01.25-18.09.15:500][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.01.25-18.09.15:510][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.01.25-18.09.15:519][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.01.25-18.09.15:529][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.01.25-18.09.15:539][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.01.25-18.09.15:559][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.01.25-18.09.15:559][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.01.25-18.09.15:572][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-18.09.15:574][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.25-18.09.15:611][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.25-18.09.15:623][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.25-18.09.15:633][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.25-18.09.15:643][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.25-18.09.15:653][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.25-18.09.15:667][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.25-18.09.15:667][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.25-18.09.15:847][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.25-18.09.15:847][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.25-18.09.15:847][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.25-18.09.16:502][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.25-18.09.16:567][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/bc18aav/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.01.25-18.09.16:567][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/bc18aav/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.01.25-18.09.16:567][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.25-18.09.16:567][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.25-18.09.16:567][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.25-18.09.16:567][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.25-18.09.16:580][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.25-18.09.16:593][  0]LogDerivedDataCache: Using Local data cache path C:/Users/bc18aav/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.25-18.09.16:593][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.25-18.09.16:593][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.25-18.09.16:602][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.25-18.09.16:603][  0]LogSlate: Using Freetype 2.6.0
+[2019.01.25-18.09.16:603][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.25-18.09.16:603][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.25-18.09.16:731][  0]LogAssetRegistry: FAssetRegistry took 0.0255 seconds to start up
+[2019.01.25-18.09.16:988][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.25-18.09.17:217][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.25-18.09.17:220][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.25-18.09.17:220][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.25-18.09.17:220][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.25-18.09.17:220][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.01.25-18.09.17:220][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.01.25-18.09.17:254][  0]LogNetVersion: BirdsOfAFeather , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2130924952)
+[2019.01.25-18.09.17:616][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.063724 seconds
+[2019.01.25-18.09.17:620][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2019.01.25-18.09.17:620][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2019.01.25-18.09.17:620][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.25-18.09.19:194][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.25-18.09.19:225][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.25-18.09.19:618][  0]SourceControl: Source control is disabled
+[2019.01.25-18.09.19:618][  0]SourceControl: Source control is disabled
+[2019.01.25-18.09.19:639][  0]SourceControl: Source control is disabled
+[2019.01.25-18.09.19:660][  0]SourceControl: Source control is disabled
+[2019.01.25-18.09.20:257][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.25-18.09.20:420][  0]LogHoudiniEngine: Starting the Houdini Engine module.
+[2019.01.25-18.09.20:432][  0]LogHoudiniEngine: Loaded libHAPIL.dll from HFS environment path C:/PROGRA~1/SIDEEF~1/HOUDIN~1.439/bin
+[2019.01.25-18.09.20:433][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_logo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.25-18.09.20:435][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.25-18.09.20:439][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.25-18.09.24:346][  0]LogHoudiniEngine: Successfully intialized the Houdini Engine API module.
+[2019.01.25-18.09.24:410][  0]LogOcInput: OculusInput pre-init called
+[2019.01.25-18.09.24:531][  0]LogEngine: Initializing Engine...
+[2019.01.25-18.09.24:532][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.25-18.09.24:533][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.25-18.09.24:533][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.25-18.09.24:743][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.25-18.09.24:762][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.25-18.09.24:782][  0]LogInit: FAudioDevice initialized.
+[2019.01.25-18.09.24:858][  0]LogDerivedDataCache: Saved boot cache 0.08s 74MB C:/Users/bc18aav/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.01.25-18.09.24:875][  0]LogInit: Texture streaming: Enabled
+[2019.01.25-18.09.24:892][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.25-18.09.24:909][  0]LogInit: Transaction tracking system initialized
+[2019.01.25-18.09.24:940][  0]BlueprintLog: New page: Editor Load
+[2019.01.25-18.09.25:033][  0]LocalizationService: Localization service is disabled
+[2019.01.25-18.09.25:137][  0]LogConsoleResponse: Display: 
+[2019.01.25-18.09.25:282][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.25-18.09.25:282][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/' took 0.01s
+[2019.01.25-18.09.25:282][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.25-18.09.25:282][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.25-18.09.25:282][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.25-18.09.25:282][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.25-18.09.25:730][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2019.01.25-18.09.25:798][  0]SourceControl: Source control is disabled
+[2019.01.25-18.09.25:798][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.25-18.09.25:799][  0]LightingResults: New page: Lighting Build
+[2019.01.25-18.09.25:802][  0]MapCheck: New page: Map Check
+[2019.01.25-18.09.25:802][  0]LightingResults: New page: Lighting Build
+[2019.01.25-18.09.25:997][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.01.25-18.09.26:003][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.25-18.09.26:014][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.25-18.09.26:080][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.813ms to complete.
+[2019.01.25-18.09.26:080][  0]LogFileHelpers: Loading map 'Template_Default' took 0.281
+[2019.01.25-18.09.26:222][  0]LogCollectionManager: Loaded 0 collections in 0.001806 seconds
+[2019.01.25-18.09.26:267][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Collections/' took 0.01s
+[2019.01.25-18.09.26:267][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Developers/bc18aav/Collections/' took 0.01s
+[2019.01.25-18.09.26:267][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Collections/' took 0.01s
+[2019.01.25-18.09.26:267][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.01.25-18.09.26:276][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2486 classes and 565 folders.
+[2019.01.25-18.09.26:286][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.25-18.09.26:435][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.25-18.09.26:440][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.01.25-18.09.26:458][  0]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.25-18.09.26:461][  0]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.25-18.09.26:472][  0]LogSlate: Took 0.001394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.25-18.09.26:597][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.01.25-18.09.26:760][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-18.09.26:782][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.01.25-18.09.26:820][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.25-18.09.26:820][  0]LogLoad: (Engine Initialization) Total time: 15.58 seconds
+[2019.01.25-18.09.26:820][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.25-18.09.26:830][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.25-18.09.26:844][  0]LogAssetRegistry: Asset discovery search completed in 10.1360 seconds
+[2019.01.25-18.09.26:848][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.25-18.09.26:848][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
+[2019.01.25-18.09.26:848][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.25-18.09.26:870][  0]LogSlate: Took 0.001757 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.25-18.09.30:574][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.09.43:837][993]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.25-18.09.43:866][993]LogAIModule: Creating AISystem for world MenuMap
+[2019.01.25-18.09.43:879][993]Cmd: MAP LOAD FILE="../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/MenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.25-18.09.43:880][993]LightingResults: New page: Lighting Build
+[2019.01.25-18.09.43:880][993]LoadErrors: New page: Loading map: MenuMap.umap
+[2019.01.25-18.09.43:881][993]MapCheck: New page: Map Check
+[2019.01.25-18.09.43:881][993]LightingResults: New page: Lighting Build
+[2019.01.25-18.09.43:892][993]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.25-18.09.43:907][993]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.25-18.09.43:983][993]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 75.47ms to complete.
+[2019.01.25-18.09.43:983][993]LogFileHelpers: Loading map 'MenuMap' took 0.104
+[2019.01.25-18.17.44:426][431]LogDirectoryWatcher: Warning: Failed to begin reading directory changes for ../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Plugins/. Error: The system cannot find the file specified. (0x00000002)
+[2019.01.25-18.17.55:906][775]LogSlate: Window 'New Plugin' being destroyed
+[2019.01.25-18.17.55:910][775]LogSlate: Window 'New Plugin' being destroyed
+[2019.01.25-18.17.56:959][900]LogSlate: Window 'Plugins' being destroyed
+[2019.01.25-18.17.56:964][900]LogSlate: Window 'Plugins' being destroyed
+[2019.01.25-18.17.56:964][900]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.01.25-18.18.46:180][788]LogEditorViewport: Clicking Background
+[2019.01.25-18.18.47:136][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.18.48:241][ 33]LogEditorViewport: Clicking Background
+[2019.01.25-18.20.39:779][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.21.06:003][894]LogSlate: Window 'Save Content' being destroyed
+[2019.01.25-18.21.06:082][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapTest" FILE="../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/MapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.25-18.21.06:100][894]LogSavePackage: Save=5.28ms
+[2019.01.25-18.21.06:100][894]LogSavePackage: Moving '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/MapTestA7FF116F41C5DF2D3ABE848C7A0D8087.tmp' to '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/MapTest.umap'
+[2019.01.25-18.21.06:104][894]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/MapTest.umap
+[2019.01.25-18.21.06:104][894]LogFileHelpers: Saving map 'MapTest' took 0.094
+[2019.01.25-18.21.06:107][894]Cmd: MAP LOAD FILE="../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/MapTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.25-18.21.06:107][894]LightingResults: New page: Lighting Build
+[2019.01.25-18.21.06:108][894]LoadErrors: New page: Loading map: MapTest.umap
+[2019.01.25-18.21.06:108][894]MapCheck: New page: Map Check
+[2019.01.25-18.21.06:108][894]LightingResults: New page: Lighting Build
+[2019.01.25-18.21.06:118][894]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.25-18.21.06:119][894]LogAIModule: Creating AISystem for world MapTest
+[2019.01.25-18.21.06:136][894]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.25-18.21.06:214][894]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 78.281ms to complete.
+[2019.01.25-18.21.06:216][894]LogFileHelpers: Loading map 'MapTest' took 0.110
+[2019.01.25-18.21.08:164][112]Cmd: MAP LOAD FILE="../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/MapTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.25-18.21.08:164][112]LightingResults: New page: Lighting Build
+[2019.01.25-18.21.08:164][112]LoadErrors: New page: Loading map: MapTest.umap
+[2019.01.25-18.21.08:165][112]MapCheck: New page: Map Check
+[2019.01.25-18.21.08:165][112]LightingResults: New page: Lighting Build
+[2019.01.25-18.21.08:176][112]LogAIModule: Creating AISystem for world MapTest
+[2019.01.25-18.21.08:177][112]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.25-18.21.08:195][112]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.25-18.21.08:269][112]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 75.006ms to complete.
+[2019.01.25-18.21.08:270][112]LogFileHelpers: Loading map 'MapTest' took 0.108
+[2019.01.25-18.21.10:013][316]LogAIModule: Creating AISystem for world MenuMap
+[2019.01.25-18.21.10:023][316]Cmd: MAP LOAD FILE="../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/MenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.25-18.21.10:023][316]LightingResults: New page: Lighting Build
+[2019.01.25-18.21.10:024][316]LoadErrors: New page: Loading map: MenuMap.umap
+[2019.01.25-18.21.10:024][316]MapCheck: New page: Map Check
+[2019.01.25-18.21.10:024][316]LightingResults: New page: Lighting Build
+[2019.01.25-18.21.10:035][316]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.25-18.21.10:050][316]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.25-18.21.10:117][316]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66.704ms to complete.
+[2019.01.25-18.21.10:117][316]LogFileHelpers: Loading map 'MenuMap' took 0.094
+[2019.01.25-18.21.11:147][434]LogAIModule: Creating AISystem for world MapTest
+[2019.01.25-18.21.11:158][434]Cmd: MAP LOAD FILE="../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/MapTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.25-18.21.11:158][434]LightingResults: New page: Lighting Build
+[2019.01.25-18.21.11:158][434]LoadErrors: New page: Loading map: MapTest.umap
+[2019.01.25-18.21.11:159][434]MapCheck: New page: Map Check
+[2019.01.25-18.21.11:159][434]LightingResults: New page: Lighting Build
+[2019.01.25-18.21.11:169][434]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.25-18.21.11:185][434]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.25-18.21.11:257][434]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71.353ms to complete.
+[2019.01.25-18.21.11:257][434]LogFileHelpers: Loading map 'MapTest' took 0.099
+[2019.01.25-18.21.17:824][206]LogActorFactory: Actor Factory created Cube
+[2019.01.25-18.21.18:136][242]LogActorFactory: Actor Factory created Cube
+[2019.01.25-18.21.29:234][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.22.20:252][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.01.25-18.22.35:080][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.22.45:881][554]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -380.00,-200.00,250.00
+[2019.01.25-18.22.46:535][623]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -380.00,-200.00,250.00
+[2019.01.25-18.23.02:563][386]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-18.23.05:407][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.01.25-18.23.07:324][901]Cmd: DELETE
+[2019.01.25-18.23.07:324][901]Cmd: ACTOR DELETE
+[2019.01.25-18.23.07:326][901]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.25-18.23.07:337][901]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2019.01.25-18.23.10:856][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.23.13:160][593]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.25-18.23.18:115][144]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2019.01.25-18.23.25:098][876]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2019.01.25-18.23.34:297][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.23.54:071][ 85]LogEditorViewport: Clicking Background
+[2019.01.25-18.24.00:181][757]LogEditorViewport: Clicking Background
+[2019.01.25-18.24.10:897][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.24.14:973][509]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.25-18.24.17:205][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.24.18:329][864]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush2)
+[2019.01.25-18.24.18:367][864]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-18.24.19:694][  7]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2019.01.25-18.24.19:694][  7]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.01.25-18.24.19:752][  7]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-18.24.33:845][577]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2019.01.25-18.24.33:846][577]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.01.25-18.24.35:854][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.24.37:787][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.24.43:130][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.24.52:441][753]Cmd: TRANSACTION UNDO
+[2019.01.25-18.24.52:441][753]LogEditorTransaction: Undo Move Actors
+[2019.01.25-18.24.53:969][920]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2019.01.25-18.25.12:713][ 34]LogEditorViewport: Clicking Background
+[2019.01.25-18.25.16:653][479]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.01.25-18.25.43:395][434]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-18.25.58:027][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.26.00:844][396]LogEditorViewport: Clicking Background
+[2019.01.25-18.26.11:593][618]LogEditorViewport: Clicking Background
+[2019.01.25-18.26.18:262][356]LogGeometryMode: Warning: Unable to find BoxBrush2 Brush(s) in new BSP
+[2019.01.25-18.26.18:262][356]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.01.25-18.26.20:262][580]LogEditorViewport: Clicking Background
+[2019.01.25-18.26.28:658][537]LogEditorViewport: Clicking Background
+[2019.01.25-18.26.37:714][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.26.41:675][991]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush3)
+[2019.01.25-18.26.45:945][471]LogEditorViewport: Clicking Background
+[2019.01.25-18.26.50:184][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.26.52:546][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.27.03:116][402]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2019.01.25-18.27.03:116][402]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.01.25-18.27.07:196][823]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-18.27.07:507][859]LogEditorViewport: Clicking Background
+[2019.01.25-18.27.10:126][160]LogEditorViewport: Clicking Background
+[2019.01.25-18.27.20:127][257]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush4)
+[2019.01.25-18.27.21:509][419]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush4)
+[2019.01.25-18.27.23:756][655]LogEditorViewport: Clicking Background
+[2019.01.25-18.27.56:117][525]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-18.27.57:041][634]MapCheck: New page: Map Check
+[2019.01.25-18.27.57:049][634]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-18.27.57:052][634]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.25-18.27.57:053][634]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.25-18.27.57:066][634]LightingResults: New page: Lighting Build - 25 Jan 2019 18:27:57
+[2019.01.25-18.27.57:136][634]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.25-18.27.57:276][634]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.25-18.27.57:287][634]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.25-18.27.58:299][634]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.25-18.27.58:299][634]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5820
+[2019.01.25-18.28.02:745][634]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.01.25-18.28.02:745][634]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.25-18.28.02:745][634]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.25-18.28.02:745][634]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.25-18.28.02:745][634]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.25-18.28.02:745][634]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.25-18.28.02:844][634]LogEditorBuildUtils: Build time 0:05
+[2019.01.25-18.28.02:851][634]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.01.25-18.28.02:860][634]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.01.25-18.28.02:871][635]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.25-18.28.03:654][635]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.25-18.28.05:073][712]Job is a success!
+[2019.01.25-18.28.05:098][713]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-18.28.05:129][713]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.020s
+[2019.01.25-18.28.05:129][713]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.01.25-18.28.05:130][713]LogVolumetricLightmapImport:      BrickData 190x5x5 = 0.2Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2019.01.25-18.28.05:130][713]LogVolumetricLightmapImport:      Bricks at Level
+[2019.01.25-18.28.05:130][713]LogVolumetricLightmapImport:          0: 2.6% covering 100.0% of volume
+[2019.01.25-18.28.05:130][713]LogVolumetricLightmapImport:          1: 7.9% covering 4.7% of volume
+[2019.01.25-18.28.05:130][713]LogVolumetricLightmapImport:          2: 89.5% covering 0.8% of volume
+[2019.01.25-18.28.05:327][713]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.01.25-18.28.05:327][713]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.01.25-18.28.05:327][713]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X512)
+[2019.01.25-18.28.05:357][713]Lightmass on CTA-1B03-28: 1.08 sec total, 75 ms importing, 2 ms setup, 407 ms photons, 568 ms processing, 0 ms extra exporting [18/18 mappings]. Threads: 3.81 sec total, 508 ms processing.
+[2019.01.25-18.28.05:384][713]LogStaticLightingSystem: Illumination: 8.30 sec (114 ms encoding lightmaps, 57 ms encoding shadowmaps)
+[2019.01.25-18.28.05:384][713]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 2 textures
+[2019.01.25-18.28.05:384][713]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.0 MB streaming, 0.3 MB non-streaming), 1 textures
+[2019.01.25-18.28.05:749][713]DumpUnbuiltLightIteractions
+[2019.01.25-18.28.05:749][713]Lights with unbuilt interactions: 0
+[2019.01.25-18.28.05:749][713]
+[2019.01.25-18.28.05:749][713]Primitives with unbuilt interactions: 0
+[2019.01.25-18.28.05:755][713]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-18.28.05:772][714]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.25-18.28.05:772][714]MapCheck: New page: MapTest - 25 Jan 2019 18:28:05
+[2019.01.25-18.28.05:848][714]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 77.057ms to complete.
+[2019.01.25-18.28.52:282][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.31.12:658][612]LogSavePackage: Save=21.68ms
+[2019.01.25-18.31.12:658][612]LogSavePackage: Moving '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/MapTest_Auto1A2790BD944B9DEF8414F318B308A3D47.tmp' to '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Autosaves/Game/Maps/MapTest_Auto1.umap'
+[2019.01.25-18.31.12:660][612]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Autosaves/Game/Maps/MapTest_Auto1.umap
+[2019.01.25-18.31.12:662][612]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MapTest' took 0.040
+[2019.01.25-18.31.12:662][612]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.040
+[2019.01.25-18.31.12:664][612]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/MapTest_BuiltData] ([1] browsable assets)...
+[2019.01.25-18.31.12:664][612]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/MapTest_BuiltData]
+[2019.01.25-18.31.12:675][612]LogSavePackage: Save=9.12ms
+[2019.01.25-18.31.12:675][612]LogSavePackage: Moving '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/MapTest_BuiltData_Auto1D1AE6BD647A4FE669F5E168CFC67815C.tmp' to '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Autosaves/Game/Maps/MapTest_BuiltData_Auto1.uasset'
+[2019.01.25-18.31.12:677][612]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Autosaves/Game/Maps/MapTest_BuiltData_Auto1.uasset
+[2019.01.25-18.31.12:677][612]LogFileHelpers: Auto-saving content packages took 0.013
+[2019.01.25-18.42.06:120][751]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2019.01.25-18.42.15:116][813]LogEditorViewport: Clicking Background
+[2019.01.25-18.43.05:506][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.43.05:615][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapTest" FILE="../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/MapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.25-18.43.05:645][864]LogSavePackage: Save=17.54ms
+[2019.01.25-18.43.05:645][864]LogSavePackage: Moving '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/MapTestBB0E4CD6458E1906DDC9BFA1DD2EE1FD.tmp' to '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/MapTest.umap'
+[2019.01.25-18.43.05:648][864]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/MapTest.umap
+[2019.01.25-18.43.05:658][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapTest_BuiltData" FILE="../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/MapTest_BuiltData.uasset" SILENT=true
+[2019.01.25-18.43.05:696][864]LogSavePackage: Save=37.78ms
+[2019.01.25-18.43.05:696][864]LogSavePackage: Moving '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/MapTest_BuiltDataFE9B707F48DC42DA8D7D80B53A8D45B8.tmp' to '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/MapTest_BuiltData.uasset'
+[2019.01.25-18.43.05:699][864]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/MapTest_BuiltData.uasset
+[2019.01.25-18.43.15:432][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.58.15:194][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.58.26:078][ 11]LogSlate: Window 'Save Content' being destroyed
+[2019.01.25-18.58.26:161][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.25-18.58.26:174][ 11]LogSavePackage: Save=3.71ms
+[2019.01.25-18.58.26:174][ 11]LogSavePackage: Moving '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Level1D92B0FDF42ECE0DB103FA88B50AAA350.tmp' to '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1.umap'
+[2019.01.25-18.58.26:176][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1.umap
+[2019.01.25-18.58.26:176][ 11]LogFileHelpers: Saving map 'Level1' took 0.092
+[2019.01.25-18.58.26:179][ 11]Cmd: MAP LOAD FILE="../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.25-18.58.26:179][ 11]LightingResults: New page: Lighting Build
+[2019.01.25-18.58.26:180][ 11]LoadErrors: New page: Loading map: Level1.umap
+[2019.01.25-18.58.26:181][ 11]MapCheck: New page: Map Check
+[2019.01.25-18.58.26:181][ 11]LightingResults: New page: Lighting Build
+[2019.01.25-18.58.26:228][ 11]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.25-18.58.26:228][ 11]LogAIModule: Creating AISystem for world Level1
+[2019.01.25-18.58.26:248][ 11]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.25-18.58.26:324][ 11]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 75.485ms to complete.
+[2019.01.25-18.58.26:326][ 11]LogFileHelpers: Loading map 'Level1' took 0.148
+[2019.01.25-18.58.40:931][736]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.25-18.58.44:449][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.58.56:675][542]Cmd: TRANSACTION UNDO
+[2019.01.25-18.58.56:675][542]LogEditorTransaction: Undo Move Actors
+[2019.01.25-18.58.59:783][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.59.07:405][692]LogEditorViewport: Clicking Background
+[2019.01.25-18.59.08:546][811]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush)
+[2019.01.25-18.59.10:771][ 27]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.01.25-18.59.14:300][429]LogEditorViewport: Clicking Background
+[2019.01.25-18.59.18:112][876]LogEditorViewport: Clicking Background
+[2019.01.25-18.59.19:342][  7]LogEditorViewport: Clicking Background
+[2019.01.25-18.59.22:337][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.59.26:668][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.59.28:391][ 61]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.25-18.59.35:585][813]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-18.59.40:661][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.59.42:799][595]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush2)
+[2019.01.25-18.59.49:123][285]LogEditorViewport: Clicking Background
+[2019.01.25-18.59.55:520][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.59.59:060][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.00.01:866][754]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.25-19.00.06:653][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.00.11:054][801]LogEditorViewport: Clicking Background
+[2019.01.25-19.00.12:807][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.00.26:500][492]LogEditorViewport: Clicking Background
+[2019.01.25-19.01.08:747][ 41]LogEditorViewport: Clicking Background
+[2019.01.25-19.01.11:106][275]LogEditorViewport: Clicking Background
+[2019.01.25-19.01.11:382][304]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-19.01.17:978][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.01.20:658][337]LogEditorViewport: Clicking Background
+[2019.01.25-19.01.29:330][366]LogEditorViewport: Clicking Background
+[2019.01.25-19.01.32:217][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.01.35:705][786]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2019.01.25-19.01.44:867][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.01.51:171][543]LogEditorViewport: Clicking Background
+[2019.01.25-19.01.53:415][806]LogEditorViewport: Clicking Background
+[2019.01.25-19.01.57:407][277]LogEditorViewport: Clicking Background
+[2019.01.25-19.01.59:245][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.02.04:207][ 54]LogEditorViewport: Clicking Background
+[2019.01.25-19.02.14:726][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.02.14:826][290]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.01.25-19.02.19:162][791]LogEditorViewport: Clicking Background
+[2019.01.25-19.02.28:288][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.02.59:333][274]Cmd: TRANSACTION UNDO
+[2019.01.25-19.02.59:334][274]LogEditorTransaction: Undo Move Actors
+[2019.01.25-19.02.59:341][274]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2019.01.25-19.02.59:341][274]LogGeometryMode: Warning: Unable to find 5 Poly(s) in new BSP
+[2019.01.25-19.02.59:341][274]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2019.01.25-19.02.59:341][274]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.01.25-19.03.08:222][264]LogEditorViewport: Clicking Background
+[2019.01.25-19.03.53:323][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.03.56:570][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.04.00:020][ 72]LogSlate: Window 'Save Content' being destroyed
+[2019.01.25-19.04.00:102][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.25-19.04.00:177][ 72]LogSavePackage: Save=60.35ms
+[2019.01.25-19.04.00:177][ 72]LogSavePackage: Moving '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Level18D0B9EFB4F7D8D04196D0592D7047138.tmp' to '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1.umap'
+[2019.01.25-19.04.00:179][ 72]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1.umap
+[2019.01.25-19.04.00:212][ 72]LogFileHelpers: Saving map 'Level1' took 0.185
+[2019.01.25-19.04.00:215][ 72]Cmd: MAP LOAD FILE="../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.25-19.04.00:215][ 72]LightingResults: New page: Lighting Build
+[2019.01.25-19.04.00:216][ 72]LoadErrors: New page: Loading map: Level1.umap
+[2019.01.25-19.04.00:216][ 72]MapCheck: New page: Map Check
+[2019.01.25-19.04.00:216][ 72]LightingResults: New page: Lighting Build
+[2019.01.25-19.04.00:238][ 72]LogAIModule: Creating AISystem for world Level1
+[2019.01.25-19.04.00:239][ 72]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.25-19.04.00:263][ 72]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.25-19.04.00:331][ 72]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 67.751ms to complete.
+[2019.01.25-19.04.00:332][ 72]LogFileHelpers: Loading map 'Level1' took 0.119
+[2019.01.25-19.04.08:052][956]LogEditorViewport: Clicking Background
+[2019.01.25-19.04.10:758][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.04.18:345][ 77]LogEditorViewport: Clicking Background
+[2019.01.25-19.04.33:059][707]LogEditorViewport: Clicking Background
+[2019.01.25-19.04.39:419][412]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2019.01.25-19.04.39:419][412]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.01.25-19.04.43:922][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.04.43:996][909]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.01.25-19.04.49:181][477]LogEditorViewport: Clicking Background
+[2019.01.25-19.04.56:250][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.05.09:310][723]LogEditorViewport: Clicking Background
+[2019.01.25-19.05.27:248][740]LogEditorViewport: Clicking Background
+[2019.01.25-19.05.46:313][985]LogEditorViewport: Clicking Background
+[2019.01.25-19.05.50:340][441]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush)
+[2019.01.25-19.05.56:688][185]LogEditorViewport: Clicking Background
+[2019.01.25-19.05.59:351][477]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush)
+[2019.01.25-19.07.34:006][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.07.34:089][751]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.01.25-19.07.36:766][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.07.42:705][684]LogEditorViewport: Clicking Background
+[2019.01.25-19.07.58:522][476]LogEditorViewport: Clicking Background
+[2019.01.25-19.07.59:736][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.08.03:826][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.08.03:884][ 61]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.01.25-19.08.06:772][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.08.08:269][558]LogEditorViewport: Clicking Background
+[2019.01.25-19.08.10:047][745]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.01.25-19.08.15:813][409]LogEditorViewport: Clicking Background
+[2019.01.25-19.08.26:387][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.08.26:446][663]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.01.25-19.08.31:368][222]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2019.01.25-19.08.31:368][222]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.01.25-19.08.38:189][  9]LogEditorViewport: Clicking Background
+[2019.01.25-19.08.46:085][934]LogEditorViewport: Clicking Background
+[2019.01.25-19.08.54:572][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.09.00:347][527]LogEditorViewport: Clicking Background
+[2019.01.25-19.09.13:440][978]LogEditorViewport: Clicking Background
+[2019.01.25-19.09.16:653][326]LogEditorViewport: Clicking Background
+[2019.01.25-19.09.19:116][604]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.01.25-19.09.22:825][ 27]LogEditorViewport: Clicking Background
+[2019.01.25-19.09.25:783][369]LogEditorViewport: Clicking Background
+[2019.01.25-19.09.29:738][828]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush4)
+[2019.01.25-19.09.36:292][580]LogEditorViewport: Clicking Background
+[2019.01.25-19.09.39:135][901]LogEditorViewport: Clicking Background
+[2019.01.25-19.09.56:345][921]LogEditorViewport: Clicking Background
+[2019.01.25-19.10.10:500][551]LogEditorViewport: Clicking Background
+[2019.01.25-19.10.21:539][796]LogEditorViewport: Clicking Background
+[2019.01.25-19.10.46:438][710]LogEditorViewport: Clicking Background
+[2019.01.25-19.10.58:162][991]LogEditorViewport: Clicking Background
+[2019.01.25-19.11.41:632][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.11.45:937][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.11.46:624][755]LogSlate: Took 0.001558 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.25-19.12.15:386][173]LogEditorViewport: Clicking Background
+[2019.01.25-19.12.17:837][447]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-19.12.18:981][582]MapCheck: New page: Map Check
+[2019.01.25-19.12.18:990][582]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-19.12.18:993][582]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.25-19.12.18:995][582]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.25-19.12.19:008][582]LightingResults: New page: Lighting Build - 25 Jan 2019 19:12:19
+[2019.01.25-19.12.19:017][582]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.25-19.12.19:023][582]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.25-19.12.19:023][582]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.25-19.12.19:024][582]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.25-19.12.19:024][582]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5820
+[2019.01.25-19.12.23:548][582]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.01.25-19.12.23:548][582]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.25-19.12.23:548][582]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.25-19.12.23:548][582]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.25-19.12.23:548][582]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.25-19.12.23:548][582]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.25-19.12.23:611][582]LogEditorBuildUtils: Build time 0:04
+[2019.01.25-19.12.24:887][655]Job is a success!
+[2019.01.25-19.12.24:909][657]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-19.12.24:935][657]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.015s
+[2019.01.25-19.12.24:935][657]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.01.25-19.12.24:935][657]LogVolumetricLightmapImport:      BrickData 250x5x5 = 0.2Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2019.01.25-19.12.24:935][657]LogVolumetricLightmapImport:      Bricks at Level
+[2019.01.25-19.12.24:935][657]LogVolumetricLightmapImport:          0: 2.0% covering 100.0% of volume
+[2019.01.25-19.12.24:935][657]LogVolumetricLightmapImport:          1: 8.0% covering 6.3% of volume
+[2019.01.25-19.12.24:935][657]LogVolumetricLightmapImport:          2: 90.0% covering 1.1% of volume
+[2019.01.25-19.12.25:149][657]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.01.25-19.12.25:149][657]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.01.25-19.12.25:150][657]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X512)
+[2019.01.25-19.12.25:176][657]Lightmass on CTA-1B03-28: 1.17 sec total, 80 ms importing, 5 ms setup, 414 ms photons, 622 ms processing, 0 ms extra exporting [46/46 mappings]. Threads: 4.18 sec total, 831 ms processing.
+[2019.01.25-19.12.25:187][657]LogStaticLightingSystem: Illumination: 6.16 sec (129 ms encoding lightmaps, 52 ms encoding shadowmaps)
+[2019.01.25-19.12.25:187][657]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 2 textures
+[2019.01.25-19.12.25:187][657]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.0 MB streaming, 0.3 MB non-streaming), 1 textures
+[2019.01.25-19.12.25:551][657]DumpUnbuiltLightIteractions
+[2019.01.25-19.12.25:551][657]Lights with unbuilt interactions: 0
+[2019.01.25-19.12.25:551][657]
+[2019.01.25-19.12.25:551][657]Primitives with unbuilt interactions: 0
+[2019.01.25-19.12.25:558][657]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-19.12.25:577][658]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.25-19.12.25:577][658]MapCheck: New page: Level1 - 25 Jan 2019 19:12:25
+[2019.01.25-19.12.25:653][658]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 76.682ms to complete.
+[2019.01.25-19.12.28:417][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.12.41:175][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.12.58:540][483]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.01.25-19.13.30:419][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.13.47:669][257]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.25-19.13.48:135][309]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.25-19.13.50:732][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.14.10:708][944]Cmd: TRANSACTION UNDO
+[2019.01.25-19.14.10:708][944]LogEditorTransaction: Undo Edit Sun Brightness
+[2019.01.25-19.14.14:405][367]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2019.01.25-19.14.14:417][367]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2019.01.25-19.14.18:442][826]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush4)
+[2019.01.25-19.14.20:048][  0]LogEditorViewport: Clicking Background
+[2019.01.25-19.14.27:732][899]LogEditorViewport: Clicking Background
+[2019.01.25-19.14.39:317][190]LogEditorViewport: Clicking Background
+[2019.01.25-19.14.44:719][807]LogEditorViewport: Clicking Background
+[2019.01.25-19.14.46:413][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.14.49:107][278]LogEditorViewport: Clicking Background
+[2019.01.25-19.14.53:236][746]LogEditorViewport: Clicking Background
+[2019.01.25-19.14.54:063][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.15.01:123][632]LogEditorViewport: Clicking Background
+[2019.01.25-19.15.05:392][106]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2019.01.25-19.15.07:802][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.15.11:946][855]LogEditorViewport: Clicking Background
+[2019.01.25-19.15.15:432][255]LogEditorViewport: Clicking Background
+[2019.01.25-19.15.36:809][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.15.36:898][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.25-19.15.36:980][806]LogSavePackage: Save=64.87ms
+[2019.01.25-19.15.36:980][806]LogSavePackage: Moving '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Level1B538A7E647A2AB47274193BBFE080AD7.tmp' to '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1.umap'
+[2019.01.25-19.15.36:982][806]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1.umap
+[2019.01.25-19.15.36:994][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2019.01.25-19.15.37:035][806]LogSavePackage: Save=39.70ms
+[2019.01.25-19.15.37:035][806]LogSavePackage: Moving '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Level1_BuiltData000AF10C44CF3C326CBF42B967F33AC2.tmp' to '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1_BuiltData.uasset'
+[2019.01.25-19.15.37:037][806]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1_BuiltData.uasset
+[2019.01.25-19.15.41:985][360]LogEditorViewport: Clicking Background
+[2019.01.25-19.15.46:831][897]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush2)
+[2019.01.25-19.15.50:628][304]LogEditorViewport: Clicking Background
+[2019.01.25-19.15.55:258][852]LogEditorViewport: Clicking Background
+[2019.01.25-19.15.57:665][112]LogEditorViewport: Clicking Background
+[2019.01.25-19.16.00:725][445]LogEditorViewport: Clicking Background
+[2019.01.25-19.16.02:001][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.16.03:138][712]LogEditorViewport: Clicking Background
+[2019.01.25-19.16.16:630][258]LogEditorViewport: Clicking Background
+[2019.01.25-19.16.20:050][626]LogEditorViewport: Clicking Background
+[2019.01.25-19.16.31:187][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.16.33:735][229]LogEditorViewport: Clicking Background
+[2019.01.25-19.16.49:428][105]LogEditorViewport: Clicking Background
+[2019.01.25-19.16.51:079][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.16.51:449][331]LogEditorViewport: Clicking Background
+[2019.01.25-19.24.18:363][659]LogEditorViewport: Clicking Background
+[2019.01.25-19.24.22:160][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-19.24.22:800][156]LogEditorViewport: Clicking Background
+[2019.01.25-19.24.28:425][802]LogEditorViewport: Clicking Background
+[2019.01.25-19.25.09:695][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.25.09:769][662]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.01.25-19.25.14:838][234]LogEditorViewport: Clicking Background
+[2019.01.25-19.25.21:981][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.25.24:359][320]LogEditorViewport: Clicking Background
+[2019.01.25-19.25.34:832][496]LogEditorViewport: Clicking Background
+[2019.01.25-19.25.47:722][987]LogEditorViewport: Clicking Background
+[2019.01.25-19.25.58:678][258]LogEditorViewport: Clicking Background
+[2019.01.25-19.26.06:500][158]LogEditorViewport: Clicking Background
+[2019.01.25-19.26.08:917][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.26.15:638][212]LogEditorViewport: Clicking Background
+[2019.01.25-19.26.16:134][269]Cmd: TRANSACTION UNDO
+[2019.01.25-19.26.16:134][269]LogEditorTransaction: Undo Clicking Background
+[2019.01.25-19.26.16:426][296]Cmd: TRANSACTION UNDO
+[2019.01.25-19.26.16:426][296]LogEditorTransaction: Undo Select Brush Surface
+[2019.01.25-19.26.16:662][322]Cmd: TRANSACTION UNDO
+[2019.01.25-19.26.16:662][322]LogEditorTransaction: Undo Clicking Background
+[2019.01.25-19.26.16:899][344]Cmd: TRANSACTION UNDO
+[2019.01.25-19.26.16:899][344]LogEditorTransaction: Undo Select Brush Surface
+[2019.01.25-19.26.17:134][371]Cmd: TRANSACTION UNDO
+[2019.01.25-19.26.17:134][371]LogEditorTransaction: Undo Clicking Background
+[2019.01.25-19.26.17:374][396]Cmd: TRANSACTION UNDO
+[2019.01.25-19.26.17:374][396]LogEditorTransaction: Undo Move Actors
+[2019.01.25-19.26.17:377][396]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level1.Level1:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2019.01.25-19.26.17:620][420]Cmd: TRANSACTION UNDO
+[2019.01.25-19.26.17:620][420]LogEditorTransaction: Undo Modifier [Edit]
+[2019.01.25-19.26.17:854][443]Cmd: TRANSACTION UNDO
+[2019.01.25-19.26.17:854][443]LogEditorTransaction: Undo Select Brush Surface
+[2019.01.25-19.26.18:092][470]Cmd: TRANSACTION UNDO
+[2019.01.25-19.26.18:092][470]LogEditorTransaction: Undo Clicking Background
+[2019.01.25-19.26.18:412][505]Cmd: TRANSACTION UNDO
+[2019.01.25-19.26.18:412][505]LogEditorTransaction: Undo Move Actors
+[2019.01.25-19.26.18:690][533]Cmd: TRANSACTION UNDO
+[2019.01.25-19.26.18:690][533]LogEditorTransaction: Undo Modifier [Edit]
+[2019.01.25-19.26.19:069][574]Cmd: TRANSACTION UNDO
+[2019.01.25-19.26.19:069][574]LogEditorTransaction: Undo Select Brush Surface
+[2019.01.25-19.26.19:471][621]Cmd: TRANSACTION UNDO
+[2019.01.25-19.26.19:472][621]LogEditorTransaction: Undo Clicking Background
+[2019.01.25-19.26.19:835][660]Cmd: TRANSACTION UNDO
+[2019.01.25-19.26.19:835][660]LogEditorTransaction: Undo Move Actors
+[2019.01.25-19.26.20:373][719]Cmd: TRANSACTION UNDO
+[2019.01.25-19.26.20:373][719]LogEditorTransaction: Undo Modifier [Edit]
+[2019.01.25-19.26.20:702][754]Cmd: TRANSACTION UNDO
+[2019.01.25-19.26.20:702][754]LogEditorTransaction: Undo Modifier [Edit]
+[2019.01.25-19.26.21:037][791]Cmd: TRANSACTION UNDO
+[2019.01.25-19.26.21:037][791]LogEditorTransaction: Undo Select Brush Surface
+[2019.01.25-19.26.21:411][834]Cmd: TRANSACTION UNDO
+[2019.01.25-19.26.21:411][834]LogEditorTransaction: Undo Clicking Background
+[2019.01.25-19.26.21:719][867]Cmd: TRANSACTION UNDO
+[2019.01.25-19.26.21:719][867]LogEditorTransaction: Undo Move Actors
+[2019.01.25-19.26.21:901][883]Cmd: TRANSACTION UNDO
+[2019.01.25-19.26.21:901][883]LogEditorTransaction: Undo Modifier [Edit]
+[2019.01.25-19.26.22:190][913]Cmd: TRANSACTION UNDO
+[2019.01.25-19.26.22:190][913]LogEditorTransaction: Undo Select Brush Surface
+[2019.01.25-19.26.22:395][936]Cmd: TRANSACTION UNDO
+[2019.01.25-19.26.22:395][936]LogEditorTransaction: Undo Clicking Background
+[2019.01.25-19.26.22:594][955]Cmd: TRANSACTION UNDO
+[2019.01.25-19.26.22:595][955]LogEditorTransaction: Undo Move Actors
+[2019.01.25-19.26.22:841][979]Cmd: TRANSACTION UNDO
+[2019.01.25-19.26.22:841][979]LogEditorTransaction: Undo Modifier [Extrude]
+[2019.01.25-19.26.27:613][512]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush8)
+[2019.01.25-19.26.28:341][594]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush8)
+[2019.01.25-19.26.29:608][739]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush8)
+[2019.01.25-19.26.29:981][780]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush8)
+[2019.01.25-19.26.30:721][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.26.32:941][109]LogEditorViewport: Clicking Background
+[2019.01.25-19.26.44:616][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.26.48:959][900]LogEditorViewport: Clicking Background
+[2019.01.25-19.26.54:385][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.26.54:467][510]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.01.25-19.27.00:666][209]Cmd: TRANSACTION UNDO
+[2019.01.25-19.27.00:666][209]LogEditorTransaction: Undo Move Actors
+[2019.01.25-19.27.00:670][209]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level1.Level1:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2019.01.25-19.27.00:676][209]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2019.01.25-19.27.00:676][209]LogGeometryMode: Warning: Unable to resolve BoxBrush8 Brush in new BSP, see above
+[2019.01.25-19.27.00:676][209]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.01.25-19.27.02:444][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.27.17:299][  9]LogEditorViewport: Clicking Background
+[2019.01.25-19.27.20:163][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.27.20:237][337]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.01.25-19.27.23:186][655]LogEditorViewport: Clicking Background
+[2019.01.25-19.27.28:767][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.27.31:614][602]LogEditorViewport: Clicking Background
+[2019.01.25-19.27.36:111][ 91]LogEditorViewport: Clicking Background
+[2019.01.25-19.27.40:378][568]LogEditorViewport: Clicking Background
+[2019.01.25-19.27.47:527][391]LogEditorViewport: Clicking Background
+[2019.01.25-19.27.54:354][168]LogEditorViewport: Clicking Background
+[2019.01.25-19.28.00:982][905]LogEditorViewport: Clicking Background
+[2019.01.25-19.28.16:612][693]LogEditorViewport: Clicking Background
+[2019.01.25-19.28.24:875][653]LogEditorViewport: Clicking Background
+[2019.01.25-19.28.37:298][ 37]LogEditorViewport: Clicking Background
+[2019.01.25-19.28.45:317][960]LogEditorViewport: Clicking Background
+[2019.01.25-19.28.51:491][646]LogEditorViewport: Clicking Background
+[2019.01.25-19.28.56:807][247]LogEditorViewport: Clicking Background
+[2019.01.25-19.29.00:621][671]LogEditorViewport: Clicking Background
+[2019.01.25-19.29.06:935][382]LogEditorViewport: Clicking Background
+[2019.01.25-19.29.14:149][206]LogEditorViewport: Clicking Background
+[2019.01.25-19.29.16:700][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.29.19:155][768]LogEditorViewport: Clicking Background
+[2019.01.25-19.29.30:756][ 87]Cmd: TRANSACTION UNDO
+[2019.01.25-19.29.30:757][ 87]LogEditorTransaction: Undo Move Actors
+[2019.01.25-19.29.30:763][ 87]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level1.Level1:PersistentLevel.BoxBrush5.BrushComponent0) Component already registered.
+[2019.01.25-19.29.31:721][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.29.34:583][514]LogEditorViewport: Clicking Background
+[2019.01.25-19.29.45:122][712]LogEditorViewport: Clicking Background
+[2019.01.25-19.30.22:357][166]LogEditorViewport: Clicking Background
+[2019.01.25-19.30.27:298][752]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-19.30.27:326][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Autosaves/Game/Maps/Level1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.01.25-19.30.27:515][752]LogSavePackage: Save=186.02ms
+[2019.01.25-19.30.27:515][752]LogSavePackage: Moving '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Level1_Auto282EDAD4E44AA5EDB64E4D49C25EBA0CF.tmp' to '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Autosaves/Game/Maps/Level1_Auto2.umap'
+[2019.01.25-19.30.27:518][752]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Autosaves/Game/Maps/Level1_Auto2.umap
+[2019.01.25-19.30.27:519][752]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.206
+[2019.01.25-19.30.27:519][752]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.206
+[2019.01.25-19.30.54:640][977]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-19.32.00:915][799]LogEditorViewport: Clicking Background
+[2019.01.25-19.32.24:295][372]LogEditorViewport: Clicking Background
+[2019.01.25-19.32.26:413][599]LogEditorViewport: Clicking Background
+[2019.01.25-19.32.30:750][116]LogEditorViewport: Clicking Background
+[2019.01.25-19.32.36:427][765]LogEditorViewport: Clicking Background
+[2019.01.25-19.32.43:481][864]LogEditorViewport: Clicking Background
+[2019.01.25-19.32.47:144][272]LogEditorViewport: Clicking Background
+[2019.01.25-19.32.57:586][471]LogEditorViewport: Clicking Background
+[2019.01.25-19.32.59:441][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.33.00:137][757]LogEditorViewport: Clicking Background
+[2019.01.25-19.33.03:269][ 99]LogEditorViewport: Clicking Background
+[2019.01.25-19.33.23:823][408]LogEditorViewport: Clicking Background
+[2019.01.25-19.33.27:498][816]LogEditorViewport: Clicking Background
+[2019.01.25-19.33.35:882][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.34.00:338][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.34.06:380][106]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-19.34.07:790][270]LogEditorViewport: Clicking Background
+[2019.01.25-19.34.16:859][302]LogEditorViewport: Clicking Background
+[2019.01.25-19.34.17:919][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.34.23:284][ 16]LogEditorViewport: Clicking Background
+[2019.01.25-19.34.27:090][432]LogEditorViewport: Clicking Background
+[2019.01.25-19.34.35:723][402]LogEditorViewport: Clicking Background
+[2019.01.25-19.34.39:467][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.34.39:542][825]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.01.25-19.34.41:546][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.34.46:947][680]LogEditorViewport: Clicking Background
+[2019.01.25-19.34.48:155][822]Cmd: TRANSACTION UNDO
+[2019.01.25-19.34.48:155][822]LogEditorTransaction: Undo Clicking Background
+[2019.01.25-19.34.48:854][872]Cmd: TRANSACTION UNDO
+[2019.01.25-19.34.48:854][872]LogEditorTransaction: Undo Move Actors
+[2019.01.25-19.34.48:862][872]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level1.Level1:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2019.01.25-19.34.48:862][872]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level1.Level1:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2019.01.25-19.34.48:869][872]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2019.01.25-19.34.48:869][872]LogGeometryMode: Warning: Unable to resolve BoxBrush15 Brush in new BSP, see above
+[2019.01.25-19.34.48:869][872]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.01.25-19.34.49:963][997]LogEditorViewport: Clicking Background
+[2019.01.25-19.34.53:599][390]LogEditorViewport: Clicking Background
+[2019.01.25-19.34.57:540][860]LogEditorViewport: Clicking Background
+[2019.01.25-19.35.06:468][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.35.06:551][896]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.01.25-19.35.14:839][820]LogEditorViewport: Clicking Background
+[2019.01.25-19.35.35:291][192]LogEditorViewport: Clicking Background
+[2019.01.25-19.35.49:504][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.36.17:835][ 38]LogEditorViewport: Clicking Background
+[2019.01.25-19.36.23:513][654]LogEditorViewport: Clicking Background
+[2019.01.25-19.36.30:702][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.36.33:600][734]LogEditorViewport: Clicking Background
+[2019.01.25-19.36.35:026][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.36.37:450][158]LogEditorViewport: Clicking Background
+[2019.01.25-19.36.41:294][598]LogEditorViewport: Clicking Background
+[2019.01.25-19.36.53:046][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.36.59:005][652]LogEditorViewport: Clicking Background
+[2019.01.25-19.37.00:444][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.37.02:420][ 42]LogEditorViewport: Clicking Background
+[2019.01.25-19.37.05:218][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.37.07:771][639]LogEditorViewport: Clicking Background
+[2019.01.25-19.37.08:939][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.37.13:332][258]LogEditorViewport: Clicking Background
+[2019.01.25-19.37.40:015][434]LogEditorViewport: Clicking Background
+[2019.01.25-19.37.49:822][544]LogEditorViewport: Clicking Background
+[2019.01.25-19.37.56:760][322]LogEditorViewport: Clicking Background
+[2019.01.25-19.38.08:033][651]Cmd: EDCALLBACK SURFPROPS
+[2019.01.25-19.38.09:526][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.38.11:719][ 67]LogEditorViewport: Clicking Background
+[2019.01.25-19.38.23:151][375]LogEditorViewport: Clicking Background
+[2019.01.25-19.38.39:534][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.38.40:074][387]LogEditorViewport: Clicking Background
+[2019.01.25-19.38.41:119][505]LogEditorViewport: Clicking Background
+[2019.01.25-19.38.42:653][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.38.52:227][714]LogEditorViewport: Clicking Background
+[2019.01.25-19.39.20:832][698]LogEditorViewport: Clicking Background
+[2019.01.25-19.39.26:758][370]Cmd: TRANSACTION UNDO
+[2019.01.25-19.39.26:758][370]LogEditorTransaction: Undo Move Actors
+[2019.01.25-19.39.26:775][370]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2019.01.25-19.39.26:775][370]LogGeometryMode: Warning: Unable to resolve BoxBrush21 Brush in new BSP, see above
+[2019.01.25-19.39.26:775][370]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.01.25-19.39.28:498][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.39.28:823][590]LogEditorViewport: Clicking Background
+[2019.01.25-19.39.32:106][961]LogEditorViewport: Clicking Background
+[2019.01.25-19.40.27:085][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.40.32:092][521]LogEditorViewport: Clicking Background
+[2019.01.25-19.40.43:605][876]LogEditorViewport: Clicking Background
+[2019.01.25-19.40.53:923][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.40.57:807][504]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.41.00:858][848]LogEditorViewport: Clicking Background
+[2019.01.25-19.41.06:449][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.41.11:728][ 46]LogGeometryMode: Warning: Unable to find BoxBrush8 Brush(s) in new BSP
+[2019.01.25-19.41.11:728][ 46]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.01.25-19.41.15:451][452]LogEditorViewport: Clicking Background
+[2019.01.25-19.41.22:932][268]LogEditorViewport: Clicking Background
+[2019.01.25-19.41.40:269][315]LogEditorViewport: Clicking Background
+[2019.01.25-19.41.42:264][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.41.45:770][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.41.45:836][939]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.01.25-19.41.57:299][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.42.00:981][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.42.01:072][610]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2019.01.25-19.42.06:759][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.42.08:962][485]LogEditorViewport: Clicking Background
+[2019.01.25-19.42.36:630][798]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-19.42.36:662][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Autosaves/Game/Maps/Level1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.01.25-19.42.37:346][798]LogSavePackage: Save=680.19ms
+[2019.01.25-19.42.37:346][798]LogSavePackage: Moving '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Level1_Auto38C4B7FB04581F25C0D36478288150A40.tmp' to '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Autosaves/Game/Maps/Level1_Auto3.umap'
+[2019.01.25-19.42.37:348][798]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Autosaves/Game/Maps/Level1_Auto3.umap
+[2019.01.25-19.42.37:350][798]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.707
+[2019.01.25-19.42.37:350][798]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.707
+[2019.01.25-19.42.57:683][206]LogEditorViewport: Clicking Background
+[2019.01.25-19.43.00:020][468]LogEditorViewport: Clicking Background
+[2019.01.25-19.43.43:090][588]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-19.45.02:187][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-19.45.02:193][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.25-19.45.02:794][ 33]LogSavePackage: Save=586.52ms
+[2019.01.25-19.45.02:794][ 33]LogSavePackage: Moving '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Level158AD50894E128E46CA5A96BAAC254CFF.tmp' to '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1.umap'
+[2019.01.25-19.45.02:797][ 33]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1.umap
+[2019.01.25-19.45.02:816][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2019.01.25-19.45.02:855][ 33]LogSavePackage: Save=36.03ms
+[2019.01.25-19.45.02:855][ 33]LogSavePackage: Moving '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Level1_BuiltData090E69DF48127BE200F22C8858F57BE7.tmp' to '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1_BuiltData.uasset'
+[2019.01.25-19.45.02:857][ 33]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1_BuiltData.uasset
+[2019.01.25-19.50.50:417][229]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-19.50.58:280][119]LogEditorViewport: Clicking Background
+[2019.01.25-19.51.07:218][129]LogEditorViewport: Clicking Background
+[2019.01.25-19.51.15:998][554]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-19.51.27:410][438]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-19.51.30:607][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.51.32:522][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.51.33:268][103]LogEditorViewport: Clicking Background
+[2019.01.25-19.51.34:980][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.51.40:127][857]LogEditorViewport: Clicking Background
+[2019.01.25-19.51.44:549][365]LogEditorViewport: Clicking Background
+[2019.01.25-19.52.26:788][348]LogEditorViewport: Clicking Background
+[2019.01.25-19.52.30:962][780]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-19.52.31:632][858]LogEditorViewport: Clicking Background
+[2019.01.25-19.52.36:670][397]LogEditorViewport: Clicking Background
+[2019.01.25-19.52.41:777][947]LogEditorViewport: Clicking Background
+[2019.01.25-19.52.56:085][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.52.59:331][  1]LogEditorViewport: Clicking Background
+[2019.01.25-19.55.01:947][514]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-19.55.01:996][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Autosaves/Game/Maps/Level1_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.01.25-19.55.02:142][514]LogSavePackage: Save=139.43ms
+[2019.01.25-19.55.02:142][514]LogSavePackage: Moving '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Level1_Auto4999861794ADDF47D40AA5AAD6EFF1597.tmp' to '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Autosaves/Game/Maps/Level1_Auto4.umap'
+[2019.01.25-19.55.02:143][514]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Autosaves/Game/Maps/Level1_Auto4.umap
+[2019.01.25-19.55.02:145][514]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.184
+[2019.01.25-19.55.02:145][514]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.184
+[2019.01.25-19.55.20:954][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.55.21:050][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.25-19.55.21:206][731]LogSavePackage: Save=140.85ms
+[2019.01.25-19.55.21:207][731]LogSavePackage: Moving '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Level18686955545BFA7450FB3DF8E1056CCB8.tmp' to '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1.umap'
+[2019.01.25-19.55.21:209][731]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1.umap
+[2019.01.25-19.55.21:220][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2019.01.25-19.55.21:262][731]LogSavePackage: Save=37.42ms
+[2019.01.25-19.55.21:262][731]LogSavePackage: Moving '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Level1_BuiltData43DCCECE4DB5F5606B975581A4B9C2AA.tmp' to '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1_BuiltData.uasset'
+[2019.01.25-19.55.21:263][731]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Maps/Level1_BuiltData.uasset
+[2019.01.25-19.56.19:264][599]LogEditorViewport: Clicking Background
+[2019.01.25-19.56.30:589][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.56.30:646][702]LogMaterial: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2019.01.25-19.56.30:669][702]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.25-19.56.30:669][702]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2019.01.25-19.56.30:689][702]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.25-19.56.30:689][702]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.25-19.56.30:689][702]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2019.01.25-19.56.30:714][702]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.25-19.56.30:714][702]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2019.01.25-19.56.30:740][702]LogMaterial: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2019.01.25-19.56.30:780][702]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.01.25-19.56.30:789][702]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.01.25-19.56.30:801][702]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.01.25-19.56.30:813][702]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.01.25-19.56.30:829][702]LogMaterial: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2019.01.25-19.56.30:840][702]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.01.25-19.56.30:854][702]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2019.01.25-19.56.30:871][702]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.01.25-19.56.33:056][859]LogShaderCompilers: Display: Shaders left to compile 178
+[2019.01.25-19.56.34:201][953]LogShaderCompilers: Display: Shaders left to compile 168
+[2019.01.25-19.56.34:222][955]LogShaderCompilers: Display: Shaders left to compile 158
+[2019.01.25-19.56.34:222][955]LogShaderCompilers: Display: Shaders left to compile 148
+[2019.01.25-19.56.35:869][ 91]LogShaderCompilers: Display: Shaders left to compile 138
+[2019.01.25-19.56.36:526][141]LogShaderCompilers: Display: Shaders left to compile 128
+[2019.01.25-19.56.36:895][163]LogShaderCompilers: Display: Shaders left to compile 118
+[2019.01.25-19.56.37:051][177]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.01.25-19.56.39:005][338]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.01.25-19.56.39:537][379]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.01.25-19.56.39:979][412]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.01.25-19.56.40:197][430]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.01.25-19.56.42:004][580]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.01.25-19.56.42:561][628]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.01.25-19.56.43:083][672]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.01.25-19.56.43:194][681]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.25-19.56.43:392][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.56.44:890][849]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.25-19.56.45:335][897]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.25-19.56.55:025][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.57.05:185][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.57.05:357][249]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.01.25-19.57.05:378][249]LogMaterial: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2019.01.25-19.57.11:536][249]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.01.25-19.57.11:536][249]LogShaderCompilers: Display: Shaders left to compile 111
+[2019.01.25-19.57.11:536][249]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.01.25-19.57.11:536][249]LogShaderCompilers: Display: Shaders left to compile 109
+[2019.01.25-19.57.11:536][249]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.01.25-19.57.11:536][249]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.01.25-19.57.11:536][249]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.01.25-19.57.11:536][249]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.01.25-19.57.11:536][249]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.01.25-19.57.11:536][249]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 101
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 99
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.25-19.57.11:537][249]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.25-19.57.11:538][249]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.25-19.57.14:155][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.57.14:753][603]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.01.25-19.57.19:155][ 69]LogEditorViewport: Clicking Background
+[2019.01.25-19.57.32:367][597]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.01.25-19.57.33:613][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.57.39:016][298]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.01.25-19.57.40:782][504]Cmd: DELETE
+[2019.01.25-19.57.40:785][504]Cmd: ACTOR DELETE
+[2019.01.25-19.57.40:792][504]LogEditorActor: Deleted Actor: Landscape
+[2019.01.25-19.57.40:810][504]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.01.25-19.57.42:972][735]LogEditorViewport: Clicking Background
+[2019.01.25-19.57.43:140][751]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-19.57.43:834][832]LogEditorViewport: Clicking Background
+[2019.01.25-19.57.45:531][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.57.48:342][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.58.03:439][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.58.03:543][127]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2019.01.25-19.58.05:612][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.58.06:300][426]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.01.25-19.58.11:702][ 56]LogEditorViewport: Clicking Background
+[2019.01.25-19.58.14:368][360]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.01.25-19.58.15:646][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.58.16:431][562]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.01.25-19.58.17:819][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.58.26:702][626]Cmd: TRANSACTION UNDO
+[2019.01.25-19.58.26:702][626]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.01.25-19.58.26:711][626]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2019.01.25-19.58.32:082][206]Cmd: TRANSACTION UNDO
+[2019.01.25-19.58.32:082][206]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.01.25-19.58.32:091][206]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2019.01.25-19.58.33:178][301]Cmd: TRANSACTION UNDO
+[2019.01.25-19.58.33:178][301]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.01.25-19.58.33:187][301]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2019.01.25-19.58.33:533][340]Cmd: TRANSACTION UNDO
+[2019.01.25-19.58.33:533][340]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.01.25-19.58.33:542][340]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2019.01.25-19.58.33:758][363]Cmd: TRANSACTION UNDO
+[2019.01.25-19.58.33:758][363]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.01.25-19.58.33:767][363]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2019.01.25-19.58.36:245][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.58.43:925][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-19.58.51:719][486]Cmd: TRANSACTION UNDO
+[2019.01.25-19.58.51:719][486]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.01.25-19.58.51:728][486]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2019.01.25-20.05.21:684][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Autosaves/Game/Maps/Level1_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.01.25-20.05.21:695][ 46]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2019.01.25-20.05.21:803][ 46]LogSavePackage: Save=113.02ms
+[2019.01.25-20.05.21:803][ 46]LogSavePackage: Moving '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Level1_Auto5636F664F46DE142C57727AA747704B49.tmp' to '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Autosaves/Game/Maps/Level1_Auto5.umap'
+[2019.01.25-20.05.21:805][ 46]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Autosaves/Game/Maps/Level1_Auto5.umap
+[2019.01.25-20.05.21:807][ 46]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.135
+[2019.01.25-20.05.21:807][ 46]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.135
