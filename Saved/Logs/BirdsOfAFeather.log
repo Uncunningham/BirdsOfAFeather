@@ -437,3 +437,81 @@ LogInit: Object subsystem initialized
 [2019.01.25-17.57.36:609][106]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/MenuMap0DE18F1A4A31358D8E9EE794F1798AB2.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Maps/MenuMap.umap'
 [2019.01.25-17.57.36:612][106]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Maps/MenuMap.umap
 [2019.01.25-17.57.36:620][106]LogFileHelpers: Saving map 'MenuMap' took 0.097
+[2019.01.25-18.10.56:582][551]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.01.25-18.11.34:876][978]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.01.25-18.13.00:124][598]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.01.25-18.13.55:104][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/BlankSprite" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/BlankSprite.uasset" SILENT=true
+[2019.01.25-18.13.55:110][760]LogSavePackage: Save=4.36ms
+[2019.01.25-18.13.55:110][760]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BlankSprite39107AB843CB27F8A6C83DB4AF6D03F3.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/BlankSprite.uasset'
+[2019.01.25-18.13.55:112][760]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/BlankSprite.uasset
+[2019.01.25-18.13.55:116][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prop_BPs/BP_BLank" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Prop_BPs/BP_BLank.uasset" SILENT=true
+[2019.01.25-18.13.55:124][760]LogSavePackage: Save=6.66ms
+[2019.01.25-18.13.55:124][760]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BP_BLank5DDECB564DFD6626B828C8B1E4ADF0A7.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Prop_BPs/BP_BLank.uasset'
+[2019.01.25-18.13.55:126][760]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Prop_BPs/BP_BLank.uasset
+[2019.01.25-18.13.55:136][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/BlankParticle" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/BlankParticle.uasset" SILENT=true
+[2019.01.25-18.13.55:140][760]LogSavePackage: Save=2.97ms
+[2019.01.25-18.13.55:140][760]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BlankParticle8E5D59A84B1705AB37DA608A1557D3AA.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/BlankParticle.uasset'
+[2019.01.25-18.13.55:142][760]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/BlankParticle.uasset
+[2019.01.25-18.13.55:158][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/BlankMaterial" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Materials/BlankMaterial.uasset" SILENT=true
+[2019.01.25-18.13.55:169][760]LogSavePackage: Save=9.59ms
+[2019.01.25-18.13.55:169][760]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BlankMaterialDACC234B4AF06D71E0B177B338DA1ED6.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Materials/BlankMaterial.uasset'
+[2019.01.25-18.13.55:171][760]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Materials/BlankMaterial.uasset
+[2019.01.25-18.13.55:174][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enviroment/BP_BLank" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/BP_BLank.uasset" SILENT=true
+[2019.01.25-18.13.55:180][760]LogSavePackage: Save=4.97ms
+[2019.01.25-18.13.55:180][760]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BP_BLank81610EBD4329FC643E20199F0A7EF1F3.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/BP_BLank.uasset'
+[2019.01.25-18.13.55:182][760]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/BP_BLank.uasset
+[2019.01.25-18.13.55:186][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_BPs/BP_Bird" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset" SILENT=true
+[2019.01.25-18.13.55:196][760]LogSavePackage: Save=8.03ms
+[2019.01.25-18.13.55:196][760]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BP_BirdB5E927A748140A15F4069890E229E47B.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset'
+[2019.01.25-18.13.55:198][760]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset
+[2019.01.25-18.40.56:394][955]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2019.01.25-18.40.56:638][955]LogUObjectGlobals: Created PersistentFrame Addr=0x00000298ab41d4e0, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.01.25-18.40.56:639][955]LogUObjectGlobals: Created PersistentFrame Addr=0x00000298ab41d4d8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.01.25-18.41.00:452][326]LogSlate: Took 0.003101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.25-18.41.47:970][893]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-18.41.51:537][306]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-18.41.55:818][794]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-18.41.57:258][960]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-18.41.59:882][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.42.09:033][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.42.30:646][ 28]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\bs18abb\Documents\GitHub\Birds-of-a-Feather\BP_Character\puffin_adult_breedingplumage_1200x675.jpg)
+[2019.01.25-18.42.30:654][ 28]LogTexture: Display: Building textures: puffin_adult_breedingplumage_1200x675 (AutoDXT, 768X432)
+[2019.01.25-18.42.32:732][156]LogSlate: Took 0.001429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.25-18.42.37:457][693]LogSlate: Window 'BlankSprite*' being destroyed
+[2019.01.25-18.42.37:462][693]LogSlate: Window 'BlankSprite*' being destroyed
+[2019.01.25-18.42.51:036][208]BlueprintLog: New page: Compile BP_Bird
+[2019.01.25-18.42.52:966][416]LogSlate: Window 'BP_Bird*' being destroyed
+[2019.01.25-18.42.52:969][416]LogSlate: Window 'BP_Bird*' being destroyed
+[2019.01.25-18.43.24:215][305]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MenuMap' took 0.016
+[2019.01.25-18.43.24:217][305]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character_BPs/BP_Bird] ([1] browsable assets)...
+[2019.01.25-18.43.24:217][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_BPs/BP_Bird]
+[2019.01.25-18.43.24:229][305]LogSavePackage: Save=7.59ms
+[2019.01.25-18.43.24:229][305]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BP_Bird_Auto167C97DB54820F5E6A0FEFC9F64EE9817.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Character_BPs/BP_Bird_Auto1.uasset'
+[2019.01.25-18.43.24:231][305]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Character_BPs/BP_Bird_Auto1.uasset
+[2019.01.25-18.43.24:232][305]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/BlankSprite] ([1] browsable assets)...
+[2019.01.25-18.43.24:239][305]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/BlankSprite.BlankSprite]
+[2019.01.25-18.43.24:239][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/BlankSprite]
+[2019.01.25-18.43.24:245][305]LogSavePackage: Save=4.05ms
+[2019.01.25-18.43.24:245][305]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BlankSprite_Auto1F88D35EF45DCAE5CB662FAA42F42AB2A.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Sprites/BlankSprite_Auto1.uasset'
+[2019.01.25-18.43.24:246][305]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Sprites/BlankSprite_Auto1.uasset
+[2019.01.25-18.43.24:247][305]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/puffin_adult_breedingplumage_1200x675] ([1] browsable assets)...
+[2019.01.25-18.43.24:252][305]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprites/puffin_adult_breedingplumage_1200x675.puffin_adult_breedingplumage_1200x675]
+[2019.01.25-18.43.24:252][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/puffin_adult_breedingplumage_1200x675]
+[2019.01.25-18.43.24:257][305]LogSavePackage: Save=4.00ms
+[2019.01.25-18.43.24:258][305]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/puffin_adult_breedingplumage_120AC3600DC43F4D66188367598B2137B8F.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Sprites/puffin_adult_breedingplumage_1200x675_Auto1.uasset'
+[2019.01.25-18.43.24:259][305]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Sprites/puffin_adult_breedingplumage_1200x675_Auto1.uasset
+[2019.01.25-18.43.24:259][305]LogFileHelpers: Auto-saving content packages took 0.043
+[2019.01.25-18.44.25:446][444]LogSlate: Window 'Save Content' being destroyed
+[2019.01.25-18.44.25:776][483]LogEditorViewport: Clicking Background
+[2019.01.25-18.44.26:066][514]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-18.44.26:070][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_BPs/BP_Bird" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset" SILENT=true
+[2019.01.25-18.44.26:079][514]LogSavePackage: Save=6.92ms
+[2019.01.25-18.44.26:079][514]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BP_Bird7AB90B1144119ADFDC2473A56B1BBF92.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset'
+[2019.01.25-18.44.26:081][514]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset
+[2019.01.25-18.44.26:084][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/BlankSprite" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/BlankSprite.uasset" SILENT=true
+[2019.01.25-18.44.26:088][514]LogSavePackage: Save=1.65ms
+[2019.01.25-18.44.26:088][514]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BlankSprite12FE5EDE42F83259F2150FB59FEF3994.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/BlankSprite.uasset'
+[2019.01.25-18.44.26:090][514]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/BlankSprite.uasset
+[2019.01.25-18.44.26:134][514]LogSavePackage: Save=25.94ms
+[2019.01.25-18.44.26:134][514]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/puffin_adult_breedingplumage_120601C3A204AD6B1FA24C61E85C1D70348.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/puffin_adult_breedingplumage_1200x675.uasset'
+[2019.01.25-18.44.26:136][514]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/puffin_adult_breedingplumage_1200x675.uasset
