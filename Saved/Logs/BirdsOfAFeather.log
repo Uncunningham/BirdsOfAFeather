@@ -12445,3 +12445,9 @@ LogInit: Object subsystem initialized
 [2019.01.26-02.21.31:921][112]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Content/Enviroment/Noncoliding/LampEmmissive.uasset
 [2019.01.26-02.21.44:760][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.01.26-02.23.15:886][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-02.31.24:739][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Autosaves/Game/Maps/Level1_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.01.26-02.31.24:963][682]LogSavePackage: Save=209.40ms
+[2019.01.26-02.31.24:963][682]LogSavePackage: Moving '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Level1_Auto02C8E3EF64FE6074BE8B6EB946EE58889.tmp' to '../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Autosaves/Game/Maps/Level1_Auto0.umap'
+[2019.01.26-02.31.24:965][682]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bc18aav/Desktop/GGJ/BirdsOfAFeather/Saved/Autosaves/Game/Maps/Level1_Auto0.umap
+[2019.01.26-02.31.24:967][682]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.251
+[2019.01.26-02.31.24:967][682]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.251
