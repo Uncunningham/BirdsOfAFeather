@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="132">
+	<RootPaths>
+		<ProjectRoot>C:\Users\DA_Ra\Desktop\BirdsOfAFeather\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\DA_Ra\Desktop\BirdsOfAFeather\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Github\BirdsOfAFeather\Content\WwiseAudio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\DA_Ra\Desktop\BirdsOfAFeather\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="4004724479" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\BirdBox</ObjectPath>
+			<ShortName>BirdBox</ShortName>
+			<Path>BirdBox.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2211787386" Name="Play_Dash" ObjectPath="\Events\Default Work Unit\Play_Dash"/>
+				<Event Id="595748461" Name="Play_DoubleJump" ObjectPath="\Events\Default Work Unit\Play_DoubleJump"/>
+				<Event Id="2960666077" Name="Play_Hit" ObjectPath="\Events\Default Work Unit\Play_Hit"/>
+				<Event Id="2930703384" Name="Play_Interact_Feather" ObjectPath="\Events\Default Work Unit\Play_Interact_Feather"/>
+				<Event Id="3689126666" Name="Play_Jump" ObjectPath="\Events\Default Work Unit\Play_Jump"/>
+				<Event Id="4285282925" Name="Play_Land" ObjectPath="\Events\Default Work Unit\Play_Land"/>
+				<Event Id="3690598599" Name="Play_Level1Amb" ObjectPath="\Events\Default Work Unit\Play_Level1Amb"/>
+				<Event Id="1723906750" Name="Play_Level2Amb" ObjectPath="\Events\Default Work Unit\Play_Level2Amb"/>
+				<Event Id="3550689537" Name="Play_Level3Amb" ObjectPath="\Events\Default Work Unit\Play_Level3Amb"/>
+				<Event Id="2557561976" Name="Play_Mud" ObjectPath="\Events\Default Work Unit\Play_Mud"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="51224788" Language="SFX">
+					<ShortName>Bird_Footstep_Muddy_2 v2.wav</ShortName>
+					<Path>SFX\Bird_Footstep_Muddy_2 v2_56D34C19.wem</Path>
+				</File>
+				<File Id="255527903" Language="SFX">
+					<ShortName>L3 Ambience v2.wav</ShortName>
+					<Path>SFX\L3 Ambience v2_8956FC97.wem</Path>
+				</File>
+				<File Id="356573909" Language="SFX">
+					<ShortName>Bird_Footstep_Muddy_1 v2.wav</ShortName>
+					<Path>SFX\Bird_Footstep_Muddy_1 v2_56D34C19.wem</Path>
+				</File>
+				<File Id="366752345" Language="SFX">
+					<ShortName>Bird_Damage_oof_1 v2.wav</ShortName>
+					<Path>SFX\Bird_Damage_oof_1 v2_56D34C19.wem</Path>
+				</File>
+				<File Id="410204476" Language="SFX">
+					<ShortName>Bird Jump .wav</ShortName>
+					<Path>SFX\Bird Jump _56D34C19.wem</Path>
+				</File>
+				<File Id="412977365" Language="SFX">
+					<ShortName>L1 Ambience v2.wav</ShortName>
+					<Path>SFX\L1 Ambience v2_B5E058E5.wem</Path>
+				</File>
+				<File Id="463797174" Language="SFX">
+					<ShortName>Bird Land.wav</ShortName>
+					<Path>SFX\Bird Land_56D34C19.wem</Path>
+				</File>
+				<File Id="613038735" Language="SFX">
+					<ShortName>Bird_Damage_oof_3 v2.wav</ShortName>
+					<Path>SFX\Bird_Damage_oof_3 v2_56D34C19.wem</Path>
+				</File>
+				<File Id="673571829" Language="SFX">
+					<ShortName>L2 Ambience v2.wav</ShortName>
+					<Path>SFX\L2 Ambience v2_8956FC97.wem</Path>
+				</File>
+				<File Id="690397407" Language="SFX">
+					<ShortName>Bird_Damage_oof_2 v2.wav</ShortName>
+					<Path>SFX\Bird_Damage_oof_2 v2_56D34C19.wem</Path>
+				</File>
+				<File Id="791534927" Language="SFX">
+					<ShortName>Bird_Footstep_Muddy_3 v2.wav</ShortName>
+					<Path>SFX\Bird_Footstep_Muddy_3 v2_56D34C19.wem</Path>
+				</File>
+				<File Id="1002626645" Language="SFX">
+					<ShortName>Bird wing flaps while hovering.wav</ShortName>
+					<Path>SFX\Bird wing flaps while hovering_56D34C19.wem</Path>
+				</File>
+				<File Id="1011118438" Language="SFX">
+					<ShortName>Bird_Obtain_Feather v2 [MOCKUP].wav</ShortName>
+					<Path>SFX\Bird_Obtain_Feather v2 [MOCKUP]_56D34C19.wem</Path>
+				</File>
+				<File Id="1048530249" Language="SFX">
+					<ShortName>Bird Dash [MOCKUP].wav</ShortName>
+					<Path>SFX\Bird Dash [MOCKUP]_56D34C19.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
