@@ -8965,3 +8965,22 @@ LogInit: Object subsystem initialized
 [2019.01.27-10.49.07:411][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002066bf03c70, Size=4
 [2019.01.27-10.49.07:411][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002065b0e3ee0, Size=4
 [2019.01.27-10.49.07:411][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002065b0e0f58, Size=4
+[2019.01.27-10.51.11:933][185]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020683aa8800, Size=1432
+[2019.01.27-10.51.11:954][185]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002066e830a90, Size=40
+[2019.01.27-10.51.11:954][185]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020671825ff8, Size=40, Default__Level2_V5_C Function /Engine/Transient.REINST_Level2_V5_C_573:ExecuteUbergraph_Level2_V5
+[2019.01.27-10.51.11:955][185]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020671825580, Size=40, Default__Level2_V5_C Function /Game/Maps/Level2_V5.Level2_V5_C:ExecuteUbergraph_Level2_V5
+[2019.01.27-10.51.12:477][185]LogSavePackage: Save=528.33ms
+[2019.01.27-10.51.12:477][185]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Level2_V5_Auto3DF8804AB4B083E74FB5DFC96E1817C1A.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Maps/Level2_V5_Auto3.umap'
+[2019.01.27-10.51.12:478][185]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Maps/Level2_V5_Auto3.umap
+[2019.01.27-10.51.12:480][185]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level2_V5' took 0.568
+[2019.01.27-10.51.12:480][185]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.568
+[2019.01.27-10.51.12:483][185]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character_BPs/BP_Bird] ([1] browsable assets)...
+[2019.01.27-10.51.12:483][185]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_BPs/BP_Bird]
+[2019.01.27-10.51.12:617][185]LogSavePackage: Save=116.77ms
+[2019.01.27-10.51.12:617][185]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BP_Bird_Auto348744D15485547BF4B6F6CA6345E5CD4.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Character_BPs/BP_Bird_Auto3.uasset'
+[2019.01.27-10.51.12:619][185]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Character_BPs/BP_Bird_Auto3.uasset
+[2019.01.27-10.51.12:619][185]LogFileHelpers: Auto-saving content packages took 0.137
+[2019.01.27-10.51.21:445][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_BPs/BP_Bird" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset" SILENT=true
+[2019.01.27-10.51.21:568][901]LogSavePackage: Save=107.99ms
+[2019.01.27-10.51.21:568][901]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BP_Bird35DDCEB0464CE0F9CE440288934827D3.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset'
+[2019.01.27-10.51.21:570][901]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset
