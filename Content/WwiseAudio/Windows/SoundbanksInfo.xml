@@ -21,6 +21,7 @@
 			<ShortName>BirdBox</ShortName>
 			<Path>BirdBox.bnk</Path>
 			<IncludedEvents>
+				<Event Id="595748461" Name="Play_DoubleJump" ObjectPath="\Events\Default Work Unit\Play_DoubleJump"/>
 				<Event Id="3689126666" Name="Play_Jump" ObjectPath="\Events\Default Work Unit\Play_Jump"/>
 				<Event Id="4285282925" Name="Play_Land" ObjectPath="\Events\Default Work Unit\Play_Land"/>
 				<Event Id="2557561976" Name="Play_Mud" ObjectPath="\Events\Default Work Unit\Play_Mud"/>
@@ -45,6 +46,10 @@
 				<File Id="791534927" Language="SFX">
 					<ShortName>Bird_Footstep_Muddy_3 v2.wav</ShortName>
 					<Path>SFX\Bird_Footstep_Muddy_3 v2_56D34C19.wem</Path>
+				</File>
+				<File Id="1002626645" Language="SFX">
+					<ShortName>Bird wing flaps while hovering.wav</ShortName>
+					<Path>SFX\Bird wing flaps while hovering_56D34C19.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>

@@ -1,2 +1,4 @@
 BirdBox	"Play_Mud"
 BirdBox	"Play_Jump"
+BirdBox	"Play_Land"
+BirdBox	"Play_DoubleJump"

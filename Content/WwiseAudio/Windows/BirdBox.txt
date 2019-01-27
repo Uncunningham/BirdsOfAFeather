@@ -1,4 +1,5 @@
 Event	ID	Name			Wwise Object Path	Notes
+	595748461	Play_DoubleJump			\Default Work Unit\Play_DoubleJump	
 	2557561976	Play_Mud			\Default Work Unit\Play_Mud	
 	3689126666	Play_Jump			\Default Work Unit\Play_Jump	
 	4285282925	Play_Land			\Default Work Unit\Play_Land	
@@ -9,4 +10,5 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	410204476	Bird Jump 	C:\Users\DA_Ra\Documents\WwiseProjects\BirdsOfAFeather\.cache\Windows\SFX\Bird Jump _56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Characters\Blue\Jump\Bird Jump 		77816
 	463797174	Bird Land	C:\Users\DA_Ra\Documents\WwiseProjects\BirdsOfAFeather\.cache\Windows\SFX\Bird Land_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Characters\Blue\Land\Bird Land		51792
 	791534927	Bird_Footstep_Muddy_3 v2	C:\Users\DA_Ra\Documents\WwiseProjects\BirdsOfAFeather\.cache\Windows\SFX\Bird_Footstep_Muddy_3 v2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Characters\Blue\Footsteps\Material\Mud\Bird_Footstep_Muddy_3 v2		23728
+	1002626645	Bird wing flaps while hovering	C:\Users\DA_Ra\Documents\WwiseProjects\BirdsOfAFeather\.cache\Windows\SFX\Bird wing flaps while hovering_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Characters\Blue\DoubleJump\Bird wing flaps while hovering		107564
 
