@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="132">
+	<RootPaths>
+		<ProjectRoot>C:\Users\DA_Ra\Documents\WwiseProjects\BirdsOfAFeather\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\DA_Ra\Documents\WwiseProjects\BirdsOfAFeather\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Github\BirdsOfFeather\BirdsOfAFeather\Content\WwiseAudio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\DA_Ra\Documents\WwiseProjects\BirdsOfAFeather\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="4004724479" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\BirdBox</ObjectPath>
+			<ShortName>BirdBox</ShortName>
+			<Path>BirdBox.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3689126666" Name="Play_Jump" ObjectPath="\Events\Default Work Unit\Play_Jump"/>
+				<Event Id="4285282925" Name="Play_Land" ObjectPath="\Events\Default Work Unit\Play_Land"/>
+				<Event Id="2557561976" Name="Play_Mud" ObjectPath="\Events\Default Work Unit\Play_Mud"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="51224788" Language="SFX">
+					<ShortName>Bird_Footstep_Muddy_2 v2.wav</ShortName>
+					<Path>SFX\Bird_Footstep_Muddy_2 v2_56D34C19.wem</Path>
+				</File>
+				<File Id="356573909" Language="SFX">
+					<ShortName>Bird_Footstep_Muddy_1 v2.wav</ShortName>
+					<Path>SFX\Bird_Footstep_Muddy_1 v2_56D34C19.wem</Path>
+				</File>
+				<File Id="410204476" Language="SFX">
+					<ShortName>Bird Jump .wav</ShortName>
+					<Path>SFX\Bird Jump _56D34C19.wem</Path>
+				</File>
+				<File Id="463797174" Language="SFX">
+					<ShortName>Bird Land.wav</ShortName>
+					<Path>SFX\Bird Land_56D34C19.wem</Path>
+				</File>
+				<File Id="791534927" Language="SFX">
+					<ShortName>Bird_Footstep_Muddy_3 v2.wav</ShortName>
+					<Path>SFX\Bird_Footstep_Muddy_3 v2_56D34C19.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
