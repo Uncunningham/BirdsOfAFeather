@@ -22,6 +22,7 @@
 			<Path>BirdBox.bnk</Path>
 			<IncludedEvents>
 				<Event Id="595748461" Name="Play_DoubleJump" ObjectPath="\Events\Default Work Unit\Play_DoubleJump"/>
+				<Event Id="2960666077" Name="Play_Hit" ObjectPath="\Events\Default Work Unit\Play_Hit"/>
 				<Event Id="3689126666" Name="Play_Jump" ObjectPath="\Events\Default Work Unit\Play_Jump"/>
 				<Event Id="4285282925" Name="Play_Land" ObjectPath="\Events\Default Work Unit\Play_Land"/>
 				<Event Id="2557561976" Name="Play_Mud" ObjectPath="\Events\Default Work Unit\Play_Mud"/>
@@ -35,6 +36,10 @@
 					<ShortName>Bird_Footstep_Muddy_1 v2.wav</ShortName>
 					<Path>SFX\Bird_Footstep_Muddy_1 v2_56D34C19.wem</Path>
 				</File>
+				<File Id="366752345" Language="SFX">
+					<ShortName>Bird_Damage_oof_1 v2.wav</ShortName>
+					<Path>SFX\Bird_Damage_oof_1 v2_56D34C19.wem</Path>
+				</File>
 				<File Id="410204476" Language="SFX">
 					<ShortName>Bird Jump .wav</ShortName>
 					<Path>SFX\Bird Jump _56D34C19.wem</Path>
@@ -42,6 +47,14 @@
 				<File Id="463797174" Language="SFX">
 					<ShortName>Bird Land.wav</ShortName>
 					<Path>SFX\Bird Land_56D34C19.wem</Path>
+				</File>
+				<File Id="613038735" Language="SFX">
+					<ShortName>Bird_Damage_oof_3 v2.wav</ShortName>
+					<Path>SFX\Bird_Damage_oof_3 v2_56D34C19.wem</Path>
+				</File>
+				<File Id="690397407" Language="SFX">
+					<ShortName>Bird_Damage_oof_2 v2.wav</ShortName>
+					<Path>SFX\Bird_Damage_oof_2 v2_56D34C19.wem</Path>
 				</File>
 				<File Id="791534927" Language="SFX">
 					<ShortName>Bird_Footstep_Muddy_3 v2.wav</ShortName>
