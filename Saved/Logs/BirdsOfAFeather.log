@@ -43614,3 +43614,396 @@ LogInit: Object subsystem initialized
 [2019.01.27-00.12.37:372][479]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000286238205b0, Size=4
 [2019.01.27-00.12.37:372][479]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028623821aa8, Size=4
 [2019.01.27-00.12.37:372][479]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028487aa2420, Size=4
+[2019.01.27-00.21.37:739][331]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002862334d9d8, Size=20
+[2019.01.27-00.21.37:740][331]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MenuMap' took 0.029
+[2019.01.27-00.21.37:743][331]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hud/ContinueHUD] ([1] browsable assets)...
+[2019.01.27-00.21.37:743][331]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hud/ContinueHUD]
+[2019.01.27-00.21.37:782][331]LogSavePackage: Save=36.20ms
+[2019.01.27-00.21.37:782][331]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/ContinueHUD_Auto1218FD5D84325A3F500884DA93D5AB596.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Hud/ContinueHUD_Auto1.uasset'
+[2019.01.27-00.21.37:784][331]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Hud/ContinueHUD_Auto1.uasset
+[2019.01.27-00.21.37:784][331]LogFileHelpers: Auto-saving content packages took 0.043
+[2019.01.27-00.31.19:012][ 77]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028605e1a080, Size=848, Default__BP_LaunchPad_C Function /Game/Prop_BPs/BP_LaunchPad.BP_LaunchPad_C:ExecuteUbergraph_BP_LaunchPad
+[2019.01.27-00.31.19:017][ 77]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028605e1a080, Size=848
+[2019.01.27-00.31.19:017][ 77]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028623d49980, Size=848, Default__BP_LaunchPad_C Function /Engine/Transient.REINST_BP_LaunchPad_C_344:ExecuteUbergraph_BP_LaunchPad
+[2019.01.27-00.31.19:021][ 77]LogUObjectGlobals: Created PersistentFrame Addr=0x00000286055eab00, Size=848, Default__BP_LaunchPad_C Function /Game/Prop_BPs/BP_LaunchPad.BP_LaunchPad_C:ExecuteUbergraph_BP_LaunchPad
+[2019.01.27-00.31.19:105][ 77]LogAIModule: Creating AISystem for world Level2_V2
+[2019.01.27-00.31.19:187][ 77]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028623d49980, Size=848
+[2019.01.27-00.31.20:469][ 77]LogSlate: Window 'Save Content' being destroyed
+[2019.01.27-00.31.20:475][ 77]Cmd: MAP LOAD FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Maps/Level2_V2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.27-00.31.20:478][ 77]LightingResults: New page: Lighting Build
+[2019.01.27-00.31.20:479][ 77]LoadErrors: New page: Loading map: Level2_V2.umap
+[2019.01.27-00.31.20:479][ 77]MapCheck: New page: Map Check
+[2019.01.27-00.31.20:479][ 77]LightingResults: New page: Lighting Build
+[2019.01.27-00.31.20:503][ 77]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028622eeee00, Size=24
+[2019.01.27-00.31.20:634][ 77]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.27-00.31.20:715][ 77]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.27-00.31.20:850][ 77]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 134.953ms to complete.
+[2019.01.27-00.31.20:850][ 77]LogFileHelpers: Loading map 'Level2_V2' took 0.377
+[2019.01.27-00.31.22:461][176]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-00.31.22:540][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-00.31.22:540][176]PIE: New page: PIE session: Level2_V2 (27 Jan 2019 00:31:22)
+[2019.01.27-00.31.22:540][176]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level2_V2
+[2019.01.27-00.31.22:568][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028273s)
+[2019.01.27-00.31.22:569][176]LogAIModule: Creating AISystem for world Level2_V2
+[2019.01.27-00.31.22:570][176]LogPlayLevel: PIE: World Init took: (0.001105s)
+[2019.01.27-00.31.22:570][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level2_V2.Level2_V2 to /Game/Maps/UEDPIE_0_Level2_V2.Level2_V2 (0.029627s)
+[2019.01.27-00.31.22:601][176]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-00.31.22:619][176]LogInit: FAudioDevice initialized.
+[2019.01.27-00.31.22:656][176]LogLoad: Game class is 'BOAF_C'
+[2019.01.27-00.31.22:662][176]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level2_V2.Level2_V2 up for play (max tick rate 0) at 2019.01.27-00.31.22
+[2019.01.27-00.31.22:663][176]LogWorld: Bringing up level for play took: 0.006082
+[2019.01.27-00.31.22:664][176]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level2_V2 0.274
+[2019.01.27-00.33.20:708][833]BlueprintLog: New page: Compile MainMenuHUD
+[2019.01.27-00.33.20:719][833]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028624af3900, Size=104
+[2019.01.27-00.33.20:719][833]LogUObjectGlobals: Created PersistentFrame Addr=0x00000285ec0b2d30, Size=104, Default__MainMenuHUD_C Function /Engine/Transient.REINST_MainMenuHUD_C_135:ExecuteUbergraph_MainMenuHUD
+[2019.01.27-00.33.20:720][833]LogUObjectGlobals: Created PersistentFrame Addr=0x00000284d2394220, Size=72, Default__MainMenuHUD_C Function /Game/Hud/MainMenuHUD.MainMenuHUD_C:ExecuteUbergraph_MainMenuHUD
+[2019.01.27-00.35.51:093][980]LogUObjectGlobals: Created PersistentFrame Addr=0x00000286302b3418, Size=24, Default__MenuMap_C Function /Game/Maps/MenuMap.MenuMap_C:ExecuteUbergraph_MenuMap
+[2019.01.27-00.35.51:094][980]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000286302b3418, Size=24
+[2019.01.27-00.35.51:094][980]LogUObjectGlobals: Created PersistentFrame Addr=0x00000286302b3418, Size=24, Default__MenuMap_C Function /Engine/Transient.REINST_MenuMap_C_349:ExecuteUbergraph_MenuMap
+[2019.01.27-00.35.51:095][980]LogUObjectGlobals: Created PersistentFrame Addr=0x00000286302b24b8, Size=24, Default__MenuMap_C Function /Game/Maps/MenuMap.MenuMap_C:ExecuteUbergraph_MenuMap
+[2019.01.27-00.35.51:100][980]LogAIModule: Creating AISystem for world MenuMap
+[2019.01.27-00.35.51:128][980]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000286302b3418, Size=24
+[2019.01.27-00.35.51:128][980]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000285ec0b2d30, Size=104
+[2019.01.27-00.35.52:781][980]LogSlate: Window 'Save Content' being destroyed
+[2019.01.27-00.35.52:791][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hud/ContinueHUD" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Hud/ContinueHUD.uasset" SILENT=true
+[2019.01.27-00.35.52:846][980]LogSavePackage: Save=37.87ms
+[2019.01.27-00.35.52:846][980]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/ContinueHUD202FE83249D0B87F4608C3B7ECA1B137.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Hud/ContinueHUD.uasset'
+[2019.01.27-00.35.52:848][980]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Hud/ContinueHUD.uasset
+[2019.01.27-00.35.52:849][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hud/MainMenuHUD" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Hud/MainMenuHUD.uasset" SILENT=true
+[2019.01.27-00.35.52:878][980]LogSavePackage: Save=24.30ms
+[2019.01.27-00.35.52:878][980]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/MainMenuHUD9FB513CA44FCC990B405999CBC1B7B8D.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Hud/MainMenuHUD.uasset'
+[2019.01.27-00.35.52:881][980]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Hud/MainMenuHUD.uasset
+[2019.01.27-00.35.52:882][980]Cmd: MAP LOAD FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Maps/MenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.27-00.35.52:882][980]LightingResults: New page: Lighting Build
+[2019.01.27-00.35.52:882][980]LoadErrors: New page: Loading map: MenuMap.umap
+[2019.01.27-00.35.52:885][980]MapCheck: New page: Map Check
+[2019.01.27-00.35.52:885][980]LightingResults: New page: Lighting Build
+[2019.01.27-00.35.52:914][980]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.27-00.35.52:971][980]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.27-00.35.53:095][980]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 123.993ms to complete.
+[2019.01.27-00.35.53:097][980]LogFileHelpers: Loading map 'MenuMap' took 0.216
+[2019.01.27-00.35.54:049][ 46]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-00.35.54:082][ 46]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2019.01.27-00.35.54:082][ 46]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-00.35.54:082][ 46]PIE: New page: PIE session: MenuMap (27 Jan 2019 00:35:54)
+[2019.01.27-00.35.54:082][ 46]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuMap
+[2019.01.27-00.35.54:084][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001459s)
+[2019.01.27-00.35.54:085][ 46]LogAIModule: Creating AISystem for world MenuMap
+[2019.01.27-00.35.54:085][ 46]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2019.01.27-00.35.54:085][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuMap.MenuMap to /Game/Maps/UEDPIE_0_MenuMap.MenuMap (0.002463s)
+[2019.01.27-00.35.54:115][ 46]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-00.35.54:129][ 46]LogInit: FAudioDevice initialized.
+[2019.01.27-00.35.54:160][ 46]LogLoad: Game class is 'BOAF_C'
+[2019.01.27-00.35.54:161][ 46]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuMap.MenuMap up for play (max tick rate 0) at 2019.01.27-00.35.54
+[2019.01.27-00.35.54:161][ 46]LogWorld: Bringing up level for play took: 0.000321
+[2019.01.27-00.35.54:163][ 46]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MenuMap -0.229
+[2019.01.27-00.35.54:163][ 46]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2019.01.27-00.35.55:426][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-00.36.05:169][876]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2019.01.27-00.36.05:201][876]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2019.01.27-00.36.15:521][627]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028623388700, Size=32, Default__Level1_V3_C Function /Game/Maps/Level1_V3.Level1_V3_C:ExecuteUbergraph_Level1_V3
+[2019.01.27-00.36.15:523][627]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028623388700, Size=32
+[2019.01.27-00.36.15:523][627]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028623388700, Size=32, Default__Level1_V3_C Function /Engine/Transient.REINST_Level1_V3_C_351:ExecuteUbergraph_Level1_V3
+[2019.01.27-00.36.15:525][627]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028623389940, Size=32, Default__Level1_V3_C Function /Game/Maps/Level1_V3.Level1_V3_C:ExecuteUbergraph_Level1_V3
+[2019.01.27-00.36.15:673][627]LogTexture: Display: Building textures: FloatyIsland (BGRA8, 494X627)
+[2019.01.27-00.36.16:948][627]LogTexture: Display: Building textures: foliage003 (BGRA8, 4000X2800)
+[2019.01.27-00.36.16:948][627]LogTexture: Display: Building textures: foliage002 (BGRA8, 4000X2800)
+[2019.01.27-00.36.16:948][627]LogTexture: Display: Building textures: foliage001 (BGRA8, 4000X2800)
+[2019.01.27-00.36.17:632][627]LogAIModule: Creating AISystem for world Level1_V3
+[2019.01.27-00.36.17:868][627]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028623388700, Size=32
+[2019.01.27-00.36.17:869][627]Cmd: MAP LOAD FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Maps/Level1_V3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.27-00.36.17:869][627]LightingResults: New page: Lighting Build
+[2019.01.27-00.36.17:870][627]LoadErrors: New page: Loading map: Level1_V3.umap
+[2019.01.27-00.36.17:871][627]MapCheck: New page: Map Check
+[2019.01.27-00.36.17:871][627]LightingResults: New page: Lighting Build
+[2019.01.27-00.36.17:923][627]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000286302b24b8, Size=24
+[2019.01.27-00.36.17:977][627]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.27-00.36.18:042][627]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.27-00.36.18:187][627]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 143.808ms to complete.
+[2019.01.27-00.36.18:187][627]LogFileHelpers: Loading map 'Level1_V3' took 0.318
+[2019.01.27-00.36.19:489][706]LogLinker: Warning: Can't find file '/Game/Maps/Level1_V4_BuiltData'
+[2019.01.27-00.36.19:489][706]LogLinker: Warning: Can't find file for asset '/Game/Maps/Level1_V4_BuiltData' while loading ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Maps/Level1_V4.umap.
+[2019.01.27-00.36.19:489][706]LoadErrors: Error: /Game/Maps/Level1_V4 : Can't find file for asset. /Game/Maps/Level1_V4_BuiltData
+[2019.01.27-00.36.19:494][706]LogLinker: Warning: Can't find file '/Game/Maps/Level1_V4_BuiltData'
+[2019.01.27-00.36.19:494][706]LogLinker: Warning: Can't find file for asset '/Game/Maps/Level1_V4_BuiltData' while loading ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Maps/Level1_V4.umap.
+[2019.01.27-00.36.19:501][706]LogUObjectGlobals: Created PersistentFrame Addr=0x00000285f5e6b160, Size=32, Default__Level1_V4_C Function /Game/Maps/Level1_V4.Level1_V4_C:ExecuteUbergraph_Level1_V4
+[2019.01.27-00.36.19:501][706]LogLinker: Warning: Can't find file '/Game/Maps/Level1_V4_BuiltData'
+[2019.01.27-00.36.19:501][706]LogLinker: Warning: Can't find file for asset '/Game/Maps/Level1_V4_BuiltData' while loading NULL.
+[2019.01.27-00.36.19:501][706]LogLinker: Warning: Can't find file '/Game/Maps/Level1_V4_BuiltData'
+[2019.01.27-00.36.19:501][706]LogLinker: Warning: Can't find file for asset '/Game/Maps/Level1_V4_BuiltData' while loading NULL.
+[2019.01.27-00.36.19:503][706]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000285f5e6b160, Size=32
+[2019.01.27-00.36.19:503][706]LogUObjectGlobals: Created PersistentFrame Addr=0x00000285f5e6b160, Size=32, Default__Level1_V4_C Function /Engine/Transient.REINST_Level1_V4_C_353:ExecuteUbergraph_Level1_V4
+[2019.01.27-00.36.19:504][706]LogUObjectGlobals: Created PersistentFrame Addr=0x00000285e2c89780, Size=32, Default__Level1_V4_C Function /Game/Maps/Level1_V4.Level1_V4_C:ExecuteUbergraph_Level1_V4
+[2019.01.27-00.36.19:567][706]LogLinker: Warning: Can't find file '/Game/Maps/Level1_V4_BuiltData'
+[2019.01.27-00.36.19:567][706]LoadErrors: Failed to load /Game/Maps/Level1_V4_BuiltData.Level1_V4_BuiltData Referenced by PersistentLevel
+[2019.01.27-00.36.19:567][706]LogLinker: Warning: Can't find file for asset '/Game/Maps/Level1_V4_BuiltData' while loading NULL.
+[2019.01.27-00.36.19:598][706]LogAIModule: Creating AISystem for world Level1_V4
+[2019.01.27-00.36.19:661][706]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000285f5e6b160, Size=32
+[2019.01.27-00.36.19:663][706]Cmd: MAP LOAD FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Maps/Level1_V4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.27-00.36.19:663][706]LightingResults: New page: Lighting Build
+[2019.01.27-00.36.19:663][706]LoadErrors: New page: Loading map: Level1_V4.umap
+[2019.01.27-00.36.19:666][706]MapCheck: New page: Map Check
+[2019.01.27-00.36.19:666][706]LightingResults: New page: Lighting Build
+[2019.01.27-00.36.19:691][706]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028623389940, Size=32
+[2019.01.27-00.36.19:759][706]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.27-00.36.19:817][706]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.27-00.36.19:953][706]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 135.332ms to complete.
+[2019.01.27-00.36.19:955][706]LogFileHelpers: Loading map 'Level1_V4' took 0.293
+[2019.01.27-00.36.27:585][996]LogTexture: Display: Building textures: tree003 (BGRA8, 3157X6191)
+[2019.01.27-00.36.27:585][996]LogTexture: Display: Building textures: tree002 (BGRA8, 3157X7126)
+[2019.01.27-00.36.28:038][996]LogAIModule: Creating AISystem for world Level2_V4
+[2019.01.27-00.36.28:140][996]Cmd: MAP LOAD FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Maps/Level2_V4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.27-00.36.28:140][996]LightingResults: New page: Lighting Build
+[2019.01.27-00.36.28:140][996]LoadErrors: New page: Loading map: Level2_V4.umap
+[2019.01.27-00.36.28:143][996]MapCheck: New page: Map Check
+[2019.01.27-00.36.28:143][996]LightingResults: New page: Lighting Build
+[2019.01.27-00.36.28:268][996]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000285e2c89780, Size=32
+[2019.01.27-00.36.28:430][996]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.27-00.36.28:486][996]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.27-00.36.28:607][996]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 120.344ms to complete.
+[2019.01.27-00.36.28:607][996]LogFileHelpers: Loading map 'Level2_V4' took 0.468
+[2019.01.27-00.36.35:264][387]AssetReimport: New page: Outstanding source content changes 00:36:35
+[2019.01.27-00.36.35:265][387]LogEditorFactories: Performing atomic reimport of [C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/stage.png]
+[2019.01.27-00.36.35:283][387]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/stage.png)
+[2019.01.27-00.36.35:421][387]LogEditorFactories: -- imported successfully
+[2019.01.27-00.36.35:480][388]LogEditorFactories: Performing atomic reimport of [C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/tree003.png]
+[2019.01.27-00.36.35:511][388]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/tree003.png)
+[2019.01.27-00.36.38:210][388]LogEditorFactories: -- imported successfully
+[2019.01.27-00.36.38:634][389]LogEditorFactories: Performing atomic reimport of [C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/tree002.png]
+[2019.01.27-00.36.38:673][389]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/tree002.png)
+[2019.01.27-00.36.41:779][389]LogEditorFactories: -- imported successfully
+[2019.01.27-00.36.44:744][390]LogEditorFactories: Performing atomic reimport of [C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/tree001.png]
+[2019.01.27-00.36.44:794][390]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/tree001.png)
+[2019.01.27-00.36.47:706][390]LogEditorFactories: -- imported successfully
+[2019.01.27-00.36.47:992][391]LogEditorFactories: Performing atomic reimport of [C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/stageshort[1].png]
+[2019.01.27-00.36.47:992][391]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/stageshort[1].png)
+[2019.01.27-00.36.48:121][391]LogEditorFactories: -- imported successfully
+[2019.01.27-00.36.48:146][392]LogEditorFactories: Performing atomic reimport of [C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/foliage003.png]
+[2019.01.27-00.36.48:166][392]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/foliage003.png)
+[2019.01.27-00.36.49:626][392]LogEditorFactories: -- imported successfully
+[2019.01.27-00.36.49:901][393]LogEditorFactories: Performing atomic reimport of [C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/foliage002.png]
+[2019.01.27-00.36.49:925][393]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/foliage002.png)
+[2019.01.27-00.36.51:383][393]LogEditorFactories: -- imported successfully
+[2019.01.27-00.36.51:470][394]LogEditorFactories: Performing atomic reimport of [C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/foliage001.png]
+[2019.01.27-00.36.51:496][394]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/foliage001.png)
+[2019.01.27-00.36.53:003][394]LogEditorFactories: -- imported successfully
+[2019.01.27-00.36.53:190][395]LogSavePackage: Save=16.54ms
+[2019.01.27-00.36.53:190][395]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/stage92D7E908446EC3817DD49493520534D3.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/stage.uasset'
+[2019.01.27-00.36.53:193][395]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/stage.uasset
+[2019.01.27-00.36.54:917][395]LogSavePackage: Save=1695.24ms
+[2019.01.27-00.36.54:917][395]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/tree003355359BC4FE1AA2B12FAEE89D3143EED.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/tree003.uasset'
+[2019.01.27-00.36.54:920][395]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/tree003.uasset
+[2019.01.27-00.36.56:916][395]LogSavePackage: Save=1963.72ms
+[2019.01.27-00.36.56:916][395]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/tree00253C78E8A4784CCD2015489B63054B3AF.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/tree002.uasset'
+[2019.01.27-00.36.56:921][395]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/tree002.uasset
+[2019.01.27-00.36.58:769][395]LogSavePackage: Save=1819.32ms
+[2019.01.27-00.36.58:769][395]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/tree001424D4DE24AF629D096131ABFEAC7AF40.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/tree001.uasset'
+[2019.01.27-00.36.58:774][395]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/tree001.uasset
+[2019.01.27-00.36.58:825][395]LogSavePackage: Save=16.40ms
+[2019.01.27-00.36.58:825][395]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/stageshort_1_D8CC9C534CBF9BEBD7A89BA11132BAB5.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/stageshort_1_.uasset'
+[2019.01.27-00.36.58:828][395]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/stageshort_1_.uasset
+[2019.01.27-00.36.59:958][395]LogSavePackage: Save=1104.83ms
+[2019.01.27-00.36.59:958][395]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/foliage003E29B0B8E4A652EE00AE2EBAB3689CEE5.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/foliage003.uasset'
+[2019.01.27-00.36.59:961][395]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/foliage003.uasset
+[2019.01.27-00.37.01:216][395]LogSavePackage: Save=1229.54ms
+[2019.01.27-00.37.01:216][395]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/foliage002B97FFC2943B4A664217836A53D280186.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/foliage002.uasset'
+[2019.01.27-00.37.01:219][395]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/foliage002.uasset
+[2019.01.27-00.37.02:455][395]LogSavePackage: Save=1210.02ms
+[2019.01.27-00.37.02:455][395]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/foliage0016437D07042F08C9AEF2E07A052D4DA67.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/foliage001.uasset'
+[2019.01.27-00.37.02:458][395]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/foliage001.uasset
+[2019.01.27-00.37.05:465][626]AssetReimport: Reimported asset stage from C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/stage.png.
+[2019.01.27-00.37.05:466][626]AssetReimport: Reimported asset tree003 from C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/tree003.png.
+[2019.01.27-00.37.05:466][626]AssetReimport: Reimported asset tree002 from C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/tree002.png.
+[2019.01.27-00.37.05:466][626]AssetReimport: Reimported asset tree001 from C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/tree001.png.
+[2019.01.27-00.37.05:466][626]AssetReimport: Reimported asset stageshort_1_ from C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/stageshort[1].png.
+[2019.01.27-00.37.05:466][626]AssetReimport: Reimported asset foliage003 from C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/foliage003.png.
+[2019.01.27-00.37.05:466][626]AssetReimport: Reimported asset foliage002 from C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/foliage002.png.
+[2019.01.27-00.37.05:466][626]AssetReimport: Reimported asset foliage001 from C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Enviroment/EnvironmentSprites/foliage001.png.
+[2019.01.27-00.38.59:319][259]LogUObjectGlobals: Created PersistentFrame Addr=0x000002862d2c3038, Size=4, Default__SKEL_BP_Bird_C Function /Game/Character_BPs/BP_Bird.SKEL_BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.39.04:398][483]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002862d2c3038, Size=4
+[2019.01.27-00.39.04:398][483]LogUObjectGlobals: Created PersistentFrame Addr=0x000002862d2c3038, Size=4, Default__SKEL_BP_Bird_C Function /Engine/Transient.REINST_SKEL_BP_Bird_C_357:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.39.04:404][483]LogUObjectGlobals: Created PersistentFrame Addr=0x000002862d2c2d78, Size=4, Default__SKEL_BP_Bird_C Function /Game/Character_BPs/BP_Bird.SKEL_BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.39.16:574][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002862d2c2d78, Size=4
+[2019.01.27-00.39.16:574][ 55]LogUObjectGlobals: Created PersistentFrame Addr=0x000002850ee528c0, Size=4, Default__SKEL_BP_Bird_C Function /Engine/Transient.REINST_SKEL_BP_Bird_C_359:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.39.16:581][ 55]LogUObjectGlobals: Created PersistentFrame Addr=0x000002850ee52220, Size=4, Default__SKEL_BP_Bird_C Function /Game/Character_BPs/BP_Bird.SKEL_BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.39.31:880][972]LogEditorTransaction: Undo Delete current selection
+[2019.01.27-00.39.31:881][972]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002850ee52220, Size=4
+[2019.01.27-00.39.31:881][972]LogUObjectGlobals: Created PersistentFrame Addr=0x00000285f6696de8, Size=4, Default__SKEL_BP_Bird_C Function /Engine/Transient.REINST_SKEL_BP_Bird_C_361:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.39.31:889][972]LogUObjectGlobals: Created PersistentFrame Addr=0x00000285f6696cf0, Size=4, Default__SKEL_BP_Bird_C Function /Game/Character_BPs/BP_Bird.SKEL_BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.39.34:760][137]LogEditorTransaction: Undo Delete current selection
+[2019.01.27-00.39.34:761][137]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000285f6696cf0, Size=4
+[2019.01.27-00.39.34:761][137]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028624a17be0, Size=4, Default__SKEL_BP_Bird_C Function /Engine/Transient.REINST_SKEL_BP_Bird_C_363:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.39.34:770][137]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028624a172c8, Size=4, Default__SKEL_BP_Bird_C Function /Game/Character_BPs/BP_Bird.SKEL_BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.39.53:677][281]LogEditorTransaction: Undo Move Node
+[2019.01.27-00.39.53:678][281]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028624a172c8, Size=4
+[2019.01.27-00.39.53:678][281]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028624a172c8, Size=4, Default__SKEL_BP_Bird_C Function /Engine/Transient.REINST_SKEL_BP_Bird_C_365:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.39.53:684][281]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028629b4f430, Size=4, Default__SKEL_BP_Bird_C Function /Game/Character_BPs/BP_Bird.SKEL_BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.40.04:866][827]BlueprintLog: New page: Compile BP_Bird
+[2019.01.27-00.40.04:901][827]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028629b4f430, Size=4
+[2019.01.27-00.40.04:901][827]LogUObjectGlobals: Created PersistentFrame Addr=0x00000285f6f99478, Size=4, Default__SKEL_BP_Bird_C Function /Engine/Transient.REINST_SKEL_BP_Bird_C_371:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.40.04:961][827]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000285fc7df200, Size=1392
+[2019.01.27-00.40.04:961][827]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028636ee5600, Size=1392, BP_Bird_C_305 Function /Engine/Transient.REINST_BP_Bird_C_380:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.40.04:979][827]LogUObjectGlobals: Created PersistentFrame Addr=0x000002852eb03200, Size=1392, Default__BP_Bird_C Function /Game/Character_BPs/BP_Bird.BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.40.05:248][827]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028624a172c8, Size=4
+[2019.01.27-00.40.05:248][827]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000285f6f99478, Size=4
+[2019.01.27-00.40.05:248][827]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028624a17be0, Size=4
+[2019.01.27-00.40.05:248][827]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000285f6696de8, Size=4
+[2019.01.27-00.40.05:720][840]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-00.40.05:781][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-00.40.05:781][840]PIE: New page: PIE session: Level2_V4 (27 Jan 2019 00:40:05)
+[2019.01.27-00.40.05:782][840]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level2_V4
+[2019.01.27-00.40.05:804][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022482s)
+[2019.01.27-00.40.05:805][840]LogAIModule: Creating AISystem for world Level2_V4
+[2019.01.27-00.40.05:805][840]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2019.01.27-00.40.05:805][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level2_V4.Level2_V4 to /Game/Maps/UEDPIE_0_Level2_V4.Level2_V4 (0.023676s)
+[2019.01.27-00.40.05:838][840]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-00.40.05:854][840]LogInit: FAudioDevice initialized.
+[2019.01.27-00.40.05:890][840]LogLoad: Game class is 'BOAF_C'
+[2019.01.27-00.40.05:902][840]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level2_V4.Level2_V4 up for play (max tick rate 0) at 2019.01.27-00.40.05
+[2019.01.27-00.40.05:902][840]LogWorld: Bringing up level for play took: 0.011616
+[2019.01.27-00.40.05:903][840]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level2_V4 -0.49
+[2019.01.27-00.40.53:554][986]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-00.40.54:050][986]LogSavePackage: Save=456.30ms
+[2019.01.27-00.40.54:050][986]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Level2_V485C8FE7A43C12314590552B844A8F6E4.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Maps/Level2_V4.umap'
+[2019.01.27-00.40.54:052][986]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Maps/Level2_V4.umap
+[2019.01.27-00.40.59:056][207]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-00.41.09:207][632]LogUObjectGlobals: Created PersistentFrame Addr=0x00000285fe03ec00, Size=4, Default__SKEL_BP_Bird_C Function /Game/Character_BPs/BP_Bird.SKEL_BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.41.14:820][866]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000285fe03ec00, Size=4
+[2019.01.27-00.41.14:820][866]LogUObjectGlobals: Created PersistentFrame Addr=0x00000285f6696d08, Size=4, Default__SKEL_BP_Bird_C Function /Engine/Transient.REINST_SKEL_BP_Bird_C_384:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.41.14:826][866]LogUObjectGlobals: Created PersistentFrame Addr=0x00000285f6694f70, Size=4, Default__SKEL_BP_Bird_C Function /Game/Character_BPs/BP_Bird.SKEL_BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.41.16:887][948]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000285f6694f70, Size=4
+[2019.01.27-00.41.16:887][948]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028629b4def8, Size=4, Default__SKEL_BP_Bird_C Function /Engine/Transient.REINST_SKEL_BP_Bird_C_386:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.41.16:892][948]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028629b4cea8, Size=4, Default__SKEL_BP_Bird_C Function /Game/Character_BPs/BP_Bird.SKEL_BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.41.22:577][200]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028629b4cea8, Size=4
+[2019.01.27-00.41.22:577][200]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028629b4cea8, Size=4, Default__SKEL_BP_Bird_C Function /Engine/Transient.REINST_SKEL_BP_Bird_C_388:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.41.22:583][200]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028629b4cc28, Size=4, Default__SKEL_BP_Bird_C Function /Game/Character_BPs/BP_Bird.SKEL_BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.42.16:297][645]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028629b4cc28, Size=4
+[2019.01.27-00.42.16:297][645]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028624a16928, Size=4, Default__SKEL_BP_Bird_C Function /Engine/Transient.REINST_SKEL_BP_Bird_C_390:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.42.16:303][645]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028624a14ab8, Size=4, Default__SKEL_BP_Bird_C Function /Game/Character_BPs/BP_Bird.SKEL_BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.42.18:827][749]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028624a14ab8, Size=4
+[2019.01.27-00.42.18:827][749]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028629b4d588, Size=4, Default__SKEL_BP_Bird_C Function /Engine/Transient.REINST_SKEL_BP_Bird_C_392:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.42.18:836][749]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028624a14538, Size=4, Default__SKEL_BP_Bird_C Function /Game/Character_BPs/BP_Bird.SKEL_BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.42.20:263][805]BlueprintLog: New page: Compile BP_Bird
+[2019.01.27-00.42.20:293][805]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028624a14538, Size=4
+[2019.01.27-00.42.20:293][805]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028624a14538, Size=4, Default__SKEL_BP_Bird_C Function /Engine/Transient.REINST_SKEL_BP_Bird_C_398:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.42.20:335][805]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002852eb03200, Size=1392
+[2019.01.27-00.42.20:335][805]LogUObjectGlobals: Created PersistentFrame Addr=0x00000284cb864100, Size=1392, BP_Bird_C_354 Function /Engine/Transient.REINST_BP_Bird_C_407:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.42.20:348][805]LogUObjectGlobals: Created PersistentFrame Addr=0x000002850f5d4800, Size=1392, Default__BP_Bird_C Function /Game/Character_BPs/BP_Bird.BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.27-00.42.20:605][805]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002850ee528c0, Size=4
+[2019.01.27-00.42.20:606][805]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028624a14538, Size=4
+[2019.01.27-00.42.20:606][805]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002862d2c3038, Size=4
+[2019.01.27-00.42.20:606][805]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028636ee5600, Size=1392
+[2019.01.27-00.43.14:501][853]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.27-00.43.51:970][134]BlueprintLog: New page: Compile Level2_V4
+[2019.01.27-00.43.51:979][134]LogUObjectGlobals: Created PersistentFrame Addr=0x000002862f68dd78, Size=40, Default__Level2_V4_C Function /Game/Maps/Level2_V4.Level2_V4_C:ExecuteUbergraph_Level2_V4
+[2019.01.27-00.43.55:100][409]LogUObjectGlobals: Created PersistentFrame Addr=0x000002850fd7cab8, Size=4, Default__SKEL_Level2_V4_C Function /Game/Maps/Level2_V4.SKEL_Level2_V4_C:ExecuteUbergraph_Level2_V4
+[2019.01.27-00.43.58:743][714]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002850fd7cab8, Size=4
+[2019.01.27-00.43.58:743][714]LogUObjectGlobals: Created PersistentFrame Addr=0x000002850fd7cab8, Size=4, Default__SKEL_Level2_V4_C Function /Engine/Transient.REINST_SKEL_Level2_V4_C_417:ExecuteUbergraph_Level2_V4
+[2019.01.27-00.43.58:745][714]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002862f68dd78, Size=40
+[2019.01.27-00.43.58:745][714]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028555c254e0, Size=40, Default__Level2_V4_C Function /Engine/Transient.REINST_Level2_V4_C_419:ExecuteUbergraph_Level2_V4
+[2019.01.27-00.43.58:746][714]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028555c24cc0, Size=40, Default__Level2_V4_C Function /Game/Maps/Level2_V4.Level2_V4_C:ExecuteUbergraph_Level2_V4
+[2019.01.27-00.43.59:299][714]LogSavePackage: Save=557.81ms
+[2019.01.27-00.43.59:299][714]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Level2_V465CF584B40D3D6A8B47390B3B8FF1E0A.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Maps/Level2_V4.umap'
+[2019.01.27-00.43.59:301][714]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Maps/Level2_V4.umap
+[2019.01.27-00.43.59:336][714]LogFileHelpers: Saving map 'Level2_V4' took 0.747
+[2019.01.27-00.43.59:753][748]BlueprintLog: New page: Compile Level2_V4
+[2019.01.27-00.43.59:758][748]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028555c24cc0, Size=40
+[2019.01.27-00.43.59:758][748]LogUObjectGlobals: Created PersistentFrame Addr=0x000002862f68fa10, Size=40, Level2_V4_C_0 Function /Engine/Transient.REINST_Level2_V4_C_423:ExecuteUbergraph_Level2_V4
+[2019.01.27-00.43.59:759][748]LogUObjectGlobals: Created PersistentFrame Addr=0x000002862f68c1d0, Size=40, Default__Level2_V4_C Function /Game/Maps/Level2_V4.Level2_V4_C:ExecuteUbergraph_Level2_V4
+[2019.01.27-00.43.59:855][748]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028624a16928, Size=4
+[2019.01.27-00.43.59:855][748]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028629b4d588, Size=4
+[2019.01.27-00.43.59:855][748]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028629b4def8, Size=4
+[2019.01.27-00.43.59:855][748]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000285f6696d08, Size=4
+[2019.01.27-00.43.59:855][748]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028555c254e0, Size=40
+[2019.01.27-00.43.59:855][748]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028629b4cea8, Size=4
+[2019.01.27-00.43.59:855][748]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000284cb864100, Size=1392
+[2019.01.27-00.43.59:855][748]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002850fd7cab8, Size=4
+[2019.01.27-00.44.06:904][294]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002862f68fa10, Size=40
+[2019.01.27-00.44.07:076][294]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002862f68c1d0, Size=40
+[2019.01.27-00.44.07:076][294]LogUObjectGlobals: Created PersistentFrame Addr=0x00000285fc37eea8, Size=40, Default__Level2_V4_C Function /Engine/Transient.REINST_Level2_V4_C_427:ExecuteUbergraph_Level2_V4
+[2019.01.27-00.44.07:077][294]LogUObjectGlobals: Created PersistentFrame Addr=0x00000285fc37cc48, Size=40, Default__Level2_V4_C Function /Game/Maps/Level2_V4.Level2_V4_C:ExecuteUbergraph_Level2_V4
+[2019.01.27-00.44.07:576][294]LogSavePackage: Save=504.40ms
+[2019.01.27-00.44.07:576][294]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Level2_V473F6BA9B4DFD6208045ECE830413427E.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Maps/Level2_V4.umap'
+[2019.01.27-00.44.07:578][294]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Maps/Level2_V4.umap
+[2019.01.27-00.44.07:608][294]LogFileHelpers: Saving map 'Level2_V4' took 0.685
+[2019.01.27-00.44.07:611][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_BPs/BP_Bird" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset" SILENT=true
+[2019.01.27-00.44.07:728][294]LogSavePackage: Save=112.80ms
+[2019.01.27-00.44.07:728][294]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BP_Bird129DC254424F7C1BA7517DA497531CE9.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset'
+[2019.01.27-00.44.07:730][294]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset
+[2019.01.27-00.44.08:763][364]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028623e1b660, Size=32, Default__Level3_V1_C Function /Game/Maps/Level3_V1.Level3_V1_C:ExecuteUbergraph_Level3_V1
+[2019.01.27-00.44.08:764][364]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028623e1b660, Size=32
+[2019.01.27-00.44.08:764][364]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028623e1b660, Size=32, Default__Level3_V1_C Function /Engine/Transient.REINST_Level3_V1_C_429:ExecuteUbergraph_Level3_V1
+[2019.01.27-00.44.08:765][364]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028623e1b240, Size=32, Default__Level3_V1_C Function /Game/Maps/Level3_V1.Level3_V1_C:ExecuteUbergraph_Level3_V1
+[2019.01.27-00.44.08:776][364]LogAIModule: Creating AISystem for world Level3_V1
+[2019.01.27-00.44.08:804][364]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028623e1b660, Size=32
+[2019.01.27-00.44.08:804][364]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000285fc37eea8, Size=40
+[2019.01.27-00.44.08:805][364]Cmd: MAP LOAD FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Maps/Level3_V1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.27-00.44.08:805][364]LightingResults: New page: Lighting Build
+[2019.01.27-00.44.08:806][364]LoadErrors: New page: Loading map: Level3_V1.umap
+[2019.01.27-00.44.08:810][364]MapCheck: New page: Map Check
+[2019.01.27-00.44.08:810][364]LightingResults: New page: Lighting Build
+[2019.01.27-00.44.08:833][364]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000285fc37cc48, Size=40
+[2019.01.27-00.44.08:841][364]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.27-00.44.08:901][364]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.27-00.44.09:012][364]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 111.107ms to complete.
+[2019.01.27-00.44.09:014][364]LogFileHelpers: Loading map 'Level3_V1' took 0.210
+[2019.01.27-00.44.11:915][593]LogUObjectGlobals: Created PersistentFrame Addr=0x00000285f6f63320, Size=32, Default__Level1_V3_C Function /Game/Maps/Level1_V3.Level1_V3_C:ExecuteUbergraph_Level1_V3
+[2019.01.27-00.44.11:916][593]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000285f6f63320, Size=32
+[2019.01.27-00.44.11:916][593]LogUObjectGlobals: Created PersistentFrame Addr=0x00000285f6f63320, Size=32, Default__Level1_V3_C Function /Engine/Transient.REINST_Level1_V3_C_431:ExecuteUbergraph_Level1_V3
+[2019.01.27-00.44.11:917][593]LogUObjectGlobals: Created PersistentFrame Addr=0x00000285f6f60ce0, Size=32, Default__Level1_V3_C Function /Game/Maps/Level1_V3.Level1_V3_C:ExecuteUbergraph_Level1_V3
+[2019.01.27-00.44.12:044][593]LogAIModule: Creating AISystem for world Level1_V3
+[2019.01.27-00.44.12:102][593]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000285f6f63320, Size=32
+[2019.01.27-00.44.12:104][593]Cmd: MAP LOAD FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Maps/Level1_V3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.27-00.44.12:104][593]LightingResults: New page: Lighting Build
+[2019.01.27-00.44.12:104][593]LoadErrors: New page: Loading map: Level1_V3.umap
+[2019.01.27-00.44.12:105][593]MapCheck: New page: Map Check
+[2019.01.27-00.44.12:105][593]LightingResults: New page: Lighting Build
+[2019.01.27-00.44.12:126][593]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028623e1b240, Size=32
+[2019.01.27-00.44.12:174][593]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.27-00.44.12:238][593]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.27-00.44.12:355][593]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 117.634ms to complete.
+[2019.01.27-00.44.12:357][593]LogFileHelpers: Loading map 'Level1_V3' took 0.255
+[2019.01.27-00.44.21:106][320]LogEditorTransaction: Undo Delete current selection
+[2019.01.27-00.44.21:107][320]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028510cce090, Size=4, Default__SKEL_Level1_V3_C Function /Game/Maps/Level1_V3.SKEL_Level1_V3_C:ExecuteUbergraph_Level1_V3
+[2019.01.27-00.44.24:968][639]LogUObjectGlobals: Created PersistentFrame Addr=0x00000286393ae6d8, Size=40, Default__Level2_V4_C Function /Game/Maps/Level2_V4.Level2_V4_C:ExecuteUbergraph_Level2_V4
+[2019.01.27-00.44.24:969][639]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000286393ae6d8, Size=40
+[2019.01.27-00.44.24:969][639]LogUObjectGlobals: Created PersistentFrame Addr=0x00000286393ae6d8, Size=40, Default__Level2_V4_C Function /Engine/Transient.REINST_Level2_V4_C_437:ExecuteUbergraph_Level2_V4
+[2019.01.27-00.44.24:971][639]LogUObjectGlobals: Created PersistentFrame Addr=0x00000286393af088, Size=40, Default__Level2_V4_C Function /Game/Maps/Level2_V4.Level2_V4_C:ExecuteUbergraph_Level2_V4
+[2019.01.27-00.44.25:023][639]LogAIModule: Creating AISystem for world Level2_V4
+[2019.01.27-00.44.25:113][639]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000286393ae6d8, Size=40
+[2019.01.27-00.44.28:870][639]LogSlate: Window 'Save Content' being destroyed
+[2019.01.27-00.44.28:875][639]Cmd: MAP LOAD FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Maps/Level2_V4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.27-00.44.28:878][639]LightingResults: New page: Lighting Build
+[2019.01.27-00.44.28:879][639]LoadErrors: New page: Loading map: Level2_V4.umap
+[2019.01.27-00.44.28:927][639]MapCheck: New page: Map Check
+[2019.01.27-00.44.28:927][639]LightingResults: New page: Lighting Build
+[2019.01.27-00.44.28:949][639]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000285f6f60ce0, Size=32
+[2019.01.27-00.44.28:950][639]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028510cce090, Size=4
+[2019.01.27-00.44.29:113][639]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.27-00.44.29:178][639]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.27-00.44.29:295][639]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 118.296ms to complete.
+[2019.01.27-00.44.29:295][639]LogFileHelpers: Loading map 'Level2_V4' took 0.422
+[2019.01.27-00.44.38:818][250]LogUObjectGlobals: Created PersistentFrame Addr=0x00000286229031a0, Size=32, Default__Level1_V3_C Function /Game/Maps/Level1_V3.Level1_V3_C:ExecuteUbergraph_Level1_V3
+[2019.01.27-00.44.38:819][250]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000286229031a0, Size=32
+[2019.01.27-00.44.38:819][250]LogUObjectGlobals: Created PersistentFrame Addr=0x00000286229031a0, Size=32, Default__Level1_V3_C Function /Engine/Transient.REINST_Level1_V3_C_439:ExecuteUbergraph_Level1_V3
+[2019.01.27-00.44.38:820][250]LogUObjectGlobals: Created PersistentFrame Addr=0x00000286229021c0, Size=32, Default__Level1_V3_C Function /Game/Maps/Level1_V3.Level1_V3_C:ExecuteUbergraph_Level1_V3
+[2019.01.27-00.44.38:927][250]LogAIModule: Creating AISystem for world Level1_V3
+[2019.01.27-00.44.38:987][250]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000286229031a0, Size=32
+[2019.01.27-00.44.38:988][250]Cmd: MAP LOAD FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Maps/Level1_V3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.27-00.44.38:988][250]LightingResults: New page: Lighting Build
+[2019.01.27-00.44.38:989][250]LoadErrors: New page: Loading map: Level1_V3.umap
+[2019.01.27-00.44.39:039][250]MapCheck: New page: Map Check
+[2019.01.27-00.44.39:039][250]LightingResults: New page: Lighting Build
+[2019.01.27-00.44.39:062][250]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000286393af088, Size=40
+[2019.01.27-00.44.39:118][250]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.27-00.44.39:177][250]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.27-00.44.39:293][250]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 115.423ms to complete.
+[2019.01.27-00.44.39:293][250]LogFileHelpers: Loading map 'Level1_V3' took 0.306
+[2019.01.27-00.44.45:708][717]LogUObjectGlobals: Created PersistentFrame Addr=0x00000285f64eb610, Size=4, Default__SKEL_Level1_V3_C Function /Game/Maps/Level1_V3.SKEL_Level1_V3_C:ExecuteUbergraph_Level1_V3
+[2019.01.27-00.44.48:509][968]BlueprintLog: New page: Compile Level1_V3
+[2019.01.27-00.44.48:512][968]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000285f64eb610, Size=4
+[2019.01.27-00.44.48:512][968]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028633acc4e0, Size=4, Default__SKEL_Level1_V3_C Function /Engine/Transient.REINST_SKEL_Level1_V3_C_445:ExecuteUbergraph_Level1_V3
+[2019.01.27-00.44.48:514][968]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000286229021c0, Size=32
+[2019.01.27-00.44.48:514][968]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028633bc2a60, Size=32, Default__Level1_V3_C Function /Engine/Transient.REINST_Level1_V3_C_447:ExecuteUbergraph_Level1_V3
+[2019.01.27-00.44.48:516][968]LogUObjectGlobals: Created PersistentFrame Addr=0x000002862f68fb50, Size=40, Default__Level1_V3_C Function /Game/Maps/Level1_V3.Level1_V3_C:ExecuteUbergraph_Level1_V3
+[2019.01.27-00.44.48:609][968]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028633acc4e0, Size=4
