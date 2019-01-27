@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="132">
 	<RootPaths>
+<<<<<<< HEAD
 		<ProjectRoot>C:\Users\DA_Ra\Desktop\BirdsOfAFeather\</ProjectRoot>
 		<SourceFilesRoot>C:\Users\DA_Ra\Desktop\BirdsOfAFeather\.cache\Windows\</SourceFilesRoot>
 		<SoundBanksRoot>D:\Github\BirdsOfAFeather\Content\WwiseAudio\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
 		<ExternalSourcesOutputRoot>C:\Users\DA_Ra\Desktop\BirdsOfAFeather\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+=======
+		<ProjectRoot>C:\Users\DA_Ra\Documents\WwiseProjects\BirdsOfAFeather\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\DA_Ra\Documents\WwiseProjects\BirdsOfAFeather\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Github\BirdsOfFeather\BirdsOfAFeather\Content\WwiseAudio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\DA_Ra\Documents\WwiseProjects\BirdsOfAFeather\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+>>>>>>> Wwise
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
