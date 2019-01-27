@@ -25496,3 +25496,20 @@ LogInit: Object subsystem initialized
 [2019.01.27-03.34.08:709][780]LogSavePackage: Save=20.99ms
 [2019.01.27-03.34.08:709][780]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BP_Gale07BF985D43EE1985D539A0BE1B1350C1.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Prop_BPs/BP_Gale.uasset'
 [2019.01.27-03.34.08:711][780]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Prop_BPs/BP_Gale.uasset
+[2019.01.27-03.34.56:592][266]AssetReimport: New page: Outstanding source content changes 03:34:56
+[2019.01.27-03.34.56:606][266]LogEditorFactories: Performing atomic reimport of [C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/whooshmask.png]
+[2019.01.27-03.34.56:606][266]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/whooshmask.png)
+[2019.01.27-03.34.56:627][266]LogEditorFactories: -- imported successfully
+[2019.01.27-03.34.56:653][267]LogEditorFactories: Performing atomic reimport of [C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/whoosh.png]
+[2019.01.27-03.34.56:654][267]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/whoosh.png)
+[2019.01.27-03.34.56:670][267]LogEditorFactories: -- imported successfully
+[2019.01.27-03.34.56:716][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/whooshmask" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/whooshmask.uasset" SILENT=true
+[2019.01.27-03.34.56:735][268]LogSavePackage: Save=7.12ms
+[2019.01.27-03.34.56:736][268]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/whooshmaskE2B52D564CC8186D1FED4D9A411FC680.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/whooshmask.uasset'
+[2019.01.27-03.34.56:737][268]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/whooshmask.uasset
+[2019.01.27-03.34.56:748][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/whoosh" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/whoosh.uasset" SILENT=true
+[2019.01.27-03.34.56:764][268]LogSavePackage: Save=6.63ms
+[2019.01.27-03.34.56:764][268]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/whooshDA0C92F04923750351EF58971383270B.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/whoosh.uasset'
+[2019.01.27-03.34.56:766][268]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/whoosh.uasset
+[2019.01.27-03.34.59:797][396]AssetReimport: Reimported asset whooshmask from C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/whooshmask.png.
+[2019.01.27-03.34.59:797][396]AssetReimport: Reimported asset whoosh from C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/whoosh.png.
