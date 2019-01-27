@@ -12278,3 +12278,1210 @@ LogInit: Object subsystem initialized
 [2019.01.27-04.28.18:857][592]LogSavePackage: Save=124.94ms
 [2019.01.27-04.28.18:857][592]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BP_BirdB66844E04A5938E8A1325BA7CB1E3408.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset'
 [2019.01.27-04.28.18:859][592]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset
+[2019.01.27-04.32.08:554][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-04.32.29:459][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-04.32.29:542][526]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.01.27-04.32.29:572][526]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level3_V2.Level3_V2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level3_V2.Level3_V2:PersistentLevel.Level3_V2' with GeneratedClass '/Game/Maps/Level3_V2.Level3_V2_C' with ClassGeneratedBy '/Game/Maps/Level3_V2.Level3_V2:PersistentLevel.Level3_V2'
+[2019.01.27-04.32.29:572][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-04.32.29:572][526]PIE: New page: PIE session: Level3_V2 (27 Jan 2019 04:32:29)
+[2019.01.27-04.32.29:572][526]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level3_V2
+[2019.01.27-04.32.29:581][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008590s)
+[2019.01.27-04.32.29:582][526]LogAIModule: Creating AISystem for world Level3_V2
+[2019.01.27-04.32.29:582][526]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2019.01.27-04.32.29:582][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level3_V2.Level3_V2 to /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2 (0.009395s)
+[2019.01.27-04.32.29:609][526]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-04.32.29:628][526]LogInit: FAudioDevice initialized.
+[2019.01.27-04.32.29:697][526]LogLoad: Game class is 'BOAF_C'
+[2019.01.27-04.32.29:700][526]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2 up for play (max tick rate 0) at 2019.01.27-04.32.29
+[2019.01.27-04.32.29:701][526]LogWorld: Bringing up level for play took: 0.003305
+[2019.01.27-04.32.29:712][526]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level3_V2 -0.732
+[2019.01.27-04.32.29:712][526]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level3_V2.Level3_V2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level3_V2.Level3_V2:PersistentLevel.Level3_V2' with GeneratedClass '/Game/Maps/Level3_V2.Level3_V2_C' with ClassGeneratedBy '/Game/Maps/Level3_V2.Level3_V2:PersistentLevel.Level3_V2'
+[2019.01.27-04.32.29:712][526]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.29:790][527]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.29:816][528]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.29:836][529]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.29:854][530]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.29:876][531]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.29:895][532]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.29:913][533]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.29:933][534]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.29:951][535]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.29:974][536]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.29:991][537]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:011][538]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:030][539]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:049][540]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:067][541]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:085][542]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:103][543]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:125][544]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:142][545]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:163][546]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:181][547]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:200][548]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:218][549]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:237][550]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:257][551]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:276][552]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:294][553]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:316][554]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:334][555]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:354][556]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:372][557]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:390][558]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:407][559]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:431][560]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:449][561]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:470][562]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:491][563]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:508][564]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:535][565]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:553][566]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:574][567]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:597][568]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:617][569]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:638][570]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:659][571]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:677][572]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:695][573]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:715][574]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:736][575]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:753][576]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:771][577]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:790][578]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:806][579]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:824][580]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:841][581]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:862][582]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:879][583]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.32.30:881][583]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level3_V2.Level3_V2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level3_V2.Level3_V2:PersistentLevel.Level3_V2' with GeneratedClass '/Game/Maps/Level3_V2.Level3_V2_C' with ClassGeneratedBy '/Game/Maps/Level3_V2.Level3_V2:PersistentLevel.Level3_V2'
+[2019.01.27-04.32.30:902][583]LogSlate: Window 'BirdsOfAFeather Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.01.27-04.32.30:934][583]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level3_V2.Level3_V2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level3_V2.Level3_V2:PersistentLevel.Level3_V2' with GeneratedClass '/Game/Maps/Level3_V2.Level3_V2_C' with ClassGeneratedBy '/Game/Maps/Level3_V2.Level3_V2:PersistentLevel.Level3_V2'
+[2019.01.27-04.32.39:239][115]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (DeathFadeVolume)
+[2019.01.27-04.32.41:346][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-04.32.44:298][418]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.27-04.32.49:356][726]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.27-04.32.53:046][949]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.27-04.33.03:509][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-04.33.12:974][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-04.33.17:219][350]LogMaterial: Missing cached shader map for material InvisibleWuwu, compiling. 
+[2019.01.27-04.33.17:220][350]LogMaterial: Warning: /Engine/Transient.InvisibleWuwu (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.27-04.33.17:220][350]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2019.01.27-04.33.17:495][350]LogMaterial: Missing cached shader map for material InvisibleWuwu, compiling. 
+[2019.01.27-04.33.17:496][350]LogMaterial: Warning: /Engine/Transient.InvisibleWuwu (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.27-04.33.17:496][350]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2019.01.27-04.33.17:498][350]LogMaterial: Missing cached shader map for material InvisibleWuwu, compiling. 
+[2019.01.27-04.33.17:498][350]LogMaterial: Warning: /Engine/Transient.InvisibleWuwu (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.27-04.33.17:498][350]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2019.01.27-04.33.17:530][350]MaterialEditorStats: Error: [SM5] Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2019.01.27-04.33.21:092][637]LogSlate: Window 'InvisibleWuwu' being destroyed
+[2019.01.27-04.33.21:096][637]LogSlate: Window 'InvisibleWuwu' being destroyed
+[2019.01.27-04.33.21:171][637]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.27-04.33.28:755][215]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.01.27-04.34.02:346][208]BlueprintLog: New page: Compile BP_OutOfBounds
+[2019.01.27-04.34.02:501][208]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000259e6318f00, Size=1392
+[2019.01.27-04.34.11:179][945]LogUObjectGlobals: Created PersistentFrame Addr=0x000002599b0c9da8, Size=4, Default__SKEL_BP_OutOfBounds_C Function /Game/Prop_BPs/BP_OutOfBounds.SKEL_BP_OutOfBounds_C:ExecuteUbergraph_BP_OutOfBounds
+[2019.01.27-04.34.35:525][429]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002599b0c9da8, Size=4
+[2019.01.27-04.34.35:525][429]LogUObjectGlobals: Created PersistentFrame Addr=0x000002599c4219c8, Size=4, Default__SKEL_BP_OutOfBounds_C Function /Engine/Transient.REINST_SKEL_BP_OutOfBounds_C_126:ExecuteUbergraph_BP_OutOfBounds
+[2019.01.27-04.34.35:526][429]LogUObjectGlobals: Created PersistentFrame Addr=0x000002599c421a28, Size=4, Default__SKEL_BP_OutOfBounds_C Function /Game/Prop_BPs/BP_OutOfBounds.SKEL_BP_OutOfBounds_C:ExecuteUbergraph_BP_OutOfBounds
+[2019.01.27-04.34.40:876][891]LogEditorActor: Deleted Actor: PostProcessVolume
+[2019.01.27-04.34.40:894][891]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002599c4219c8, Size=4
+[2019.01.27-04.34.40:895][891]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.01.27-04.35.21:017][996]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.27-04.35.39:689][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-04.36.01:194][442]LogEditorTransaction: Undo Edit Contrast
+[2019.01.27-04.37.06:738][737]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000259ab5a64a8, Size=40
+[2019.01.27-04.37.06:738][737]LogUObjectGlobals: Created PersistentFrame Addr=0x00000259ab5a64a8, Size=40, Default__Level3_V2_C Function /Engine/Transient.REINST_Level3_V2_C_130:ExecuteUbergraph_Level3_V2
+[2019.01.27-04.37.06:740][737]LogUObjectGlobals: Created PersistentFrame Addr=0x00000259ab5a7060, Size=40, Default__Level3_V2_C Function /Game/Maps/Level3_V2.Level3_V2_C:ExecuteUbergraph_Level3_V2
+[2019.01.27-04.37.06:902][737]LogSavePackage: Save=169.13ms
+[2019.01.27-04.37.06:902][737]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Level3_V2_Auto1A9B20B2C42E61B01ACCA078B5AC11778.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Maps/Level3_V2_Auto1.umap'
+[2019.01.27-04.37.06:904][737]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Maps/Level3_V2_Auto1.umap
+[2019.01.27-04.37.06:905][737]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level3_V2' took 0.212
+[2019.01.27-04.37.06:905][737]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.212
+[2019.01.27-04.37.06:907][737]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Prop_BPs/BP_OutOfBounds] ([1] browsable assets)...
+[2019.01.27-04.37.06:907][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/Prop_BPs/BP_OutOfBounds]
+[2019.01.27-04.37.06:918][737]LogSavePackage: Save=10.46ms
+[2019.01.27-04.37.06:919][737]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BP_OutOfBounds_Auto19A8FAC80406222F70E4FCBA74AAAD168.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Prop_BPs/BP_OutOfBounds_Auto1.uasset'
+[2019.01.27-04.37.06:920][737]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Prop_BPs/BP_OutOfBounds_Auto1.uasset
+[2019.01.27-04.37.06:921][737]LogFileHelpers: Auto-saving content packages took 0.015
+[2019.01.27-04.37.17:501][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-04.37.48:676][521]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002599c421a28, Size=4
+[2019.01.27-04.37.48:676][521]LogUObjectGlobals: Created PersistentFrame Addr=0x00000259cf9a47e0, Size=4, Default__SKEL_BP_OutOfBounds_C Function /Engine/Transient.REINST_SKEL_BP_OutOfBounds_C_132:ExecuteUbergraph_BP_OutOfBounds
+[2019.01.27-04.37.48:678][521]LogUObjectGlobals: Created PersistentFrame Addr=0x00000259cf9a4210, Size=4, Default__SKEL_BP_OutOfBounds_C Function /Game/Prop_BPs/BP_OutOfBounds.SKEL_BP_OutOfBounds_C:ExecuteUbergraph_BP_OutOfBounds
+[2019.01.27-04.37.54:759][ 77]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000259cf9a4210, Size=4
+[2019.01.27-04.37.54:759][ 77]LogUObjectGlobals: Created PersistentFrame Addr=0x000002589ee28328, Size=4, Default__SKEL_BP_OutOfBounds_C Function /Engine/Transient.REINST_SKEL_BP_OutOfBounds_C_134:ExecuteUbergraph_BP_OutOfBounds
+[2019.01.27-04.37.54:760][ 77]LogUObjectGlobals: Created PersistentFrame Addr=0x000002589ee29240, Size=4, Default__SKEL_BP_OutOfBounds_C Function /Game/Prop_BPs/BP_OutOfBounds.SKEL_BP_OutOfBounds_C:ExecuteUbergraph_BP_OutOfBounds
+[2019.01.27-04.37.56:323][209]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.01.27-04.38.06:176][213]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002589ee29240, Size=4
+[2019.01.27-04.38.06:176][213]LogUObjectGlobals: Created PersistentFrame Addr=0x000002599c564338, Size=4, Default__SKEL_BP_OutOfBounds_C Function /Engine/Transient.REINST_SKEL_BP_OutOfBounds_C_136:ExecuteUbergraph_BP_OutOfBounds
+[2019.01.27-04.38.06:178][213]LogUObjectGlobals: Created PersistentFrame Addr=0x000002599c564290, Size=4, Default__SKEL_BP_OutOfBounds_C Function /Game/Prop_BPs/BP_OutOfBounds.SKEL_BP_OutOfBounds_C:ExecuteUbergraph_BP_OutOfBounds
+[2019.01.27-04.38.17:928][257]BlueprintLog: New page: Compile BP_OutOfBounds
+[2019.01.27-04.38.17:931][257]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002599c564290, Size=4
+[2019.01.27-04.38.17:931][257]LogUObjectGlobals: Created PersistentFrame Addr=0x00000259a7b44470, Size=4, Default__SKEL_BP_OutOfBounds_C Function /Engine/Transient.REINST_SKEL_BP_OutOfBounds_C_138:ExecuteUbergraph_BP_OutOfBounds
+[2019.01.27-04.38.17:934][257]LogBlueprint: Warning: [Compiler BP_OutOfBounds] 'Post Process Component' does not inherit from 'Post Process Volume' ( Cast To PostProcessComponent  would always fail).
+[2019.01.27-04.38.17:935][257]LogUObjectGlobals: Created PersistentFrame Addr=0x000002599c8f8aa0, Size=216, Default__BP_OutOfBounds_C Function /Game/Prop_BPs/BP_OutOfBounds.BP_OutOfBounds_C:ExecuteUbergraph_BP_OutOfBounds
+[2019.01.27-04.38.18:163][257]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000259ab5a64a8, Size=40
+[2019.01.27-04.38.18:163][257]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000259cf9a47e0, Size=4
+[2019.01.27-04.38.18:163][257]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000259a7b44470, Size=4
+[2019.01.27-04.38.18:163][257]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002599c564338, Size=4
+[2019.01.27-04.38.18:163][257]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002589ee28328, Size=4
+[2019.01.27-04.38.18:171][257]LogBlueprint: Warning: [Compiler BP_OutOfBounds] [1503.31] Compile of BP_OutOfBounds successful, but with 1 Warning(s) [in 242 ms] (/Game/Prop_BPs/BP_OutOfBounds.BP_OutOfBounds)
+[2019.01.27-04.39.27:267][ 62]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.01.27-04.40.42:625][324]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background3_Sprite)
+[2019.01.27-04.40.43:557][374]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background3_Sprite)
+[2019.01.27-04.40.45:188][456]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background3_Sprite)
+[2019.01.27-04.40.45:663][478]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background3_Sprite)
+[2019.01.27-04.40.47:631][636]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background3_Sprite)
+[2019.01.27-04.40.48:224][684]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background3_Sprite)
+[2019.01.27-04.40.48:707][723]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background3_Sprite)
+[2019.01.27-04.40.54:244][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-04.41.28:013][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-04.43.03:015][490]LogEditorFactories: Performing atomic reimport of [C:/Users/bs18abb/Documents/BP_Character/Damage_sprite_sheet.png]
+[2019.01.27-04.43.03:016][490]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/bs18abb/Documents/BP_Character/Damage_sprite_sheet.png)
+[2019.01.27-04.43.03:081][490]LogTexture: Display: Building textures: Damage_sprite_sheet (BGRA8, 2880X546)
+[2019.01.27-04.43.03:218][490]LogEditorFactories: -- imported successfully
+[2019.01.27-04.43.07:508][656]LogSavePackage: Save=85.02ms
+[2019.01.27-04.43.07:508][656]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Damage_sprite_sheetB741A912465EFBA2DAF825BE298CF464.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/ReferenceImages/Damage_sprite_sheet.uasset'
+[2019.01.27-04.43.07:511][656]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/ReferenceImages/Damage_sprite_sheet.uasset
+[2019.01.27-04.43.23:729][ 57]LogEditorFactories: Performing atomic reimport of [C:/Users/bs18abb/Documents/BP_Character/Damage_sprite_sheet.png]
+[2019.01.27-04.43.23:730][ 57]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/bs18abb/Documents/BP_Character/Damage_sprite_sheet.png)
+[2019.01.27-04.43.23:781][ 57]LogTexture: Display: Building textures: Damage_sprite_sheet (BGRA8, 2880X546)
+[2019.01.27-04.43.23:898][ 57]LogEditorFactories: -- imported successfully
+[2019.01.27-04.43.31:385][672]LogRenderer: Reallocating scene render targets to support 1528x920 Format 10 NumSamples 1 (Frame:1).
+[2019.01.27-04.43.41:212][479]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.01.27-04.43.52:596][527]LogSlate: Window 'Damage_sprite_sheet*' being destroyed
+[2019.01.27-04.43.52:600][527]LogSlate: Window 'Damage_sprite_sheet*' being destroyed
+[2019.01.27-04.44.45:251][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-04.45.00:389][248]LogSlate: Window 'Extract sprites' being destroyed
+[2019.01.27-04.45.09:112][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-04.45.17:776][420]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.27-04.45.17:781][420]LogSlate: Window 'Damage_sprite_sheet_Sprite_0' being destroyed
+[2019.01.27-04.45.25:548][812]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.27-04.45.55:925][ 75]LogSavePackage: Save=6.48ms
+[2019.01.27-04.45.55:925][ 75]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Damage_Flipbook964E8612431234A8E3230DB15B7E0EF4.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/ReferenceImages/Damage_Flipbook.uasset'
+[2019.01.27-04.45.55:928][ 75]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/ReferenceImages/Damage_Flipbook.uasset
+[2019.01.27-04.46.02:870][815]LogSavePackage: Save=4.30ms
+[2019.01.27-04.46.02:870][815]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Damage_Flipbook4A117D744EF17D3F230A30BF7CAE05C5.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/Sprites/Damage_Flipbook.uasset'
+[2019.01.27-04.46.02:872][815]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/Sprites/Damage_Flipbook.uasset
+[2019.01.27-04.46.07:356][250]LogSavePackage: Save=5.01ms
+[2019.01.27-04.46.07:356][250]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Damage_sprite_sheet_Sprite_010EFCAED440D6E2824F0D8A77BC96C50.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/Sprites/FlipBookRefs/Damage_sprite_sheet_Sprite_0.uasset'
+[2019.01.27-04.46.07:358][250]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/Sprites/FlipBookRefs/Damage_sprite_sheet_Sprite_0.uasset
+[2019.01.27-04.46.07:379][250]LogSavePackage: Save=5.86ms
+[2019.01.27-04.46.07:379][250]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Damage_sprite_sheet_Sprite_1046DA1E7419A75504382A6984FDE4F51.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/Sprites/FlipBookRefs/Damage_sprite_sheet_Sprite_1.uasset'
+[2019.01.27-04.46.07:382][250]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/Sprites/FlipBookRefs/Damage_sprite_sheet_Sprite_1.uasset
+[2019.01.27-04.46.07:398][250]LogSavePackage: Save=5.72ms
+[2019.01.27-04.46.07:398][250]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Damage_sprite_sheet_Sprite_24598A271482547D941A0549E329EA8B7.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/Sprites/FlipBookRefs/Damage_sprite_sheet_Sprite_2.uasset'
+[2019.01.27-04.46.07:400][250]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/Sprites/FlipBookRefs/Damage_sprite_sheet_Sprite_2.uasset
+[2019.01.27-04.46.07:419][250]LogSavePackage: Save=5.49ms
+[2019.01.27-04.46.07:419][250]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Damage_sprite_sheet_Sprite_3EABE994B4833F3125F090A81A692B953.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/Sprites/FlipBookRefs/Damage_sprite_sheet_Sprite_3.uasset'
+[2019.01.27-04.46.07:421][250]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/Sprites/FlipBookRefs/Damage_sprite_sheet_Sprite_3.uasset
+[2019.01.27-04.46.07:437][250]LogSavePackage: Save=4.96ms
+[2019.01.27-04.46.07:437][250]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Damage_sprite_sheet_Sprite_489B96A124F69A46548591D9F9C8B7A70.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/Sprites/FlipBookRefs/Damage_sprite_sheet_Sprite_4.uasset'
+[2019.01.27-04.46.07:439][250]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/Sprites/FlipBookRefs/Damage_sprite_sheet_Sprite_4.uasset
+[2019.01.27-04.46.07:840][250]LogSavePackage: Save=1.19ms
+[2019.01.27-04.46.07:840][250]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Damage_FlipbookFE1291AE4DC8B343D9AA8E95CFC15627.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/Sprites/Damage_Flipbook.uasset'
+[2019.01.27-04.46.07:842][250]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/Sprites/Damage_Flipbook.uasset
+[2019.01.27-04.46.10:418][518]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.01.27-04.46.10:461][518]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level3_V2.Level3_V2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level3_V2.Level3_V2:PersistentLevel.Level3_V2' with GeneratedClass '/Game/Maps/Level3_V2.Level3_V2_C' with ClassGeneratedBy '/Game/Maps/Level3_V2.Level3_V2:PersistentLevel.Level3_V2'
+[2019.01.27-04.46.10:462][518]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.27-04.46.10:507][518]LogPlayLevel: [PlayLevel] Compiling BP_Bird before play...
+[2019.01.27-04.46.10:545][518]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000259ad067900, Size=1392
+[2019.01.27-04.46.10:546][518]LogUObjectGlobals: Created PersistentFrame Addr=0x00000258a14eb900, Size=1392, Default__BP_Bird_C Function /Engine/Transient.REINST_BP_Bird_C_161:ExecuteUbergraph_BP_Bird
+[2019.01.27-04.46.10:558][518]LogUObjectGlobals: Created PersistentFrame Addr=0x00000258ac773900, Size=1392, Default__BP_Bird_C Function /Game/Character_BPs/BP_Bird.BP_Bird_C:ExecuteUbergraph_BP_Bird
+[2019.01.27-04.46.10:574][518]LogPlayLevel: [PlayLevel] Compiling BP_OutOfBounds before play...
+[2019.01.27-04.46.10:576][518]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002599c8f8aa0, Size=216
+[2019.01.27-04.46.10:577][518]LogUObjectGlobals: Created PersistentFrame Addr=0x00000259e01572e0, Size=216, Default__BP_OutOfBounds_C Function /Engine/Transient.REINST_BP_OutOfBounds_C_165:ExecuteUbergraph_BP_OutOfBounds
+[2019.01.27-04.46.10:578][518]LogUObjectGlobals: Created PersistentFrame Addr=0x00000259e0157c80, Size=200, Default__BP_OutOfBounds_C Function /Game/Prop_BPs/BP_OutOfBounds.BP_OutOfBounds_C:ExecuteUbergraph_BP_OutOfBounds
+[2019.01.27-04.46.10:711][518]LogPlayLevel: [PlayLevel] Compiling Level3_V2 before play...
+[2019.01.27-04.46.10:714][518]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000259ab5a7060, Size=40
+[2019.01.27-04.46.10:714][518]LogUObjectGlobals: Created PersistentFrame Addr=0x00000259e6128798, Size=40, Default__Level3_V2_C Function /Engine/Transient.REINST_Level3_V2_C_169:ExecuteUbergraph_Level3_V2
+[2019.01.27-04.46.10:715][518]LogUObjectGlobals: Created PersistentFrame Addr=0x00000259e6128400, Size=40, Default__Level3_V2_C Function /Game/Maps/Level3_V2.Level3_V2_C:ExecuteUbergraph_Level3_V2
+[2019.01.27-04.46.10:799][518]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000258a14eb900, Size=1392
+[2019.01.27-04.46.10:799][518]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000259e01572e0, Size=216
+[2019.01.27-04.46.10:799][518]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000259e6128798, Size=40
+[2019.01.27-04.46.10:801][518]LogPlayLevel: PlayLevel: Blueprint regeneration took 339 ms (3 blueprints)
+[2019.01.27-04.46.10:801][518]PIE: New page: PIE session: Level3_V2 (27 Jan 2019 04:46:10)
+[2019.01.27-04.46.10:801][518]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level3_V2
+[2019.01.27-04.46.10:809][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008098s)
+[2019.01.27-04.46.10:810][518]LogAIModule: Creating AISystem for world Level3_V2
+[2019.01.27-04.46.10:810][518]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2019.01.27-04.46.10:810][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level3_V2.Level3_V2 to /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2 (0.008856s)
+[2019.01.27-04.46.10:836][518]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-04.46.10:854][518]LogInit: FAudioDevice initialized.
+[2019.01.27-04.46.10:910][518]LogLoad: Game class is 'BOAF_C'
+[2019.01.27-04.46.10:913][518]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2 up for play (max tick rate 0) at 2019.01.27-04.46.10
+[2019.01.27-04.46.10:914][518]LogWorld: Bringing up level for play took: 0.003810
+[2019.01.27-04.46.10:920][518]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level3_V2 0.469
+[2019.01.27-04.46.10:920][518]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level3_V2.Level3_V2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level3_V2.Level3_V2:PersistentLevel.Level3_V2' with GeneratedClass '/Game/Maps/Level3_V2.Level3_V2_C' with ClassGeneratedBy '/Game/Maps/Level3_V2.Level3_V2:PersistentLevel.Level3_V2'
+[2019.01.27-04.46.10:920][518]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.10:973][519]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.10:993][520]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:002][521]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:012][522]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:022][523]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:034][524]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:046][525]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:056][526]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:066][527]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:075][528]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:085][529]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:095][530]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:104][531]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:115][532]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:124][533]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:133][534]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:142][535]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:159][536]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:168][537]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:177][538]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:190][539]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:199][540]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:208][541]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:219][542]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:229][543]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:240][544]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:250][545]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:259][546]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:269][547]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:278][548]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:287][549]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:296][550]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:305][551]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:314][552]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:323][553]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:333][554]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:342][555]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:352][556]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:361][557]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:371][558]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:379][559]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:388][560]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:397][561]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:408][562]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:419][563]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:428][564]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:437][565]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:447][566]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:458][567]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:468][568]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:477][569]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:487][570]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:495][571]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:505][572]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:513][573]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:522][574]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:533][575]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:541][576]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:551][577]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:559][578]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:570][579]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:580][580]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:592][581]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:601][582]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:610][583]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:619][584]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:628][585]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:637][586]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:646][587]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:655][588]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:664][589]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:675][590]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:684][591]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:692][592]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:702][593]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:710][594]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:720][595]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:729][596]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:738][597]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:747][598]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:760][599]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:771][600]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:779][601]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:790][602]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:799][603]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:808][604]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:818][605]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:827][606]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:837][607]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:846][608]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:855][609]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:864][610]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:874][611]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:883][612]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:893][613]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:902][614]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:911][615]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:921][616]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:930][617]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:940][618]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:950][619]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:958][620]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:968][621]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:977][622]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:989][623]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.11:999][624]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:007][625]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:017][626]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:026][627]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:034][628]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:043][629]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:052][630]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:061][631]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:072][632]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:082][633]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:091][634]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:101][635]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:110][636]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:119][637]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:127][638]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:137][639]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:147][640]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:155][641]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:165][642]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:174][643]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:184][644]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:196][645]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:206][646]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:218][647]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:226][648]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:236][649]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:245][650]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:253][651]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:263][652]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:275][653]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:284][654]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:293][655]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:305][656]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:315][657]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:323][658]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:333][659]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:342][660]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:354][661]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:362][662]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:371][663]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:380][664]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:388][665]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:398][666]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:407][667]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:417][668]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:425][669]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:436][670]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:445][671]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:454][672]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:463][673]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:474][674]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:483][675]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:495][676]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:505][677]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:514][678]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:522][679]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:532][680]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:540][681]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:551][682]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:560][683]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:570][684]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:581][685]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:592][686]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:604][687]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:612][688]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:621][689]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:630][690]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:639][691]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:649][692]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:657][693]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:667][694]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:679][695]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:688][696]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:698][697]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:708][698]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:717][699]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:729][700]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:742][701]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:751][702]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:760][703]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:770][704]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:779][705]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:788][706]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:797][707]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:806][708]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:815][709]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:824][710]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:835][711]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:843][712]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:852][713]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:861][714]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:871][715]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:880][716]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:892][717]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:902][718]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:910][719]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:920][720]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:928][721]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:938][722]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:952][723]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:963][724]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:973][725]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:982][726]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.12:993][727]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:003][728]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:013][729]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:022][730]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:031][731]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:041][732]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:050][733]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:059][734]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:070][735]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:080][736]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:090][737]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:103][738]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:112][739]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:121][740]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:130][741]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:140][742]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:149][743]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:158][744]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:169][745]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:179][746]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:188][747]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:198][748]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:207][749]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:216][750]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:224][751]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:234][752]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:242][753]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:252][754]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:261][755]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:273][756]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:283][757]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:292][758]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:302][759]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:310][760]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:320][761]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:329][762]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:341][763]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:350][764]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:359][765]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:360][765]LogCharacterMovement: BP_Bird_C_0 is stuck and failed to move! Velocity: X=18.34 Y=0.00 Z=0.00 Location: X=10812.91 Y=-0.00 Z=2440.75 Normal: X=-0.96 Y=0.00 Z=-0.26 PenetrationDepth:7.215 Actor:BP_FlyingHazard2_526 Component:RenderComponent BoneName:None (0 other events since notify)
+[2019.01.27-04.46.13:369][766]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:378][767]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:388][768]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:397][769]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:406][770]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:415][771]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:423][772]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:433][773]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:441][774]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:450][775]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:459][776]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:469][777]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:478][778]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:487][779]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:497][780]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:507][781]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:516][782]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:525][783]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:535][784]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:543][785]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:553][786]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:562][787]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:572][788]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:582][789]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:594][790]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:603][791]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:611][792]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:620][793]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:629][794]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:642][795]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:655][796]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:664][797]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:673][798]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:685][799]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:694][800]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:704][801]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:714][802]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:723][803]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:733][804]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:741][805]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:753][806]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:762][807]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:772][808]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:781][809]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:791][810]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:800][811]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:812][812]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:821][813]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:831][814]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:840][815]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:849][816]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:858][817]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:868][818]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:877][819]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:886][820]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:895][821]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:906][822]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:917][823]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:927][824]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:937][825]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:949][826]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:958][827]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:968][828]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:978][829]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:989][830]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.13:999][831]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:010][832]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:020][833]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:033][834]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:042][835]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:054][836]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:064][837]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:072][838]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:082][839]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:093][840]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:101][841]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:110][842]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:120][843]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:131][844]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:140][845]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:149][846]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:158][847]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:167][848]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:181][849]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:190][850]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:201][851]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:210][852]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:218][853]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:228][854]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:237][855]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:246][856]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:255][857]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:265][858]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:274][859]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:282][860]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:291][861]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:301][862]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:312][863]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:321][864]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:330][865]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:342][866]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:351][867]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:361][868]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:370][869]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:379][870]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:389][871]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:398][872]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:409][873]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:419][874]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:430][875]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:439][876]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:449][877]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:459][878]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:468][879]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:477][880]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:490][881]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:499][882]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:508][883]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:518][884]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:527][885]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:537][886]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:546][887]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:554][888]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:564][889]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:573][890]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:582][891]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:593][892]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:602][893]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:611][894]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:622][895]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:635][896]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:648][897]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:658][898]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:669][899]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:678][900]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:691][901]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:700][902]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:709][903]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:718][904]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:727][905]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:737][906]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:745][907]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:753][908]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:763][909]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:770][910]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:780][911]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:789][912]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:799][913]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:808][914]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:817][915]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:826][916]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:835][917]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:846][918]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:857][919]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:866][920]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:877][921]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:886][922]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:895][923]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:907][924]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:918][925]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:926][926]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:936][927]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:950][928]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:959][929]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:968][930]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:976][931]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:985][932]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.14:995][933]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:004][934]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:014][935]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:022][936]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:031][937]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:040][938]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:050][939]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:060][940]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:069][941]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:077][942]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:087][943]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:097][944]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:106][945]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:114][946]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:122][947]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:132][948]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:141][949]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:150][950]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:159][951]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:168][952]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:177][953]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:185][954]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:196][955]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:205][956]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:214][957]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:222][958]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:232][959]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:241][960]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:250][961]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:260][962]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:269][963]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:278][964]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:287][965]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:296][966]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:305][967]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:312][968]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:324][969]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:334][970]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:347][971]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:356][972]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:365][973]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:374][974]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:385][975]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:394][976]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:403][977]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:412][978]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:421][979]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:430][980]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:442][981]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:452][982]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:461][983]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:470][984]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:479][985]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:488][986]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:498][987]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:507][988]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:516][989]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:525][990]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:535][991]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:545][992]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:553][993]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:562][994]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:571][995]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:580][996]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:591][997]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:600][998]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:609][999]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:620][  0]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:629][  1]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:639][  2]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:648][  3]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:657][  4]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:666][  5]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:675][  6]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:682][  7]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:692][  8]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:701][  9]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:710][ 10]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:719][ 11]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:728][ 12]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:738][ 13]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:747][ 14]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:756][ 15]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:765][ 16]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:774][ 17]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:784][ 18]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:796][ 19]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:806][ 20]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:815][ 21]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:824][ 22]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:837][ 23]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:846][ 24]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:854][ 25]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:863][ 26]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:872][ 27]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:881][ 28]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:890][ 29]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:899][ 30]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:912][ 31]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:922][ 32]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:931][ 33]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:941][ 34]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:951][ 35]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:960][ 36]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:972][ 37]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:981][ 38]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.15:992][ 39]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:001][ 40]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:010][ 41]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:020][ 42]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:028][ 43]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:037][ 44]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:047][ 45]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:057][ 46]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:066][ 47]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:075][ 48]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:084][ 49]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:093][ 50]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:102][ 51]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:111][ 52]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:121][ 53]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:130][ 54]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:138][ 55]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:147][ 56]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:157][ 57]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:167][ 58]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:176][ 59]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:185][ 60]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:194][ 61]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:203][ 62]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:212][ 63]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:222][ 64]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:230][ 65]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:241][ 66]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:251][ 67]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:260][ 68]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:269][ 69]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:278][ 70]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:287][ 71]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:296][ 72]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:304][ 73]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:314][ 74]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:323][ 75]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:332][ 76]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:343][ 77]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:352][ 78]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:361][ 79]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:371][ 80]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:380][ 81]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:389][ 82]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:398][ 83]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:411][ 84]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:421][ 85]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:430][ 86]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:439][ 87]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:448][ 88]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:457][ 89]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:466][ 90]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:474][ 91]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:483][ 92]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:495][ 93]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:507][ 94]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:516][ 95]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:525][ 96]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:535][ 97]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:544][ 98]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_Level3_V2.Level3_V2:PersistentLevel.BP_FlyingHazard_99 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2019.01.27-04.46.16:545][ 98]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level3_V2.Level3_V2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level3_V2.Level3_V2:PersistentLevel.Level3_V2' with GeneratedClass '/Game/Maps/Level3_V2.Level3_V2_C' with ClassGeneratedBy '/Game/Maps/Level3_V2.Level3_V2:PersistentLevel.Level3_V2'
+[2019.01.27-04.46.16:566][ 98]LogSlate: Window 'BirdsOfAFeather Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.01.27-04.46.16:601][ 98]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level3_V2.Level3_V2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level3_V2.Level3_V2:PersistentLevel.Level3_V2' with GeneratedClass '/Game/Maps/Level3_V2.Level3_V2_C' with ClassGeneratedBy '/Game/Maps/Level3_V2.Level3_V2:PersistentLevel.Level3_V2'
+[2019.01.27-04.47.13:167][717]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000259e6128400, Size=40
+[2019.01.27-04.47.13:167][717]LogUObjectGlobals: Created PersistentFrame Addr=0x00000259e6128400, Size=40, Default__Level3_V2_C Function /Engine/Transient.REINST_Level3_V2_C_173:ExecuteUbergraph_Level3_V2
+[2019.01.27-04.47.13:168][717]LogUObjectGlobals: Created PersistentFrame Addr=0x00000259e6129a08, Size=40, Default__Level3_V2_C Function /Game/Maps/Level3_V2.Level3_V2_C:ExecuteUbergraph_Level3_V2
+[2019.01.27-04.47.13:339][717]LogSavePackage: Save=177.59ms
+[2019.01.27-04.47.13:339][717]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Level3_V2_Auto2F158BC5F4755407768D41B95DD6A9760.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Maps/Level3_V2_Auto2.umap'
+[2019.01.27-04.47.13:340][717]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Maps/Level3_V2_Auto2.umap
+[2019.01.27-04.47.13:342][717]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level3_V2' took 0.213
+[2019.01.27-04.47.13:342][717]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.213
+[2019.01.27-04.47.13:344][717]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character_BPs/BP_Bird] ([1] browsable assets)...
+[2019.01.27-04.47.13:344][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_BPs/BP_Bird]
+[2019.01.27-04.47.13:467][717]LogSavePackage: Save=111.21ms
+[2019.01.27-04.47.13:467][717]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BP_Bird_Auto2E0FEF6874028F932670ABFBAF84BA8FA.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Character_BPs/BP_Bird_Auto2.uasset'
+[2019.01.27-04.47.13:468][717]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Character_BPs/BP_Bird_Auto2.uasset
+[2019.01.27-04.47.13:469][717]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/ReferenceImages/Damage_sprite_sheet] ([1] browsable assets)...
+[2019.01.27-04.47.13:471][717]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprites/ReferenceImages/Damage_sprite_sheet.Damage_sprite_sheet]
+[2019.01.27-04.47.13:471][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/ReferenceImages/Damage_sprite_sheet]
+[2019.01.27-04.47.13:486][717]LogSavePackage: Save=4.51ms
+[2019.01.27-04.47.13:486][717]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Damage_sprite_sheet_Auto2315D38E34BEE4D2E41A9E197F39C34C0.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Sprites/ReferenceImages/Damage_sprite_sheet_Auto2.uasset'
+[2019.01.27-04.47.13:487][717]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Sprites/ReferenceImages/Damage_sprite_sheet_Auto2.uasset
+[2019.01.27-04.47.13:488][717]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Prop_BPs/BP_OutOfBounds] ([1] browsable assets)...
+[2019.01.27-04.47.13:488][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/Prop_BPs/BP_OutOfBounds]
+[2019.01.27-04.47.13:499][717]LogSavePackage: Save=11.16ms
+[2019.01.27-04.47.13:499][717]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BP_OutOfBounds_Auto2F50E9B7040948A8976C9599F2D6372F3.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Prop_BPs/BP_OutOfBounds_Auto2.uasset'
+[2019.01.27-04.47.13:500][717]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Prop_BPs/BP_OutOfBounds_Auto2.uasset
+[2019.01.27-04.47.13:500][717]LogFileHelpers: Auto-saving content packages took 0.157
+[2019.01.27-04.47.40:334][872]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000259e6128400, Size=40
+[2019.01.27-04.47.42:046][872]LogSlate: Window 'Save Content' being destroyed
+[2019.01.27-04.47.42:069][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_BPs/BP_Bird" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset" SILENT=true
+[2019.01.27-04.47.42:185][872]LogSavePackage: Save=104.83ms
+[2019.01.27-04.47.42:185][872]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BP_Bird44ECF6354EE7A2D3E957CF8B7ED1D1D3.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset'
+[2019.01.27-04.47.42:188][872]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset
+[2019.01.27-04.47.42:339][872]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000259e6129a08, Size=40
+[2019.01.27-04.47.42:339][872]LogUObjectGlobals: Created PersistentFrame Addr=0x00000259e6129a08, Size=40, Default__Level3_V2_C Function /Engine/Transient.REINST_Level3_V2_C_177:ExecuteUbergraph_Level3_V2
+[2019.01.27-04.47.42:340][872]LogUObjectGlobals: Created PersistentFrame Addr=0x00000259e612aa48, Size=40, Default__Level3_V2_C Function /Game/Maps/Level3_V2.Level3_V2_C:ExecuteUbergraph_Level3_V2
+[2019.01.27-04.47.42:495][872]LogSavePackage: Save=161.35ms
+[2019.01.27-04.47.42:495][872]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Level3_V2E492383C4EA441EDC585478E37776EF3.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Maps/Level3_V2.umap'
+[2019.01.27-04.47.42:498][872]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Maps/Level3_V2.umap
+[2019.01.27-04.47.42:546][872]LogFileHelpers: Saving map 'Level3_V2' took 0.356
+[2019.01.27-04.47.42:548][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prop_BPs/BP_OutOfBounds" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Prop_BPs/BP_OutOfBounds.uasset" SILENT=true
+[2019.01.27-04.47.42:560][872]LogSavePackage: Save=11.29ms
+[2019.01.27-04.47.42:560][872]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BP_OutOfBounds7B9CF2AC40C742742AC37CAB543E9CCE.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Prop_BPs/BP_OutOfBounds.uasset'
+[2019.01.27-04.47.42:563][872]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Prop_BPs/BP_OutOfBounds.uasset
+[2019.01.27-04.47.42:668][872]LogSavePackage: Save=91.82ms
+[2019.01.27-04.47.42:668][872]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Damage_sprite_sheetDBE73D1D48BE78A99D1294AECA04E7E3.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/ReferenceImages/Damage_sprite_sheet.uasset'
+[2019.01.27-04.47.42:670][872]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Sprites/ReferenceImages/Damage_sprite_sheet.uasset
+[2019.01.27-04.47.42:789][872]LogSlate: Window 'Damage_Flipbook' being destroyed
+[2019.01.27-04.47.42:823][872]LogSlate: Window 'BirdsOfAFeather - Unreal Editor' being destroyed
+[2019.01.27-04.47.42:824][872]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.27-04.47.43:038][873]Cmd: QUIT_EDITOR
+[2019.01.27-04.47.43:548][873]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.01.27-04.47.43:548][873]LogExit: Preparing to exit.
+[2019.01.27-04.47.44:247][873]LogDirectoryWatcher: A directory notification for 'C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/' was aborted.
+[2019.01.27-04.47.44:273][873]LogExit: Editor shut down
+[2019.01.27-04.47.44:284][873]LogExit: Transaction tracking system shut down
+[2019.01.27-04.47.44:330][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025884ad5d38, Size=20
+[2019.01.27-04.47.44:330][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025882ff9d38, Size=56
+[2019.01.27-04.47.44:330][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002588480d760, Size=72
+[2019.01.27-04.47.44:331][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000258a47a91c0, Size=28
+[2019.01.27-04.47.44:331][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025884a654e0, Size=96
+[2019.01.27-04.47.44:331][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025884765d00, Size=800
+[2019.01.27-04.47.44:335][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000259e612aa48, Size=40
+[2019.01.27-04.47.44:335][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025884c0e240, Size=224
+[2019.01.27-04.47.44:335][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002589ed46380, Size=184
+[2019.01.27-04.47.44:335][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000259e0157c80, Size=200
+[2019.01.27-04.47.44:335][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000258a6ab42c0, Size=200
+[2019.01.27-04.47.44:335][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025884733000, Size=912
+[2019.01.27-04.47.44:335][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025884703740, Size=392
+[2019.01.27-04.47.44:373][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025884766b00, Size=848
+[2019.01.27-04.47.44:373][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000258ac773900, Size=1392
+[2019.01.27-04.47.44:373][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002599b74d980, Size=880
+[2019.01.27-04.47.44:485][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002599b0cb958, Size=4
+[2019.01.27-04.47.44:485][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002599b0cb950, Size=4
+[2019.01.27-04.47.44:486][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000259e6129a08, Size=40
+[2019.01.27-04.47.44:577][873]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2019.01.27-04.47.44:578][873]LogDirectoryWatcher: A directory notification for '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/' was aborted.
+[2019.01.27-04.47.44:578][873]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2019.01.27-04.47.44:578][873]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2019.01.27-04.47.44:578][873]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2019.01.27-04.47.44:578][873]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2019.01.27-04.47.44:578][873]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/HoudiniEngine/Content/' was aborted.
+[2019.01.27-04.47.44:578][873]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2019.01.27-04.47.44:578][873]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2019.01.27-04.47.44:754][873]LogExit: Object subsystem successfully closed.
+[2019.01.27-04.47.44:806][873]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.01.27-04.47.44:810][873]LogD3D11RHI: Shutdown
+[2019.01.27-04.47.44:810][873]LogD3D11RHI: CleanupD3DDevice
+[2019.01.27-04.47.44:814][873]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.01.27-04.47.44:838][873]LogModuleManager: Shutting down and abandoning module TextureEditor (586)
+[2019.01.27-04.47.44:838][873]LogModuleManager: Shutting down and abandoning module BlueprintGraph (584)
+[2019.01.27-04.47.44:838][873]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (582)
+[2019.01.27-04.47.44:838][873]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (580)
+[2019.01.27-04.47.44:838][873]LogModuleManager: Shutting down and abandoning module SceneOutliner (578)
+[2019.01.27-04.47.44:838][873]LogModuleManager: Shutting down and abandoning module AddContentDialog (576)
+[2019.01.27-04.47.44:838][873]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2019.01.27-04.47.44:839][873]LogModuleManager: Shutting down and abandoning module WidgetCarousel (575)
+[2019.01.27-04.47.44:839][873]LogModuleManager: Shutting down and abandoning module EditorWidgets (572)
+[2019.01.27-04.47.44:839][873]LogModuleManager: Shutting down and abandoning module CollectionManager (570)
+[2019.01.27-04.47.44:839][873]LogDirectoryWatcher: A directory notification for 'C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Collections/' was aborted.
+[2019.01.27-04.47.44:839][873]LogDirectoryWatcher: A directory notification for 'C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Developers/bs18abb/Collections/' was aborted.
+[2019.01.27-04.47.44:839][873]LogDirectoryWatcher: A directory notification for 'C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Collections/' was aborted.
+[2019.01.27-04.47.44:839][873]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (568)
+[2019.01.27-04.47.44:839][873]LogModuleManager: Shutting down and abandoning module StatsViewer (566)
+[2019.01.27-04.47.44:839][873]LogModuleManager: Shutting down and abandoning module FoliageEdit (564)
+[2019.01.27-04.47.44:839][873]LogModuleManager: Shutting down and abandoning module LandscapeEditor (562)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module MeshPaintMode (560)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (558)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module ActorPickerMode (556)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module GeometryMode (554)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module TextureAlignMode (552)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module BspMode (550)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (548)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module HardwareSurvey (546)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (544)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module AutomationWorker (542)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module HoudiniEngineEditor (540)
+[2019.01.27-04.47.44:840][873]LogHoudiniEngineEditor: Shutting down the Houdini Engine Editor module.
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (538)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module SequenceRecorder (537)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (534)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (532)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module PlacementMode (531)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module MaterialEditor (530)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (526)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (524)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (522)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (520)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (518)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (516)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (514)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (512)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (510)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (508)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module CharacterAI (506)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module SmartSnapping (504)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module SessionServices (502)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module ViewportSnapping (500)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module ViewportInteraction (498)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module ClothPainter (496)
+[2019.01.27-04.47.44:840][873]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (495)
+[2019.01.27-04.47.44:841][873]LogModuleManager: Shutting down and abandoning module LogVisualizer (492)
+[2019.01.27-04.47.44:841][873]LogModuleManager: Shutting down and abandoning module IntroTutorials (490)
+[2019.01.27-04.47.44:841][873]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (489)
+[2019.01.27-04.47.44:841][873]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (486)
+[2019.01.27-04.47.44:841][873]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (484)
+[2019.01.27-04.47.44:841][873]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (482)
+[2019.01.27-04.47.44:841][873]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (481)
+[2019.01.27-04.47.45:393][873]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (478)
+[2019.01.27-04.47.45:393][873]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (476)
+[2019.01.27-04.47.45:393][873]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (474)
+[2019.01.27-04.47.45:393][873]LogModuleManager: Shutting down and abandoning module InputBindingEditor (472)
+[2019.01.27-04.47.45:393][873]LogModuleManager: Shutting down and abandoning module MergeActors (470)
+[2019.01.27-04.47.45:393][873]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (468)
+[2019.01.27-04.47.45:393][873]LogModuleManager: Shutting down and abandoning module LocalizationService (467)
+[2019.01.27-04.47.45:394][873]LogModuleManager: Shutting down and abandoning module HardwareTargeting (464)
+[2019.01.27-04.47.45:394][873]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (462)
+[2019.01.27-04.47.45:394][873]LogModuleManager: Shutting down and abandoning module UndoHistory (460)
+[2019.01.27-04.47.45:394][873]LogModuleManager: Shutting down and abandoning module XmlParser (458)
+[2019.01.27-04.47.45:394][873]LogModuleManager: Shutting down and abandoning module Blutility (456)
+[2019.01.27-04.47.45:394][873]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (454)
+[2019.01.27-04.47.45:394][873]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (453)
+[2019.01.27-04.47.45:394][873]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (450)
+[2019.01.27-04.47.45:394][873]LogModuleManager: Shutting down and abandoning module SettingsEditor (448)
+[2019.01.27-04.47.45:394][873]LogModuleManager: Shutting down and abandoning module ProjectLauncher (446)
+[2019.01.27-04.47.45:394][873]LogModuleManager: Shutting down and abandoning module SessionFrontend (444)
+[2019.01.27-04.47.45:394][873]LogModuleManager: Shutting down and abandoning module ProfilerClient (442)
+[2019.01.27-04.47.45:394][873]LogModuleManager: Shutting down and abandoning module DeviceManager (440)
+[2019.01.27-04.47.45:394][873]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (439)
+[2019.01.27-04.47.45:460][873]LogModuleManager: Shutting down and abandoning module AutomationController (436)
+[2019.01.27-04.47.45:460][873]LogModuleManager: Shutting down and abandoning module AutomationWindow (434)
+[2019.01.27-04.47.45:460][873]LogModuleManager: Shutting down and abandoning module Layers (432)
+[2019.01.27-04.47.45:460][873]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (430)
+[2019.01.27-04.47.45:460][873]LogModuleManager: Shutting down and abandoning module DetailCustomizations (428)
+[2019.01.27-04.47.45:460][873]LogModuleManager: Shutting down and abandoning module PackagesDialog (426)
+[2019.01.27-04.47.45:460][873]LogModuleManager: Shutting down and abandoning module Persona (424)
+[2019.01.27-04.47.45:460][873]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (423)
+[2019.01.27-04.47.45:460][873]LogModuleManager: Shutting down and abandoning module AnimGraph (421)
+[2019.01.27-04.47.45:460][873]LogModuleManager: Shutting down and abandoning module Kismet (418)
+[2019.01.27-04.47.45:465][873]LogModuleManager: Shutting down and abandoning module GraphEditor (416)
+[2019.01.27-04.47.45:465][873]LogModuleManager: Shutting down and abandoning module ClassViewer (414)
+[2019.01.27-04.47.45:467][873]LogModuleManager: Shutting down and abandoning module Toolbox (412)
+[2019.01.27-04.47.45:467][873]LogModuleManager: Shutting down and abandoning module ModuleUI (410)
+[2019.01.27-04.47.45:467][873]LogModuleManager: Shutting down and abandoning module MovieSceneTools (408)
+[2019.01.27-04.47.45:467][873]LogModuleManager: Shutting down and abandoning module OutputLog (406)
+[2019.01.27-04.47.45:467][873]LogModuleManager: Shutting down and abandoning module GammaUI (404)
+[2019.01.27-04.47.45:467][873]LogModuleManager: Shutting down and abandoning module Documentation (402)
+[2019.01.27-04.47.45:467][873]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (400)
+[2019.01.27-04.47.45:467][873]LogModuleManager: Shutting down and abandoning module MovieScene (398)
+[2019.01.27-04.47.45:467][873]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (396)
+[2019.01.27-04.47.45:467][873]LogModuleManager: Shutting down and abandoning module LauncherPlatform (394)
+[2019.01.27-04.47.45:467][873]LogModuleManager: Shutting down and abandoning module AnalyticsET (392)
+[2019.01.27-04.47.45:467][873]LogModuleManager: Shutting down and abandoning module PortalServices (390)
+[2019.01.27-04.47.45:467][873]LogModuleManager: Shutting down and abandoning module PortalRpc (388)
+[2019.01.27-04.47.45:467][873]LogModuleManager: Shutting down and abandoning module MessagingRpc (386)
+[2019.01.27-04.47.45:467][873]LogModuleManager: Shutting down and abandoning module AIModule (384)
+[2019.01.27-04.47.45:467][873]LogModuleManager: Shutting down and abandoning module GameplayDebugger (383)
+[2019.01.27-04.47.45:467][873]LogModuleManager: Shutting down and abandoning module AITestSuite (381)
+[2019.01.27-04.47.45:467][873]LogModuleManager: Shutting down and abandoning module DesktopPlatform (378)
+[2019.01.27-04.47.45:467][873]LogModuleManager: Shutting down and abandoning module ProfilerService (376)
+[2019.01.27-04.47.45:596][873]LogModuleManager: Shutting down and abandoning module TaskGraph (374)
+[2019.01.27-04.47.45:596][873]LogModuleManager: Shutting down and abandoning module SteamVRController (372)
+[2019.01.27-04.47.45:596][873]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (370)
+[2019.01.27-04.47.45:596][873]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (368)
+[2019.01.27-04.47.45:596][873]LogModuleManager: Shutting down and abandoning module OculusInput (366)
+[2019.01.27-04.47.45:596][873]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (364)
+[2019.01.27-04.47.45:596][873]LogModuleManager: Shutting down and abandoning module HoudiniEngineRuntime (362)
+[2019.01.27-04.47.45:597][873]LogHoudiniEngine: Shutting down the Houdini Engine module.
+[2019.01.27-04.47.45:600][873]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2019.01.27-04.47.45:600][873]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2019.01.27-04.47.45:600][873]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2019.01.27-04.47.45:600][873]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2019.01.27-04.47.45:600][873]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2019.01.27-04.47.45:600][873]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2019.01.27-04.47.45:600][873]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2019.01.27-04.47.45:600][873]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2019.01.27-04.47.45:600][873]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2019.01.27-04.47.45:600][873]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2019.01.27-04.47.45:600][873]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2019.01.27-04.47.45:604][873]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2019.01.27-04.47.45:604][873]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2019.01.27-04.47.45:604][873]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2019.01.27-04.47.45:604][873]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2019.01.27-04.47.45:604][873]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2019.01.27-04.47.45:604][873]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2019.01.27-04.47.45:604][873]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2019.01.27-04.47.45:604][873]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2019.01.27-04.47.45:604][873]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2019.01.27-04.47.45:604][873]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2019.01.27-04.47.45:604][873]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2019.01.27-04.47.45:604][873]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2019.01.27-04.47.45:604][873]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2019.01.27-04.47.45:604][873]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2019.01.27-04.47.45:604][873]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2019.01.27-04.47.45:605][873]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2019.01.27-04.47.45:605][873]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2019.01.27-04.47.45:605][873]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2019.01.27-04.47.45:605][873]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2019.01.27-04.47.45:605][873]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2019.01.27-04.47.45:605][873]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2019.01.27-04.47.45:605][873]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2019.01.27-04.47.45:605][873]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2019.01.27-04.47.45:605][873]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2019.01.27-04.47.45:605][873]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2019.01.27-04.47.45:605][873]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2019.01.27-04.47.45:605][873]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2019.01.27-04.47.45:605][873]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2019.01.27-04.47.45:605][873]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2019.01.27-04.47.45:605][873]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2019.01.27-04.47.45:605][873]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2019.01.27-04.47.45:605][873]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2019.01.27-04.47.45:605][873]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2019.01.27-04.47.45:706][873]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2019.01.27-04.47.45:807][873]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2019.01.27-04.47.45:807][873]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2019.01.27-04.47.45:807][873]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2019.01.27-04.47.45:807][873]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2019.01.27-04.47.45:807][873]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2019.01.27-04.47.45:807][873]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2019.01.27-04.47.45:810][873]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2019.01.27-04.47.45:810][873]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2019.01.27-04.47.45:811][873]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2019.01.27-04.47.45:811][873]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2019.01.27-04.47.45:812][873]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2019.01.27-04.47.45:815][873]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2019.01.27-04.47.45:815][873]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2019.01.27-04.47.45:815][873]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2019.01.27-04.47.45:815][873]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2019.01.27-04.47.45:953][873]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2019.01.27-04.47.45:954][873]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2019.01.27-04.47.45:954][873]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2019.01.27-04.47.45:955][873]LogModuleManager: Shutting down and abandoning module Media (233)
+[2019.01.27-04.47.45:962][873]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2019.01.27-04.47.45:962][873]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2019.01.27-04.47.45:962][873]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2019.01.27-04.47.45:962][873]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2019.01.27-04.47.45:962][873]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2019.01.27-04.47.45:962][873]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2019.01.27-04.47.45:962][873]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2019.01.27-04.47.45:962][873]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2019.01.27-04.47.45:962][873]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2019.01.27-04.47.45:962][873]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2019.01.27-04.47.45:962][873]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2019.01.27-04.47.45:962][873]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2019.01.27-04.47.45:962][873]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2019.01.27-04.47.45:962][873]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2019.01.27-04.47.45:962][873]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2019.01.27-04.47.45:962][873]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2019.01.27-04.47.45:962][873]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2019.01.27-04.47.45:962][873]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2019.01.27-04.47.45:962][873]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2019.01.27-04.47.45:962][873]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2019.01.27-04.47.45:963][873]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2019.01.27-04.47.45:963][873]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2019.01.27-04.47.45:963][873]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2019.01.27-04.47.45:963][873]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2019.01.27-04.47.45:963][873]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2019.01.27-04.47.45:964][873]LogModuleManager: Shutting down and abandoning module Core (178)
+[2019.01.27-04.47.45:964][873]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2019.01.27-04.47.45:964][873]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2019.01.27-04.47.45:964][873]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2019.01.27-04.47.45:964][873]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2019.01.27-04.47.45:964][873]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2019.01.27-04.47.45:964][873]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2019.01.27-04.47.45:964][873]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2019.01.27-04.47.45:964][873]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2019.01.27-04.47.45:964][873]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2019.01.27-04.47.45:964][873]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2019.01.27-04.47.45:965][873]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.01.27-04.47.45:967][873]LogDerivedDataCache: Shutdown
+[2019.01.27-04.47.45:967][873]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.01.27-04.47.45:967][873]LogXGEController: Cleaning working directory: C:/Users/bs18abb/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.01.27-04.47.45:967][873]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.01.27-04.47.45:967][873]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.01.27-04.47.45:967][873]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.01.27-04.47.45:967][873]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.01.27-04.47.45:967][873]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.01.27-04.47.45:967][873]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.01.27-04.47.45:967][873]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.01.27-04.47.45:967][873]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.01.27-04.47.45:967][873]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.01.27-04.47.45:967][873]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.01.27-04.47.45:967][873]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.01.27-04.47.45:967][873]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.01.27-04.47.45:967][873]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.01.27-04.47.45:967][873]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.01.27-04.47.45:967][873]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.01.27-04.47.45:967][873]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.01.27-04.47.45:967][873]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2019.01.27-04.47.45:968][873]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2019.01.27-04.47.45:968][873]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.01.27-04.47.45:968][873]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC52402B7-4265-F14C-4AE8-2DB3FB2C62E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=337e4ffa4f17f7a6b4373cae8b0e5771%7Ce183d06f48ce456e8996e0e23d6ec33e%7Cb9f48137-6a49-4df4-8f54-fcaf3d50bcb2&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.01.27-04.47.45:986][873]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2019.01.27-04.47.45:987][873]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.01.27-04.47.45:987][873]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.01.27-04.47.45:987][873]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.01.27-04.47.45:987][873]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.01.27-04.47.45:987][873]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.01.27-04.47.45:987][873]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.01.27-04.47.45:987][873]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.01.27-04.47.45:988][873]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.01.27-04.47.45:988][873]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.01.27-04.47.45:988][873]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.01.27-04.47.45:988][873]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.01.27-04.47.45:988][873]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.01.27-04.47.45:988][873]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.01.27-04.47.45:988][873]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.01.27-04.47.45:988][873]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.01.27-04.47.45:988][873]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.01.27-04.47.45:988][873]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.01.27-04.47.45:988][873]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.01.27-04.47.45:996][873]LogExit: Exiting.
+[2019.01.27-04.47.46:014][873]Log file closed, 01/27/19 04:47:46
