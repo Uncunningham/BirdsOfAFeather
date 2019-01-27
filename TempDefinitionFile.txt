@@ -1,0 +1,7 @@
+BirdBox	"Play_Dash"
+BirdBox	"Play_DoubleJump"
+BirdBox	"Play_Hit"
+BirdBox	"Play_Interact_Feather"
+BirdBox	"Play_Jump"
+BirdBox	"Play_Land"
+BirdBox	"Play_Mud"

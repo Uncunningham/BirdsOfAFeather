@@ -1,0 +1,28 @@
+Event	ID	Name			Wwise Object Path	Notes
+	595748461	Play_DoubleJump			\Default Work Unit\Play_DoubleJump	
+	1723906750	Play_Level2Amb			\Default Work Unit\Play_Level2Amb	
+	2211787386	Play_Dash			\Default Work Unit\Play_Dash	
+	2557561976	Play_Mud			\Default Work Unit\Play_Mud	
+	2930703384	Play_Interact_Feather			\Default Work Unit\Play_Interact_Feather	
+	2960666077	Play_Hit			\Default Work Unit\Play_Hit	
+	3550689537	Play_Level3Amb			\Default Work Unit\Play_Level3Amb	
+	3689126666	Play_Jump			\Default Work Unit\Play_Jump	
+	3690598599	Play_Level1Amb			\Default Work Unit\Play_Level1Amb	
+	4285282925	Play_Land			\Default Work Unit\Play_Land	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	51224788	Bird_Footstep_Muddy_2 v2	C:\Users\DA_Ra\Desktop\BirdsOfAFeather\.cache\Windows\SFX\Bird_Footstep_Muddy_2 v2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Characters\Blue\Footsteps\Material\Mud\Bird_Footstep_Muddy_2 v2		21650
+	255527903	L3 Ambience v2	C:\Users\DA_Ra\Desktop\BirdsOfAFeather\.cache\Windows\SFX\L3 Ambience v2_8956FC97.wem		\Actor-Mixer Hierarchy\Default Work Unit\AMB\Level3\Level3Amb\L3 Ambience v2		6336064
+	356573909	Bird_Footstep_Muddy_1 v2	C:\Users\DA_Ra\Desktop\BirdsOfAFeather\.cache\Windows\SFX\Bird_Footstep_Muddy_1 v2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Characters\Blue\Footsteps\Material\Mud\Bird_Footstep_Muddy_1 v2		18554
+	366752345	Bird_Damage_oof_1 v2	C:\Users\DA_Ra\Desktop\BirdsOfAFeather\.cache\Windows\SFX\Bird_Damage_oof_1 v2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Characters\Blue\Hit\Bird_Damage_oof_1 v2		30970
+	410204476	Bird Jump 	C:\Users\DA_Ra\Desktop\BirdsOfAFeather\.cache\Windows\SFX\Bird Jump _56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Characters\Blue\Jump\Bird Jump 		77816
+	412977365	L1 Ambience v2	C:\Users\DA_Ra\Desktop\BirdsOfAFeather\.cache\Windows\SFX\L1 Ambience v2_B5E058E5.wem		\Actor-Mixer Hierarchy\Default Work Unit\AMB\Level1\Level1Amb\L1 Ambience v2		1608212
+	463797174	Bird Land	C:\Users\DA_Ra\Desktop\BirdsOfAFeather\.cache\Windows\SFX\Bird Land_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Characters\Blue\Land\Bird Land		51792
+	613038735	Bird_Damage_oof_3 v2	C:\Users\DA_Ra\Desktop\BirdsOfAFeather\.cache\Windows\SFX\Bird_Damage_oof_3 v2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Characters\Blue\Hit\Bird_Damage_oof_3 v2		41064
+	673571829	L2 Ambience v2	C:\Users\DA_Ra\Desktop\BirdsOfAFeather\.cache\Windows\SFX\L2 Ambience v2_8956FC97.wem		\Actor-Mixer Hierarchy\Default Work Unit\AMB\Level2\Level2Amb\L2 Ambience v2		3360064
+	690397407	Bird_Damage_oof_2 v2	C:\Users\DA_Ra\Desktop\BirdsOfAFeather\.cache\Windows\SFX\Bird_Damage_oof_2 v2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Characters\Blue\Hit\Bird_Damage_oof_2 v2		48790
+	791534927	Bird_Footstep_Muddy_3 v2	C:\Users\DA_Ra\Desktop\BirdsOfAFeather\.cache\Windows\SFX\Bird_Footstep_Muddy_3 v2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Characters\Blue\Footsteps\Material\Mud\Bird_Footstep_Muddy_3 v2		23728
+	1002626645	Bird wing flaps while hovering	C:\Users\DA_Ra\Desktop\BirdsOfAFeather\.cache\Windows\SFX\Bird wing flaps while hovering_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Characters\Blue\DoubleJump\Bird wing flaps while hovering		107564
+	1011118438	Interact_Feather	C:\Users\DA_Ra\Desktop\BirdsOfAFeather\.cache\Windows\SFX\Bird_Obtain_Feather v2 [MOCKUP]_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Interacts\Pickups\Feather\Interact_Feather		192426
+	1048530249	Bird Dash [MOCKUP]	C:\Users\DA_Ra\Desktop\BirdsOfAFeather\.cache\Windows\SFX\Bird Dash [MOCKUP]_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Characters\Blue\Dash\Bird Dash [MOCKUP]		93700
+
