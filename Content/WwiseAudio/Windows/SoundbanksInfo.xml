@@ -23,6 +23,7 @@
 			<IncludedEvents>
 				<Event Id="595748461" Name="Play_DoubleJump" ObjectPath="\Events\Default Work Unit\Play_DoubleJump"/>
 				<Event Id="2960666077" Name="Play_Hit" ObjectPath="\Events\Default Work Unit\Play_Hit"/>
+				<Event Id="2930703384" Name="Play_Interact_Feather" ObjectPath="\Events\Default Work Unit\Play_Interact_Feather"/>
 				<Event Id="3689126666" Name="Play_Jump" ObjectPath="\Events\Default Work Unit\Play_Jump"/>
 				<Event Id="4285282925" Name="Play_Land" ObjectPath="\Events\Default Work Unit\Play_Land"/>
 				<Event Id="2557561976" Name="Play_Mud" ObjectPath="\Events\Default Work Unit\Play_Mud"/>
@@ -63,6 +64,10 @@
 				<File Id="1002626645" Language="SFX">
 					<ShortName>Bird wing flaps while hovering.wav</ShortName>
 					<Path>SFX\Bird wing flaps while hovering_56D34C19.wem</Path>
+				</File>
+				<File Id="1011118438" Language="SFX">
+					<ShortName>Bird_Obtain_Feather v2 [MOCKUP].wav</ShortName>
+					<Path>SFX\Bird_Obtain_Feather v2 [MOCKUP]_56D34C19.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
