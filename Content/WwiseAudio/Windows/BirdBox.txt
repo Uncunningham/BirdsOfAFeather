@@ -1,6 +1,7 @@
 Event	ID	Name			Wwise Object Path	Notes
 	595748461	Play_DoubleJump			\Default Work Unit\Play_DoubleJump	
 	1723906750	Play_Level2Amb			\Default Work Unit\Play_Level2Amb	
+	2211787386	Play_Dash			\Default Work Unit\Play_Dash	
 	2557561976	Play_Mud			\Default Work Unit\Play_Mud	
 	2930703384	Play_Interact_Feather			\Default Work Unit\Play_Interact_Feather	
 	2960666077	Play_Hit			\Default Work Unit\Play_Hit	
@@ -23,4 +24,5 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	791534927	Bird_Footstep_Muddy_3 v2	C:\Users\DA_Ra\Documents\WwiseProjects\BirdsOfAFeather\.cache\Windows\SFX\Bird_Footstep_Muddy_3 v2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Characters\Blue\Footsteps\Material\Mud\Bird_Footstep_Muddy_3 v2		23728
 	1002626645	Bird wing flaps while hovering	C:\Users\DA_Ra\Documents\WwiseProjects\BirdsOfAFeather\.cache\Windows\SFX\Bird wing flaps while hovering_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Characters\Blue\DoubleJump\Bird wing flaps while hovering		107564
 	1011118438	Interact_Feather	C:\Users\DA_Ra\Documents\WwiseProjects\BirdsOfAFeather\.cache\Windows\SFX\Bird_Obtain_Feather v2 [MOCKUP]_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Interacts\Pickups\Feather\Interact_Feather		192426
+	1048530249	Bird Dash [MOCKUP]	C:\Users\DA_Ra\Documents\WwiseProjects\BirdsOfAFeather\.cache\Windows\SFX\Bird Dash [MOCKUP]_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Characters\Blue\Dash\Bird Dash [MOCKUP]		93700
 

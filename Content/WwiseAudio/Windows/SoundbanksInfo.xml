@@ -21,6 +21,7 @@
 			<ShortName>BirdBox</ShortName>
 			<Path>BirdBox.bnk</Path>
 			<IncludedEvents>
+				<Event Id="2211787386" Name="Play_Dash" ObjectPath="\Events\Default Work Unit\Play_Dash"/>
 				<Event Id="595748461" Name="Play_DoubleJump" ObjectPath="\Events\Default Work Unit\Play_DoubleJump"/>
 				<Event Id="2960666077" Name="Play_Hit" ObjectPath="\Events\Default Work Unit\Play_Hit"/>
 				<Event Id="2930703384" Name="Play_Interact_Feather" ObjectPath="\Events\Default Work Unit\Play_Interact_Feather"/>
@@ -83,6 +84,10 @@
 				<File Id="1011118438" Language="SFX">
 					<ShortName>Bird_Obtain_Feather v2 [MOCKUP].wav</ShortName>
 					<Path>SFX\Bird_Obtain_Feather v2 [MOCKUP]_56D34C19.wem</Path>
+				</File>
+				<File Id="1048530249" Language="SFX">
+					<ShortName>Bird Dash [MOCKUP].wav</ShortName>
+					<Path>SFX\Bird Dash [MOCKUP]_56D34C19.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
