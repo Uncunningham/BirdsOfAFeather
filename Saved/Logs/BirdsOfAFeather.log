@@ -21642,3 +21642,110 @@ LogInit: Object subsystem initialized
 [2019.01.27-02.25.19:160][108]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level3_V1.Level3_V1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level3_V1.Level3_V1:PersistentLevel.Level3_V1' with GeneratedClass '/Game/Maps/Level3_V1.Level3_V1_C' with ClassGeneratedBy '/Game/Maps/Level3_V1.Level3_V1:PersistentLevel.Level3_V1'
 [2019.01.27-02.25.19:182][108]LogSlate: Window 'BirdsOfAFeather Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
 [2019.01.27-02.25.19:222][108]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level3_V1.Level3_V1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level3_V1.Level3_V1:PersistentLevel.Level3_V1' with GeneratedClass '/Game/Maps/Level3_V1.Level3_V1_C' with ClassGeneratedBy '/Game/Maps/Level3_V1.Level3_V1:PersistentLevel.Level3_V1'
+[2019.01.27-02.26.04:452][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000214b83f0658, Size=40
+[2019.01.27-02.26.04:452][755]LogUObjectGlobals: Created PersistentFrame Addr=0x000002152bdf2c50, Size=40, Level3_V1_C_2 Function /Engine/Transient.REINST_Level3_V1_C_362:ExecuteUbergraph_Level3_V1
+[2019.01.27-02.26.04:453][755]LogUObjectGlobals: Created PersistentFrame Addr=0x000002152bdf0b08, Size=40, Default__Level3_V1_C Function /Game/Maps/Level3_V1.Level3_V1_C:ExecuteUbergraph_Level3_V1
+[2019.01.27-02.26.04:569][755]LogSavePackage: Save=123.19ms
+[2019.01.27-02.26.04:569][755]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Level3_V1_Auto24DB169A844DBFA19B9DDB580A3C39142.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Maps/Level3_V1_Auto2.umap'
+[2019.01.27-02.26.04:570][755]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Maps/Level3_V1_Auto2.umap
+[2019.01.27-02.26.04:572][755]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level3_V1' took 0.158
+[2019.01.27-02.26.04:572][755]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.158
+[2019.01.27-02.26.04:575][755]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character_BPs/BP_Bird] ([1] browsable assets)...
+[2019.01.27-02.26.04:575][755]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_BPs/BP_Bird]
+[2019.01.27-02.26.04:673][755]LogSavePackage: Save=90.88ms
+[2019.01.27-02.26.04:673][755]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BP_Bird_Auto2ACEED5C6433AB55457C0CDA4FAD46423.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Character_BPs/BP_Bird_Auto2.uasset'
+[2019.01.27-02.26.04:674][755]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Autosaves/Game/Character_BPs/BP_Bird_Auto2.uasset
+[2019.01.27-02.26.04:675][755]LogFileHelpers: Auto-saving content packages took 0.101
+[2019.01.27-02.26.07:216][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-02.26.10:441][ 83]LogUObjectGlobals: Created PersistentFrame Addr=0x00000214dc231c30, Size=24, Default__MenuMap_C Function /Game/Maps/MenuMap.MenuMap_C:ExecuteUbergraph_MenuMap
+[2019.01.27-02.26.10:442][ 83]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000214dc231c30, Size=24
+[2019.01.27-02.26.10:442][ 83]LogUObjectGlobals: Created PersistentFrame Addr=0x00000214dc231c30, Size=24, Default__MenuMap_C Function /Engine/Transient.REINST_MenuMap_C_364:ExecuteUbergraph_MenuMap
+[2019.01.27-02.26.10:443][ 83]LogUObjectGlobals: Created PersistentFrame Addr=0x00000214dc2305c8, Size=24, Default__MenuMap_C Function /Game/Maps/MenuMap.MenuMap_C:ExecuteUbergraph_MenuMap
+[2019.01.27-02.26.10:447][ 83]LogAIModule: Creating AISystem for world MenuMap
+[2019.01.27-02.26.10:478][ 83]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002152bdf2c50, Size=40
+[2019.01.27-02.26.10:478][ 83]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000214dc231c30, Size=24
+[2019.01.27-02.26.13:209][ 83]LogSlate: Window 'Save Content' being destroyed
+[2019.01.27-02.26.13:218][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_BPs/BP_Bird" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset" SILENT=true
+[2019.01.27-02.26.13:322][ 83]LogSavePackage: Save=97.32ms
+[2019.01.27-02.26.13:322][ 83]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/BP_BirdB2BEE0024D3E781D01C0D78C1D1FF468.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset'
+[2019.01.27-02.26.13:358][ 83]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Character_BPs/BP_Bird.uasset
+[2019.01.27-02.26.13:517][ 83]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002152bdf0b08, Size=40
+[2019.01.27-02.26.13:517][ 83]LogUObjectGlobals: Created PersistentFrame Addr=0x00000214b817af48, Size=40, Level3_V1_C_3 Function /Engine/Transient.REINST_Level3_V1_C_368:ExecuteUbergraph_Level3_V1
+[2019.01.27-02.26.13:518][ 83]LogUObjectGlobals: Created PersistentFrame Addr=0x00000214b817b858, Size=40, Default__Level3_V1_C Function /Game/Maps/Level3_V1.Level3_V1_C:ExecuteUbergraph_Level3_V1
+[2019.01.27-02.26.13:635][ 83]LogSavePackage: Save=124.30ms
+[2019.01.27-02.26.13:635][ 83]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/Level3_V153D950E842F57A6F786552872DEE1BA9.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Maps/Level3_V1.umap'
+[2019.01.27-02.26.13:637][ 83]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Maps/Level3_V1.umap
+[2019.01.27-02.26.13:673][ 83]LogFileHelpers: Saving map 'Level3_V1' took 0.315
+[2019.01.27-02.26.13:675][ 83]Cmd: MAP LOAD FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Maps/MenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.27-02.26.13:675][ 83]LightingResults: New page: Lighting Build
+[2019.01.27-02.26.13:676][ 83]LoadErrors: New page: Loading map: MenuMap.umap
+[2019.01.27-02.26.13:716][ 83]MapCheck: New page: Map Check
+[2019.01.27-02.26.13:716][ 83]LightingResults: New page: Lighting Build
+[2019.01.27-02.26.13:742][ 83]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000214fe1f8800, Size=1384
+[2019.01.27-02.26.13:742][ 83]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000214cd514f00, Size=1384
+[2019.01.27-02.26.13:742][ 83]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000214491feab0, Size=4
+[2019.01.27-02.26.13:742][ 83]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002140731dd00, Size=1392
+[2019.01.27-02.26.13:743][ 83]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000214b817b858, Size=40
+[2019.01.27-02.26.13:743][ 83]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000214b817af48, Size=40
+[2019.01.27-02.26.13:743][ 83]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002148559fb28, Size=40
+[2019.01.27-02.26.13:751][ 83]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.27-02.26.13:803][ 83]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.27-02.26.13:918][ 83]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 114.79ms to complete.
+[2019.01.27-02.26.13:918][ 83]LogFileHelpers: Loading map 'MenuMap' took 0.244
+[2019.01.27-02.26.15:098][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-02.26.15:211][201]AssetReimport: New page: Outstanding source content changes 02:26:15
+[2019.01.27-02.26.15:292][201]LogEditorFactories: Performing atomic reimport of [C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/SparkMask_001.png]
+[2019.01.27-02.26.15:292][201]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/SparkMask_001.png)
+[2019.01.27-02.26.15:385][201]LogEditorFactories: -- imported successfully
+[2019.01.27-02.26.15:492][202]LogEditorFactories: Performing atomic reimport of [C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark006.png]
+[2019.01.27-02.26.15:493][202]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark006.png)
+[2019.01.27-02.26.15:600][202]LogEditorFactories: -- imported successfully
+[2019.01.27-02.26.15:713][203]LogEditorFactories: Performing atomic reimport of [C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark005.png]
+[2019.01.27-02.26.15:713][203]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark005.png)
+[2019.01.27-02.26.15:808][203]LogEditorFactories: -- imported successfully
+[2019.01.27-02.26.15:947][204]LogEditorFactories: Performing atomic reimport of [C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark004.png]
+[2019.01.27-02.26.15:947][204]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark004.png)
+[2019.01.27-02.26.16:044][204]LogEditorFactories: -- imported successfully
+[2019.01.27-02.26.16:176][205]LogEditorFactories: Performing atomic reimport of [C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark003.png]
+[2019.01.27-02.26.16:176][205]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark003.png)
+[2019.01.27-02.26.16:273][205]LogEditorFactories: -- imported successfully
+[2019.01.27-02.26.16:388][206]LogEditorFactories: Performing atomic reimport of [C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark002.png]
+[2019.01.27-02.26.16:388][206]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark002.png)
+[2019.01.27-02.26.16:501][206]LogEditorFactories: -- imported successfully
+[2019.01.27-02.26.16:601][207]LogEditorFactories: Performing atomic reimport of [C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark001.png]
+[2019.01.27-02.26.16:602][207]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark001.png)
+[2019.01.27-02.26.16:706][207]LogEditorFactories: -- imported successfully
+[2019.01.27-02.26.16:789][208]LogSavePackage: Save=42.02ms
+[2019.01.27-02.26.16:789][208]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/SparkMask_001CC24173441AFA0C5175398A82D8A0602.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/SparkMask_001.uasset'
+[2019.01.27-02.26.16:791][208]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/SparkMask_001.uasset
+[2019.01.27-02.26.16:800][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Sparks/spark006" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark006.uasset" SILENT=true
+[2019.01.27-02.26.16:849][208]LogSavePackage: Save=41.03ms
+[2019.01.27-02.26.16:849][208]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/spark006EEA46FC3408F8EA1AB531DBE39E9C5DE.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark006.uasset'
+[2019.01.27-02.26.16:851][208]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark006.uasset
+[2019.01.27-02.26.16:861][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Sparks/spark005" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark005.uasset" SILENT=true
+[2019.01.27-02.26.16:905][208]LogSavePackage: Save=35.81ms
+[2019.01.27-02.26.16:905][208]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/spark005F2B186F6468EF89EBEEC808C92DFFA2C.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark005.uasset'
+[2019.01.27-02.26.16:907][208]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark005.uasset
+[2019.01.27-02.26.16:917][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Sparks/spark004" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark004.uasset" SILENT=true
+[2019.01.27-02.26.16:964][208]LogSavePackage: Save=40.54ms
+[2019.01.27-02.26.16:964][208]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/spark00494D5ACA940130B5CB69FBDBDB6951838.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark004.uasset'
+[2019.01.27-02.26.16:968][208]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark004.uasset
+[2019.01.27-02.26.16:977][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Sparks/spark003" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark003.uasset" SILENT=true
+[2019.01.27-02.26.17:023][208]LogSavePackage: Save=38.60ms
+[2019.01.27-02.26.17:023][208]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/spark0037721EDBE481C1EAD8F67DD9C9E9DBDFD.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark003.uasset'
+[2019.01.27-02.26.17:026][208]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark003.uasset
+[2019.01.27-02.26.17:037][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Sparks/spark002" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark002.uasset" SILENT=true
+[2019.01.27-02.26.17:090][208]LogSavePackage: Save=45.45ms
+[2019.01.27-02.26.17:090][208]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/spark00216B0BC5C4C253056D0E9428397D1E541.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark002.uasset'
+[2019.01.27-02.26.17:092][208]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark002.uasset
+[2019.01.27-02.26.17:102][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Sparks/spark001" FILE="../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark001.uasset" SILENT=true
+[2019.01.27-02.26.17:149][208]LogSavePackage: Save=40.00ms
+[2019.01.27-02.26.17:150][208]LogSavePackage: Moving '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Saved/spark001EE850A4048EDE8BC57D9A8A293754828.tmp' to '../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark001.uasset'
+[2019.01.27-02.26.17:151][208]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark001.uasset
+[2019.01.27-02.26.20:301][365]AssetReimport: Reimported asset SparkMask_001 from C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/SparkMask_001.png.
+[2019.01.27-02.26.20:301][365]AssetReimport: Reimported asset spark006 from C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark006.png.
+[2019.01.27-02.26.20:301][365]AssetReimport: Reimported asset spark005 from C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark005.png.
+[2019.01.27-02.26.20:301][365]AssetReimport: Reimported asset spark004 from C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark004.png.
+[2019.01.27-02.26.20:301][365]AssetReimport: Reimported asset spark003 from C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark003.png.
+[2019.01.27-02.26.20:301][365]AssetReimport: Reimported asset spark002 from C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark002.png.
+[2019.01.27-02.26.20:301][365]AssetReimport: Reimported asset spark001 from C:/Users/bs18abb/Documents/Unreal Projects/BirdsOfAFeather/Content/Particles/Sparks/spark001.png.
