@@ -1,0 +1,2 @@
+C:\Users\Ben Sheldon\Documents\GitHub\BirdsOfAFeather\Plugins\Wwise\Source\AkAudio\AkAudio.Build.cs
+C:\Users\Ben Sheldon\Documents\GitHub\BirdsOfAFeather\Plugins\Wwise\Source\AudiokineticTools\AudiokineticTools.Build.cs
